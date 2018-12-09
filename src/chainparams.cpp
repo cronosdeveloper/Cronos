@@ -161,13 +161,13 @@ public:
         genesis.hashPrevBlock = 0;
         genesis.hashMerkleRoot = genesis.BuildMerkleTree();
         genesis.nVersion = 1;
-        genesis.nTime = 1542745350;
+        genesis.nTime = 1544388263;
         genesis.nBits = 0x1e0ffff0;
-        genesis.nNonce = 4064197;
+        genesis.nNonce = 5114946;
 
         hashGenesisBlock = genesis.GetHash();
-        assert(hashGenesisBlock == uint256("0x001"));
-        assert(genesis.hashMerkleRoot == uint256("0x001"));
+        assert(hashGenesisBlock == uint256("0x000008c28c856cdde7de27681c81908d07b059e1c9a2d64e9a360db8959b494b"));
+        assert(genesis.hashMerkleRoot == uint256("0x6d33a576a7c906b8d53ea226de667d2ec30883574a4c4306c81a2c3f4275cc48"));
 
         vSeeds.push_back(CDNSSeedData("seed.cronoscoin.online", "seed.cronoscoin.online"));     // Primary DNS Seeder 
 
@@ -193,7 +193,7 @@ public:
         nPoolMaxTransactions = 3;
         strSporkKey = "0440982d7ee3ddf12b012a7c8068db7847a71cd39f0232880b6d05374dd2cacedb5cd3bfe903fab870da708c79376b6886dc4873ff1b37c2f243f409fada5dfcb3";
         strObfuscationPoolDummyAddress = "CC1m3jBjJeZtMMK48X7HQ852ANMo6RUQ74";
-        nStartMasternodePayments = 1542745350;
+        nStartMasternodePayments = 1544388263;
 
         /** Zerocoin */
         zerocoinModulus = "25195908475657893494027183240048398571429282126204032027777137836043662020707595556264018525880784"
@@ -262,14 +262,10 @@ public:
         genesis.nNonce = 2402015;
         
         hashGenesisBlock = genesis.GetHash();
-        assert(hashGenesisBlock == uint256("0x919d76d43ae8ea48f1b1c136d14216d93b49c0695e1cdb7f0af3d0ed36371e7f"));
+        assert(hashGenesisBlock == uint256("0xa849f259ab8fbc1cabed1f47d83fd7bfe6a08ac81d3944db6a3684f4598fa86f"));
 
         vFixedSeeds.clear();
         vSeeds.clear();
-        vSeeds.push_back(CDNSSeedData("fuzzbawls.pw", "pivx-testnet.seed.fuzzbawls.pw"));
-        vSeeds.push_back(CDNSSeedData("fuzzbawls.pw", "pivx-testnet.seed2.fuzzbawls.pw"));
-        vSeeds.push_back(CDNSSeedData("s3v3nh4cks.ddns.net", "s3v3nh4cks.ddns.net"));
-        vSeeds.push_back(CDNSSeedData("88.198.192.110", "88.198.192.110"));
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 139); // Testnet cronos addresses start with 'x' or 'y'
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1, 19);  // Testnet cronos script addresses start with '8' or '9'
@@ -334,7 +330,7 @@ public:
         hashGenesisBlock = genesis.GetHash();
         nDefaultPort = 51476;
 
-        assert(hashGenesisBlock == uint256("0xc048c8c32956c9097c77b7dcb5b40cd9e28f75053de617f9ccf76f818c9f9cdc"));
+        assert(hashGenesisBlock == uint256("0d481b1af9b4286b8bc7ad8bb1ae438979ee804126b3608cd67ba367455eee578"));
 
         vFixedSeeds.clear(); //! Testnet mode doesn't have any fixed seeds.
         vSeeds.clear();      //! Testnet mode doesn't have any DNS seeds.
