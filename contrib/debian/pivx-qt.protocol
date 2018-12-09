@@ -1,6 +1,6 @@
 [Protocol]
-exec=pivx-qt '%u'
-protocol=pivx
+exec=cronos-qt '%u'
+protocol=cronos
 input=none
 output=none
 helper=true

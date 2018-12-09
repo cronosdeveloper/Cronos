@@ -56,7 +56,7 @@ static char *bitcoin32[] = {
 "b  c #5B4B7B",
 "n  c #5B4B7D",
 "m  c #5C4B7D",
-"M  c #5C4C7C",
+"M  c #51536D",
 "N  c #5D4C7C",
 "B  c #5C4D7C",
 "V  c #5F4F7F",

@@ -1,19 +1,19 @@
 [Unit]
-Description=PIVX's distributed currency daemon
+Description=Cronos's distributed currency daemon
 After=network.target
 
 [Service]
-User=pivx
-Group=pivx
+User=cronos
+Group=cronos
 
 Type=forking
-PIDFile=/var/lib/pivxd/pivxd.pid
+PIDFile=/var/lib/cronosd/cronosd.pid
 
-ExecStart=/usr/bin/pivxd -daemon -pid=/var/lib/pivxd/pivxd.pid \
-          -conf=/etc/pivx/pivx.conf -datadir=/var/lib/pivxd
+ExecStart=/usr/bin/cronosd -daemon -pid=/var/lib/cronosd/cronosd.pid \
+          -conf=/etc/cronos/cronos.conf -datadir=/var/lib/cronosd
 
-ExecStop=-/usr/bin/pivx-cli -conf=/etc/pivx/pivx.conf \
-         -datadir=/var/lib/pivxd stop
+ExecStop=-/usr/bin/cronos-cli -conf=/etc/cronos/cronos.conf \
+         -datadir=/var/lib/cronosd stop
 
 Restart=always
 PrivateTmp=true
