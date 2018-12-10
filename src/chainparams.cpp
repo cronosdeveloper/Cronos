@@ -115,7 +115,7 @@ public:
         vAlertPubKey = ParseHex("04eae487bcf4e7dd6e0ccb62e085d31b36feac278f03075d77b479d18855a3cf385d465e22549b07491f1b3a5c6d0478fb2bcdb94f54bd8b7b3ab43eb31b704f6d");
         nDefaultPort = 31304;
         bnProofOfWorkLimit = ~uint256(0) >> 20; // Cronos starting difficulty is 1 / 2^12
-        nSubsidyHalvingInterval = 250000;
+        nSubsidyHalvingInterval = 20000;
         nMaxReorganizationDepth = 100;
         nEnforceBlockUpgradeMajority = 750;
         nRejectBlockOutdatedMajority = 950;

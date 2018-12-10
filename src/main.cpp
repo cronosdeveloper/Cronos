@@ -1800,36 +1800,15 @@ int64_t GetBlockValue(int nHeight)
 
     int64_t nSubsidy = 0;
     if (nHeight == 0) {
-        nSubsidy = 15000000 * COIN;
-    } else if (nHeight < 15000 && nHeight > 0) {
+        nSubsidy = 5000000 * COIN;
+    } else if (nHeight <= 20000 && nHeight > 0) {
         nSubsidy = 250 * COIN;
-    } else if (nHeight < 30000 && nHeight >= 15000) {
-        nSubsidy = 200 * COIN;
-    } else if (nHeight < 50000 && nHeight >= 30000) {
-        nSubsidy = 150 * COIN;
-    } else if (nHeight < 100000 && nHeight >= 50000) {
-        nSubsidy = 125 * COIN;
-    } else if (nHeight < 150000 && nHeight >= 100000) {
-        nSubsidy = 100 * COIN;
-    } else if (nHeight < 200000 && nHeight >= 150000) {
-        nSubsidy = 80 * COIN;
-    } else if (nHeight < 250000 && nHeight >= 200000) {
-        nSubsidy = 60 * COIN;
-    } else if (nHeight < 500000 && nHeight >= 250000) {
-        nSubsidy = 50 * COIN;
-    } else if (nHeight < 750000 && nHeight >= 500000) {
-        nSubsidy = 40 * COIN;
-    } else if (nHeight < 1000000 && nHeight >= 750000) {
-        nSubsidy = 30 * COIN;
-    } else if (nHeight < 1250000 && nHeight >= 1000000) {
-        nSubsidy = 22 * COIN;
     } else {
-        int reductions = (nHeight / Params().SubsidyHalvingInterval()) - 5;
-        nSubsidy = 22 * COIN;
+        int reductions = (nHeight - 1) / Params().SubsidyHalvingInterval();
+        nSubsidy = 250 * COIN;
 
-        // Subsidy is cut by 20% ever 250,000 blocks which will occur approximately every 347 days
         for(int i = 0; i <= reductions; i++){
-            nSubsidy *= 0.8;
+            nSubsidy *= 0.9;
         }
     }
     return nSubsidy;
