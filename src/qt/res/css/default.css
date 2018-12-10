@@ -64,7 +64,7 @@ WalletFrame {
     }
     
     QToolBar {
-    background-color: qlineargradient(y1:0, y2: 1, stop: 0 #2090C0, stop: 0.75 #2090C0, stop: 0.99 #ffffff, stop: 1 #ffffff);
+    background-color: qlineargradient(y1:0, y2: 1, stop: 0 #24519C, stop: 0.75 #24519C, stop: 0.99 #ffffff, stop: 1 #ffffff);
     border:0px solid #333;
     padding:1;
     margin:0;
@@ -73,7 +73,7 @@ WalletFrame {
     
     QToolBar > QToolButton {
     Alignment: left;
-    background-color: #2090C0;
+    background-color: #24519C;
     selection-background-color:transparent;
     border:0.5px solid #888;
     border-left: 0px;
@@ -82,19 +82,19 @@ WalletFrame {
     min-height:2.5em;
     padding: 0em 0em;
     font-size: 11px;
-    color:#aaa;
+    color:#fff;
     width: 80px;
     height: 60px;
     }
     
     QToolBar > QToolButton:checked {
-    background-color: qlineargradient(x1:0, x2: 1, stop: 0 #ffffff, stop: 0.07 #ffffff, stop: 0.0701 #2090C0, stop: 1 #2090C0);
+    background-color: qlineargradient(x1:0, x2: 1, stop: 0 #ffffff, stop: 0.07 #ffffff, stop: 0.0701 #24519C, stop: 1 #24519C);
     color:#fff;
     }
     
     /* QToolBar > QToolButton:hover:!selected { */
     QToolBar > QToolButton:hover {
-    background-color: qlineargradient(x1:0, x2: 1, stop: 0 #ffffff, stop: 0.07 #ffffff, stop: 0.0701 #2090C0, stop: 1 #2090C0);
+    background-color: qlineargradient(x1:0, x2: 1, stop: 0 #ffffff, stop: 0.07 #ffffff, stop: 0.0701 #24519C, stop: 1 #24519C);
     color:#fff;
     }
     
@@ -103,7 +103,7 @@ WalletFrame {
     }
     
     QToolBar > QToolButton:pressed {
-    background-color: qlineargradient(x1:0, x2: 1, stop: 0 #00a300, stop: 0.07 #00a300, stop: 0.0701 #2090C0, stop: 1 #2090C0);
+    background-color: qlineargradient(x1:0, x2: 1, stop: 0 #00a300, stop: 0.07 #00a300, stop: 0.0701 #24519C, stop: 1 #24519C);
     color:#fff;
     }
     
@@ -913,7 +913,7 @@ WalletFrame {
     
     QLabel#labelOverviewHeaderRight {
     qproperty-alignment: 'AlignVCenter | AlignRight';
-    background-image: url(':/images/pivx_logo_horizontal');
+    background-image: url(':/images/cronos_logo_horizontal');
     background-repeat: no-repeat;
     }
     
