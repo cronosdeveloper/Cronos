@@ -20,7 +20,7 @@ Cronos core
 
 ### PoS Rewards Breakdown
 
-## Rewards will be reduced by 10% every 20,000 Blocks.
+Rewards will be reduced by 10% every 20,000 Blocks.
 
 <table>
 <th>Block Height</th><th>Reward</th><th>Masternodes</th><th>Stakers</th>
