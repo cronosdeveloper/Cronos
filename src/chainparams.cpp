@@ -170,6 +170,9 @@ public:
         assert(genesis.hashMerkleRoot == uint256("0x6d33a576a7c906b8d53ea226de667d2ec30883574a4c4306c81a2c3f4275cc48"));
 
         vSeeds.push_back(CDNSSeedData("seed.cronoscoin.online", "seed.cronoscoin.online"));     // Primary DNS Seeder 
+        vSeeds.push_back(CDNSSeedData("1", "95.179.148.144"));
+        vSeeds.push_back(CDNSSeedData("2", "95.179.139.63"));
+        vSeeds.push_back(CDNSSeedData("3", "45.32.184.167"));
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 28);
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1, 122);
