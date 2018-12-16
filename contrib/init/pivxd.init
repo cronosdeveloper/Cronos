@@ -1,31 +1,31 @@
 #!/bin/bash
 #
-#  pivxd The PIVX core server.
+#  cronosd The Cronos core server.
 #
 #
 # chkconfig: 345 80 20
-# description: pivxd
-# processname: pivxd
+# description: cronosd
+# processname: cronosd
 #
 
 # Source function library.
 . /etc/init.d/functions
 
-# you can override defaults in /etc/sysconfig/pivxd, see below
-if [ -f /etc/sysconfig/pivxd ]; then
-        . /etc/sysconfig/pivxd
+# you can override defaults in /etc/sysconfig/cronosd, see below
+if [ -f /etc/sysconfig/cronosd ]; then
+        . /etc/sysconfig/cronosd
 fi
 
 RETVAL=0
 
-prog=pivxd
-# you can override the lockfile via BITCOIND_LOCKFILE in /etc/sysconfig/pivxd
-lockfile=${BITCOIND_LOCKFILE-/var/lock/subsys/pivxd}
+prog=cronosd
+# you can override the lockfile via BITCOIND_LOCKFILE in /etc/sysconfig/cronosd
+lockfile=${BITCOIND_LOCKFILE-/var/lock/subsys/cronosd}
 
-# pivxd defaults to /usr/bin/pivxd, override with BITCOIND_BIN
-bitcoind=${BITCOIND_BIN-/usr/bin/pivxd}
+# cronosd defaults to /usr/bin/cronosd, override with BITCOIND_BIN
+bitcoind=${BITCOIND_BIN-/usr/bin/cronosd}
 
-# pivxd opts default to -disablewallet, override with BITCOIND_OPTS
+# cronosd opts default to -disablewallet, override with BITCOIND_OPTS
 bitcoind_opts=${BITCOIND_OPTS}
 
 start() {

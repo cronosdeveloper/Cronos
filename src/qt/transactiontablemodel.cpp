@@ -1,6 +1,7 @@
 // Copyright (c) 2011-2014 The Bitcoin developers
 // Copyright (c) 2014-2016 The Dash developers
 // Copyright (c) 2016-2018 The PIVX developers
+// Copyright (c) 2018 The Cronos developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -344,9 +345,9 @@ QString TransactionTableModel::formatTxType(const TransactionRecord* wtx) const
     case TransactionRecord::SendToSelf:
         return tr("Payment to yourself");
     case TransactionRecord::StakeMint:
-        return tr("PIV Stake");
-    case TransactionRecord::StakeZPIV:
-        return tr("zPIV Stake");
+        return tr("CRS Stake");
+    case TransactionRecord::StakeZCRS:
+        return tr("zCRS Stake");
     case TransactionRecord::Generated:
         return tr("Mined");
     case TransactionRecord::ObfuscationDenominate:
@@ -360,15 +361,15 @@ QString TransactionTableModel::formatTxType(const TransactionRecord* wtx) const
     case TransactionRecord::Obfuscated:
         return tr("Obfuscated");
     case TransactionRecord::ZerocoinMint:
-        return tr("Converted PIV to zPIV");
+        return tr("Converted CRS to zCRS");
     case TransactionRecord::ZerocoinSpend:
-        return tr("Spent zPIV");
+        return tr("Spent zCRS");
     case TransactionRecord::RecvFromZerocoinSpend:
-        return tr("Received PIV from zPIV");
-    case TransactionRecord::ZerocoinSpend_Change_zPiv:
-        return tr("Minted Change as zPIV from zPIV Spend");
+        return tr("Received CRS from zCRS");
+    case TransactionRecord::ZerocoinSpend_Change_zCrs:
+        return tr("Minted Change as zCRS from zCRS Spend");
     case TransactionRecord::ZerocoinSpend_FromMe:
-        return tr("Converted zPIV to PIV");
+        return tr("Converted zCRS to CRS");
 
     default:
         return QString();
@@ -380,7 +381,7 @@ QVariant TransactionTableModel::txAddressDecoration(const TransactionRecord* wtx
     switch (wtx->type) {
     case TransactionRecord::Generated:
     case TransactionRecord::StakeMint:
-    case TransactionRecord::StakeZPIV:
+    case TransactionRecord::StakeZCRS:
     case TransactionRecord::MNReward:
         return QIcon(":/icons/tx_mined");
     case TransactionRecord::RecvWithObfuscation:
@@ -423,10 +424,10 @@ QString TransactionTableModel::formatTxToAddress(const TransactionRecord* wtx, b
     case TransactionRecord::SendToOther:
         return QString::fromStdString(wtx->address) + watchAddress;
     case TransactionRecord::ZerocoinMint:
-    case TransactionRecord::ZerocoinSpend_Change_zPiv:
-        return tr("Anonymous (zPIV Transaction)");
-    case TransactionRecord::StakeZPIV:
-        return tr("Anonymous (zPIV Stake)");
+    case TransactionRecord::ZerocoinSpend_Change_zCrs:
+        return tr("Anonymous (zCRS Transaction)");
+    case TransactionRecord::StakeZCRS:
+        return tr("Anonymous (zCRS Stake)");
     case TransactionRecord::SendToSelf:
     default:
         return tr("(n/a)") + watchAddress;

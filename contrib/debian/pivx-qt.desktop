@@ -1,12 +1,12 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=PIVX
-Comment=PIVX P2P Cryptocurrency
-Comment[fr]=PIVX, monnaie virtuelle cryptographique pair à pair
-Comment[tr]=PIVX, eşten eşe kriptografik sanal para birimi
-Exec=pivx-qt %u
+Name=Cronos
+Comment=Cronos P2P Cryptocurrency
+Comment[fr]=Cronos, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Cronos, eşten eşe kriptografik sanal para birimi
+Exec=cronos-qt %u
 Terminal=false
 Type=Application
-Icon=pivx128
-MimeType=x-scheme-handler/pivx;
+Icon=cronos128
+MimeType=x-scheme-handler/cronos;
 Categories=Office;Finance;

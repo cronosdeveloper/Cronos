@@ -338,7 +338,7 @@ public:
 
     bool isZeromintEnabled()
     {
-        return fEnableZeromint;
+        return false;
     }
 
     void setZPivAutoBackups(bool fEnabled)
