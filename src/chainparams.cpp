@@ -150,7 +150,7 @@ public:
          *     CTxOut(nValue=50.00000000, scriptPubKey=0xA9037BAC7050C479B121CF)
          *   vMerkleTree: e0028e
          */
-        const char* pszTimestamp = "Trump chief of staff John Kelly to leave White House job";
+        const char* pszTimestamp = "Crypto Markets Bounce on Bitcoin’s All-Time High Anniversary";
         CMutableTransaction txNew;
         txNew.vin.resize(1);
         txNew.vout.resize(1);
@@ -161,7 +161,7 @@ public:
         genesis.hashPrevBlock = 0;
         genesis.hashMerkleRoot = genesis.BuildMerkleTree();
         genesis.nVersion = 1;
-        genesis.nTime = 1544388263;
+        genesis.nTime = 1545759405;
         genesis.nBits = 0x1e0ffff0;
         genesis.nNonce = 5114946;
 
@@ -196,7 +196,7 @@ public:
         nPoolMaxTransactions = 3;
         strSporkKey = "042b5dde8d4a8d99976c28927b71893ed9da7eeabd9e2a41979cd30b102afdb4140a4532bf2572e46c40a96f044414d2c3f0f4ac2aa453472a97cd57b86b66a78a";
         strObfuscationPoolDummyAddress = "CC1m3jBjJeZtMMK48X7HQ852ANMo6RUQ74";
-        nStartMasternodePayments = 1544388263;
+        nStartMasternodePayments = 1545759405;
 
         /** Zerocoin */
         zerocoinModulus = "25195908475657893494027183240048398571429282126204032027777137836043662020707595556264018525880784"
