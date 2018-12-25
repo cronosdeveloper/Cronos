@@ -27,8 +27,8 @@ int nSubmittedFinalBudget;
 
 int GetBudgetPaymentCycleBlocks()
 {
-    // Amount of blocks in a months period of time (using 1 minutes per) = (60*24*30)
-    if (Params().NetworkID() == CBaseChainParams::MAIN) return 43200;
+    // Amount of blocks in a weeks period of time (using 2 minutes per) = (30*24*7)
+    if (Params().NetworkID() == CBaseChainParams::MAIN) return 5040;
     //for testing purposes
 
     return 144; //ten times per day

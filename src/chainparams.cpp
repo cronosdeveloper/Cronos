@@ -128,7 +128,7 @@ public:
         nMaxMoneyOut = 21000000 * COIN;
 
         /** Height or Time Based Activations **/
-        nLastPOWBlock = 250;
+        nLastPOWBlock = 150;
         nModifierUpdateBlock = 0;
         nZerocoinStartHeight = 2147483647;
         nZerocoinStartTime = 0;
@@ -150,7 +150,7 @@ public:
          *     CTxOut(nValue=50.00000000, scriptPubKey=0xA9037BAC7050C479B121CF)
          *   vMerkleTree: e0028e
          */
-        const char* pszTimestamp = "Trump chief of staff John Kelly to leave White House job";
+        const char* pszTimestamp = "Crypto Markets Bounce on Bitcoin’s All-Time High Anniversary";
         CMutableTransaction txNew;
         txNew.vin.resize(1);
         txNew.vout.resize(1);
@@ -161,13 +161,13 @@ public:
         genesis.hashPrevBlock = 0;
         genesis.hashMerkleRoot = genesis.BuildMerkleTree();
         genesis.nVersion = 1;
-        genesis.nTime = 1544388263;
+        genesis.nTime = 1545759405;
         genesis.nBits = 0x1e0ffff0;
-        genesis.nNonce = 5114946;
+        genesis.nNonce = 5234019;
 
         hashGenesisBlock = genesis.GetHash();
-        assert(hashGenesisBlock == uint256("0x000008c28c856cdde7de27681c81908d07b059e1c9a2d64e9a360db8959b494b"));
-        assert(genesis.hashMerkleRoot == uint256("0x6d33a576a7c906b8d53ea226de667d2ec30883574a4c4306c81a2c3f4275cc48"));
+        assert(hashGenesisBlock == uint256("0x00000fb5311af216ca17b239c9a6a4cd2f6e48cf29128fb637c9fd6b6c358cf6"));
+        assert(genesis.hashMerkleRoot == uint256("0x41e77123e2fd38c7a6c1eb832fb88e65cd7d8439f5f454e4c5a3f062a71df89c"));
 
         vSeeds.push_back(CDNSSeedData("seed.cronoscoin.online", "seed.cronoscoin.online"));     // Primary DNS Seeder 
         vSeeds.push_back(CDNSSeedData("1", "95.179.148.144"));
@@ -196,7 +196,7 @@ public:
         nPoolMaxTransactions = 3;
         strSporkKey = "042b5dde8d4a8d99976c28927b71893ed9da7eeabd9e2a41979cd30b102afdb4140a4532bf2572e46c40a96f044414d2c3f0f4ac2aa453472a97cd57b86b66a78a";
         strObfuscationPoolDummyAddress = "CC1m3jBjJeZtMMK48X7HQ852ANMo6RUQ74";
-        nStartMasternodePayments = 1544388263;
+        nStartMasternodePayments = 1545759405;
 
         /** Zerocoin */
         zerocoinModulus = "25195908475657893494027183240048398571429282126204032027777137836043662020707595556264018525880784"
@@ -265,7 +265,7 @@ public:
         genesis.nNonce = 2402015;
         
         hashGenesisBlock = genesis.GetHash();
-        assert(hashGenesisBlock == uint256("0xa849f259ab8fbc1cabed1f47d83fd7bfe6a08ac81d3944db6a3684f4598fa86f"));
+        assert(hashGenesisBlock == uint256("0x3dd33ad9f87f302fb83488403d7b65becfc8108c68e04df813440d6282986be9"));
 
         vFixedSeeds.clear();
         vSeeds.clear();
@@ -333,7 +333,7 @@ public:
         hashGenesisBlock = genesis.GetHash();
         nDefaultPort = 51476;
 
-        assert(hashGenesisBlock == uint256("0d481b1af9b4286b8bc7ad8bb1ae438979ee804126b3608cd67ba367455eee578"));
+        assert(hashGenesisBlock == uint256("9c38e46661eb8e2a2869d834e57ed40aae16d17980056f493fae44db7d6f42f0"));
 
         vFixedSeeds.clear(); //! Testnet mode doesn't have any fixed seeds.
         vSeeds.clear();      //! Testnet mode doesn't have any DNS seeds.
