@@ -3,8 +3,8 @@ Cronos core
 
 ### Coin Specs
 <table>
-<tr><td>Max. supply</td><td>55,000,000 CRS</td></tr>
-<tr><td>Premine</td><td>5,000,000 CRS*</td></tr>
+<tr><td>Max. supply</td><td>50,500,000 + community-voted budgets CRS</td></tr>
+<tr><td>Premine</td><td>500,000 CRS (0,9%)</td></tr>
 <tr><td>Type</td><td>Proof of Stake</td></tr>
 <tr><td>Block Time</td><td>2 Minutes</td></tr>
 <tr><td>Min. staking age:</td><td>1 hour</td></tr>
@@ -15,7 +15,7 @@ Cronos core
 <table>
 <th colspan=4>Genesis Block</th>
 <tr><th>Block Height</th><th>Reward Amount</th></tr>
-<tr><td>1</td><td>5,000,000 CRS</td></tr>
+<tr><td>1</td><td>500,000 CRS</td></tr>
 </table>
 
 ### PoS Rewards Breakdown
