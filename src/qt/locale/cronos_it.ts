@@ -62,12 +62,12 @@
         <translation>Indirizzi di ricezione</translation>
     </message>
     <message>
-        <source>These are your CRS addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Questi sono gli indirizzi CRS per l'invio di pagamenti. Controlla sempre l'importo e l'indirizzo di ricezione prima di inviare valuta.</translation>
+        <source>These are your CRSX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Questi sono gli indirizzi CRSX per l'invio di pagamenti. Controlla sempre l'importo e l'indirizzo di ricezione prima di inviare valuta.</translation>
     </message>
     <message>
-        <source>These are your CRS addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Questi sono gli indirizzi CRS per la ricezione di pagamenti. Si raccomanda di utilizzare un indirizzo diverso per ogni transazione.</translation>
+        <source>These are your CRSX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Questi sono gli indirizzi CRSX per la ricezione di pagamenti. Si raccomanda di utilizzare un indirizzo diverso per ogni transazione.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,16 +176,16 @@
         <translation>Conferma cifratura portafoglio</translation>
     </message>
     <message>
-        <source>CRS will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your CRSs from being stolen by malware infecting your computer.</source>
-        <translation>CRS verrà ora chiuso per completare il processo di cifratura. Ricorda che crittografare il tuo portafoglio non protegge completamente i tuoi CRS dal furto da parte di software malevoli che potrebbero infettare il tuo computer.</translation>
+        <source>CRSX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your CRSXs from being stolen by malware infecting your computer.</source>
+        <translation>CRSX verrà ora chiuso per completare il processo di cifratura. Ricorda che crittografare il tuo portafoglio non protegge completamente i tuoi CRSX dal furto da parte di software malevoli che potrebbero infettare il tuo computer.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Confermi di voler crittografare il portafoglio?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CRS&lt;/b&gt;!</source>
-        <translation>Attenzione: Se crittografi il portafoglio e poi perdi la parola d'ordine, &lt;b&gt;PERDERAI TUTTI I TUOI CRS&lt;7b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CRSX&lt;/b&gt;!</source>
+        <translation>Attenzione: Se crittografi il portafoglio e poi perdi la parola d'ordine, &lt;b&gt;PERDERAI TUTTI I TUOI CRSX&lt;7b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -254,12 +254,12 @@
         <translation>Indirizzo:</translation>
     </message>
     <message>
-        <source>Enter a CRS Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Inserire un indirizzo CRS da crittografare utilizzando BIP 38. Inserire una password nel campo centrale. Cliccare su "cripta" per generare la chiave privata crittografata.</translation>
+        <source>Enter a CRSX Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Inserire un indirizzo CRSX da crittografare utilizzando BIP 38. Inserire una password nel campo centrale. Cliccare su "cripta" per generare la chiave privata crittografata.</translation>
     </message>
     <message>
-        <source>The CRS address to encrypt</source>
-        <translation>Indirizzo CRS da crittografare</translation>
+        <source>The CRSX address to encrypt</source>
+        <translation>Indirizzo CRSX da crittografare</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -290,8 +290,8 @@
         <translation>Copiare la firma corrente negli Appunti di sistema</translation>
     </message>
     <message>
-        <source>Encrypt the private key for this CRS address</source>
-        <translation>Crittografa la chiave privata per questo indirizzo CRS</translation>
+        <source>Encrypt the private key for this CRSX address</source>
+        <translation>Crittografa la chiave privata per questo indirizzo CRSX</translation>
     </message>
     <message>
         <source>Reset all fields</source>
@@ -433,8 +433,8 @@
         <translation>Espora la cronologia delle transazioni</translation>
     </message>
     <message>
-        <source>Privacy Actions for zCRS</source>
-        <translation>Operazioni di privacy per zCRS</translation>
+        <source>Privacy Actions for zCRSX</source>
+        <translation>Operazioni di privacy per zCRSX</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
@@ -645,16 +645,16 @@
         <translation>Schede degli strumenti</translation>
     </message>
     <message>
-        <source>CRS Core</source>
-        <translation>CRS Core</translation>
+        <source>CRSX Core</source>
+        <translation>CRSX Core</translation>
     </message>
     <message>
-        <source>Send coins to a CRS address</source>
-        <translation>Invia valuta all'indirizzo CRS</translation>
+        <source>Send coins to a CRSX address</source>
+        <translation>Invia valuta all'indirizzo CRSX</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and crs: URIs)</source>
-        <translation>Richiedi pagamenti (genera codici QR e crs: URIs)</translation>
+        <source>Request payments (generates QR codes and crsx: URIs)</source>
+        <translation>Richiedi pagamenti (genera codici QR e crsx: URIs)</translation>
     </message>
     <message>
         <source>&amp;Privacy</source>
@@ -669,24 +669,24 @@
         <translation>Esplora i masternodes</translation>
     </message>
     <message>
-        <source>&amp;About CRS Core</source>
-        <translation>&amp;Informazioni CRS Core</translation>
+        <source>&amp;About CRSX Core</source>
+        <translation>&amp;Informazioni CRSX Core</translation>
     </message>
     <message>
-        <source>Show information about CRS Core</source>
-        <translation>Visualizza informazioni su CRS Core</translation>
+        <source>Show information about CRSX Core</source>
+        <translation>Visualizza informazioni su CRSX Core</translation>
     </message>
     <message>
-        <source>Modify configuration options for CRS</source>
-        <translation>Modifica le opzioni di configurazione per CRS</translation>
+        <source>Modify configuration options for CRSX</source>
+        <translation>Modifica le opzioni di configurazione per CRSX</translation>
     </message>
     <message>
-        <source>Sign messages with your CRS addresses to prove you own them</source>
-        <translation>Firma i messaggi con i tuoi indirizzi CRS per dimostrare di essere il proprietario </translation>
+        <source>Sign messages with your CRSX addresses to prove you own them</source>
+        <translation>Firma i messaggi con i tuoi indirizzi CRSX per dimostrare di essere il proprietario </translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified CRS addresses</source>
-        <translation>Verifica i messaggi per assicurarsi che siano stati firmati con indirizzi CRS specifici</translation>
+        <source>Verify messages to ensure they were signed with specified CRSX addresses</source>
+        <translation>Verifica i messaggi per assicurarsi che siano stati firmati con indirizzi CRSX specifici</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -717,8 +717,8 @@
         <translation>Apri file di configurazione del Masternodo</translation>
     </message>
     <message>
-        <source>Open a CRS: URI or payment request</source>
-        <translation>Apri un CRS: URI o richiesta di pagamento</translation>
+        <source>Open a CRSX: URI or payment request</source>
+        <translation>Apri un CRSX: URI o richiesta di pagamento</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -729,16 +729,16 @@
         <translation>Finestra Block Explorer</translation>
     </message>
     <message>
-        <source>Show the CRS Core help message to get a list with possible CRS command-line options</source>
-        <translation>Mostra il messaggio di aiuto CRS Core per ottenere un elenco con le possibili opzioni di riga di comando CRS</translation>
+        <source>Show the CRSX Core help message to get a list with possible CRSX command-line options</source>
+        <translation>Mostra il messaggio di aiuto CRSX Core per ottenere un elenco con le possibili opzioni di riga di comando CRSX</translation>
     </message>
     <message>
-        <source>CRS Core client</source>
-        <translation>CRS Core</translation>
+        <source>CRSX Core client</source>
+        <translation>CRSX Core</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to CRS network</source>
-        <translation><numerusform>%n connessione attiva alla rete CRSIX</numerusform><numerusform>%n connessioni attive alla rete CRSIX</numerusform></translation>
+        <source>%n active connection(s) to CRSX network</source>
+        <translation><numerusform>%n connessione attiva alla rete CRSXIX</numerusform><numerusform>%n connessioni attive alla rete CRSXIX</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -888,8 +888,8 @@ MultiSend: %1</translation>
         <translation>Etichetta</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (crs.conf).</source>
-        <translation>Non tutte le transazioni verranno visualizzate. Per vedere tutte le transazioni è necessario aggiungere txindex=1 nel file di configurazione (crs.conf)</translation>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (crsx.conf).</source>
+        <translation>Non tutte le transazioni verranno visualizzate. Per vedere tutte le transazioni è necessario aggiungere txindex=1 nel file di configurazione (crsx.conf)</translation>
     </message>
 </context>
 <context>
@@ -1126,8 +1126,8 @@ MultiSend: %1</translation>
         <translation>Questa etichetta diventa rossa se uno dei destinatari riceve un importo inferiore a %1.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 ucrs per input.</source>
-        <translation>Può variare di +/- %1 uCRS per input.</translation>
+        <source>Can vary +/- %1 ucrsx per input.</source>
+        <translation>Può variare di +/- %1 uCRSX per input.</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1173,8 +1173,8 @@ MultiSend: %1</translation>
         <translation>Modifica indirizzo di invio</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid CRS address.</source>
-        <translation>L'indirizzo inserito "%1" non è un indirizzo CRS valido.</translation>
+        <source>The entered address "%1" is not a valid CRSX address.</source>
+        <translation>L'indirizzo inserito "%1" non è un indirizzo CRSX valido.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1219,16 +1219,16 @@ MultiSend: %1</translation>
         <translation>versione</translation>
     </message>
     <message>
-        <source>CRS Core</source>
-        <translation>CRS Core</translation>
+        <source>CRSX Core</source>
+        <translation>CRSX Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About CRS Core</source>
-        <translation>Informazioni su CRS Core</translation>
+        <source>About CRSX Core</source>
+        <translation>Informazioni su CRSX Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1274,16 +1274,16 @@ MultiSend: %1</translation>
         <translation>Benvenuto</translation>
     </message>
     <message>
-        <source>Welcome to CRS Core.</source>
-        <translation>Benvenuto in CRSIX Core.</translation>
+        <source>Welcome to CRSX Core.</source>
+        <translation>Benvenuto in CRSXIX Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where CRS Core will store its data.</source>
-        <translation>Essendo il primo avvio dell'applicazione, puoi scegliere dove CRS Core salverà i propri dati.</translation>
+        <source>As this is the first time the program is launched, you can choose where CRSX Core will store its data.</source>
+        <translation>Essendo il primo avvio dell'applicazione, puoi scegliere dove CRSX Core salverà i propri dati.</translation>
     </message>
     <message>
-        <source>CRS Core will download and store a copy of the CRS block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>CRS Core scaricherà e salverà una copia della blockchain CRS. Verranno salvati almeno %1GB di dati in questa cartella, che cresceranno nel tempo. In questa cartella verrà salvato anche il portafoglio.</translation>
+        <source>CRSX Core will download and store a copy of the CRSX block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>CRSX Core scaricherà e salverà una copia della blockchain CRSX. Verranno salvati almeno %1GB di dati in questa cartella, che cresceranno nel tempo. In questa cartella verrà salvato anche il portafoglio.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1294,8 +1294,8 @@ MultiSend: %1</translation>
         <translation>Utilizza una cartella dati personalizzata:</translation>
     </message>
     <message>
-        <source>CRS Core</source>
-        <translation>CRS Core</translation>
+        <source>CRSX Core</source>
+        <translation>CRSX Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1436,12 +1436,12 @@ MultiSend: %1</translation>
         <translation>Inserire indirizzo destinatario</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other CRS addresses after it matures.
-To Add: enter percentage to give and CRS address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other CRSX addresses after it matures.
+To Add: enter percentage to give and CRSX address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>MultiSend ti permette di inviare automaticamente ad una lista di indirizzi CRS fino al 100% delle ricompense di stake o masternodi, dopo che queste sono mature.
-Per Aggiunger: inserisci la percentuale da inviare e l'indirizzo CRS da aggiungere al vettore MultiSend.
+        <translation>MultiSend ti permette di inviare automaticamente ad una lista di indirizzi CRSX fino al 100% delle ricompense di stake o masternodi, dopo che queste sono mature.
+Per Aggiunger: inserisci la percentuale da inviare e l'indirizzo CRSX da aggiungere al vettore MultiSend.
 Per Eliminare: Inserisci l'indirizzo da eliminare e premi elimina.
 MultiSend non verrà attivato a meno che tu non prema su Attiva</translation>
     </message>
@@ -1671,12 +1671,12 @@ Per favore controlla l'indirizzo e riprova nuovamente.</translation>
         <translation>Configura Offuscamento</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 CRS</source>
-        <translation>Usa 2 masternodi diversi per mescolare fino a 10000 CRS</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 CRSX</source>
+        <translation>Usa 2 masternodi diversi per mescolare fino a 10000 CRSX</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 CRS</source>
-        <translation>Usa 8 masternodi diversi per mixare fino a 10000 CRS</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 CRSX</source>
+        <translation>Usa 8 masternodi diversi per mixare fino a 10000 CRSX</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
@@ -1713,24 +1713,24 @@ Per favore controlla l'indirizzo e riprova nuovamente.</translation>
         <translation>Mappa la porta utilizzando &amp;UPnP</translation>
     </message>
     <message>
-        <source>Enable automatic minting of CRS units to zCRS</source>
-        <translation>Attiva il conio automatico di unità CRS in zCRS</translation>
+        <source>Enable automatic minting of CRSX units to zCRSX</source>
+        <translation>Attiva il conio automatico di unità CRSX in zCRSX</translation>
     </message>
     <message>
-        <source>Enable zCRS Automint</source>
-        <translation>Attiva Conio automatico zCRS</translation>
+        <source>Enable zCRSX Automint</source>
+        <translation>Attiva Conio automatico zCRSX</translation>
     </message>
     <message>
-        <source>Percentage of incoming CRS which get automatically converted to zCRS via Zerocoin Protocol (min: 10%)</source>
-        <translation>Percentuale di CRS in entrata che viene automaticamente convertita in zCRS attraverso il protocollo Zerocoin (min: 10%)</translation>
+        <source>Percentage of incoming CRSX which get automatically converted to zCRSX via Zerocoin Protocol (min: 10%)</source>
+        <translation>Percentuale di CRSX in entrata che viene automaticamente convertita in zCRSX attraverso il protocollo Zerocoin (min: 10%)</translation>
     </message>
     <message>
-        <source>Percentage of autominted zCRS</source>
-        <translation>Percentuale di zCRS Percentuale di zCRS da coniare automaticamente</translation>
+        <source>Percentage of autominted zCRSX</source>
+        <translation>Percentuale di zCRSX Percentuale di zCRSX da coniare automaticamente</translation>
     </message>
     <message>
-        <source>Preferred Automint zCRS Denomination</source>
-        <translation>Denominazione preferita conio automatico zCRS</translation>
+        <source>Preferred Automint zCRSX Denomination</source>
+        <translation>Denominazione preferita conio automatico zCRSX</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1792,8 +1792,8 @@ Per favore controlla l'indirizzo e riprova nuovamente.</translation>
         <translation>Saldo totale, inclusi tutte le monete non disponibili.</translation>
     </message>
     <message>
-        <source>CRS Balance</source>
-        <translation>Bilancio CRS</translation>
+        <source>CRSX Balance</source>
+        <translation>Bilancio CRSX</translation>
     </message>
     <message>
         <source>Immature:</source>
@@ -1804,18 +1804,18 @@ Per favore controlla l'indirizzo e riprova nuovamente.</translation>
         <translation>Saldo corrente bloccato in indirizzi sola-lettura.</translation>
     </message>
     <message>
-        <source>Your current CRS balance, unconfirmed and immature transactions included</source>
-        <translation>Il tuo saldo CRS corrente, incluse le transazioni non confermate e non mature</translation>
+        <source>Your current CRSX balance, unconfirmed and immature transactions included</source>
+        <translation>Il tuo saldo CRSX corrente, incluse le transazioni non confermate e non mature</translation>
     </message>
     <message>
-        <source>zCRS Balance</source>
-        <translation>Bilancio zCRS</translation>
+        <source>zCRSX Balance</source>
+        <translation>Bilancio zCRSX</translation>
     </message>
     <message>
         <source>Mature: more than 20 confirmation and more than 1 mint of the same denomination after it was minted.
-These zCRS are spendable.</source>
+These zCRSX are spendable.</source>
         <translation>Maturi: più di 20 conferme e più di 1 conio della stessa denominazione dopo il conio.
-Questi zCRS sono spendibili.</translation>
+Questi zCRSX sono spendibili.</translation>
     </message>
     <message>
         <source>OVERVIEW</source>
@@ -1846,8 +1846,8 @@ Questi zCRS sono spendibili.</translation>
         <translation>Spendibili:</translation>
     </message>
     <message>
-        <source>Locked CRS or Masternode collaterals. These are excluded from zCRS minting.</source>
-        <translation>CRS bloccati o collaterali Masternodo. Questi sono esclusi dal conio di zCRS.</translation>
+        <source>Locked CRSX or Masternode collaterals. These are excluded from zCRSX minting.</source>
+        <translation>CRSX bloccati o collaterali Masternodo. Questi sono esclusi dal conio di zCRSX.</translation>
     </message>
     <message>
         <source>Locked:</source>
@@ -1858,18 +1858,18 @@ Questi zCRS sono spendibili.</translation>
         <translation>Non confermati:</translation>
     </message>
     <message>
-        <source>Your current zCRS balance, unconfirmed and immature zCRS included.</source>
-        <translation>Il tuo saldo zCRS corrente, inclusi zCRS non confermati e non maturi</translation>
+        <source>Your current zCRSX balance, unconfirmed and immature zCRSX included.</source>
+        <translation>Il tuo saldo zCRSX corrente, inclusi zCRSX non confermati e non maturi</translation>
     </message>
     <message>
         <source>Recent transactions</source>
         <translation>Transazioni recenti</translation>
     </message>
     <message>
-        <source>Current percentage of zCRS.
+        <source>Current percentage of zCRSX.
 If AutoMint is enabled this percentage will settle around the configured AutoMint percentage (default = 10%).
 </source>
-        <translation>Percentuale corrente di zCRS.
+        <translation>Percentuale corrente di zCRSX.
 Se il conio automatico è attivato questa percentuale si stabilizzerà all'incirca sulla percentuale stabilita per il conio automatico (percentuale prestabilita = 10%).
 </translation>
     </message>
@@ -1878,14 +1878,14 @@ Se il conio automatico è attivato questa percentuale si stabilizzerà all'incir
         <translation>AutoMint è attivo e impostato su</translation>
     </message>
     <message>
-        <source>To disable AutoMint add 'enablezeromint=0' in crs.conf.</source>
-        <translation>Per disabilitare il conio automatico aggiungi 'enablezeromint=0' in crs.conf.</translation>
+        <source>To disable AutoMint add 'enablezeromint=0' in crsx.conf.</source>
+        <translation>Per disabilitare il conio automatico aggiungi 'enablezeromint=0' in crsx.conf.</translation>
     </message>
     <message>
         <source>AutoMint is currently disabled.
-To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in crs.conf</source>
+To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in crsx.conf</source>
         <translation>Conio automatico è correntemente disattivato.
-Per attivare il Conio automatico cambiare 'enablezeromint=0' in 'enablezeromint=1' in crs.conf</translation>
+Per attivare il Conio automatico cambiare 'enablezeromint=0' in 'enablezeromint=1' in crsx.conf</translation>
     </message>
 </context>
 <context>
@@ -1933,12 +1933,12 @@ Per attivare il Conio automatico cambiare 'enablezeromint=0' in 'enablezeromint=
         <translation>0</translation>
     </message>
     <message>
-        <source>zCRS</source>
-        <translation>zCRS</translation>
+        <source>zCRSX</source>
+        <translation>zCRSX</translation>
     </message>
     <message>
-        <source>0.000 000 00 CRS</source>
-        <translation>0.000 000 00 CRS</translation>
+        <source>0.000 000 00 CRSX</source>
+        <translation>0.000 000 00 CRSX</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -1961,16 +1961,16 @@ Per attivare il Conio automatico cambiare 'enablezeromint=0' in 'enablezeromint=
         <translation>PRIVACY</translation>
     </message>
     <message>
-        <source>Enter an amount of CRS to convert to zCRS</source>
-        <translation>Immetti un importo di CRS da convertire in zCRS</translation>
+        <source>Enter an amount of CRSX to convert to zCRSX</source>
+        <translation>Immetti un importo di CRSX da convertire in zCRSX</translation>
     </message>
     <message>
-        <source>zCRS Control</source>
-        <translation>Controllo zCRS</translation>
+        <source>zCRSX Control</source>
+        <translation>Controllo zCRSX</translation>
     </message>
     <message>
-        <source>zCRS Selected:</source>
-        <translation>zCRS selezionati:</translation>
+        <source>zCRSX Selected:</source>
+        <translation>zCRSX selezionati:</translation>
     </message>
     <message>
         <source>Quantity Selected:</source>
@@ -1981,23 +1981,23 @@ Per attivare il Conio automatico cambiare 'enablezeromint=0' in 'enablezeromint=
         <translation>Spendi Zerocoin</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zCRS for spending</source>
-        <translation>zCRS disponibili disponibili per essere spesi (maturi e spendibili)</translation>
+        <source>Available (mature and spendable) zCRSX for spending</source>
+        <translation>zCRSX disponibili disponibili per essere spesi (maturi e spendibili)</translation>
     </message>
     <message>
         <source>Available Balance:</source>
         <translation>Bilancio Disponibile:</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zCRS for spending
+        <source>Available (mature and spendable) zCRSX for spending
 
-zCRS are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
-        <translation>zCRS disponibili disponibili per essere spesi (maturi e spendibili)
-Gli zCRS sono maturi quando hanno più di 20 conferme E più di 2 conii della stessa denominazione dopo che sono stati coniati</translation>
+zCRSX are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
+        <translation>zCRSX disponibili disponibili per essere spesi (maturi e spendibili)
+Gli zCRSX sono maturi quando hanno più di 20 conferme E più di 2 conii della stessa denominazione dopo che sono stati coniati</translation>
     </message>
     <message>
-        <source>0 zCRS</source>
-        <translation>0 zCRS</translation>
+        <source>0 zCRSX</source>
+        <translation>0 zCRSX</translation>
     </message>
     <message>
         <source>Pay &amp;To:</source>
@@ -2040,31 +2040,31 @@ Gli zCRS sono maturi quando hanno più di 20 conferme E più di 2 conii della st
         <translation>Statistiche Zerocoin:</translation>
     </message>
     <message>
-        <source>Total Balance including unconfirmed and immature zCRS</source>
-        <translation>Saldo totale inclusi zCRS non confermati e non maturi</translation>
+        <source>Total Balance including unconfirmed and immature zCRSX</source>
+        <translation>Saldo totale inclusi zCRSX non confermati e non maturi</translation>
     </message>
     <message>
         <source>Total Zerocoin  Balance:</source>
         <translation>Saldo totale Zerocoin:</translation>
     </message>
     <message>
-        <source>Show the current status of automatic zCRS minting.
+        <source>Show the current status of automatic zCRSX minting.
 
 To change the status (restart required):
-- enable: add 'enablezeromint=1' to crs.conf
-- disable: add 'enablezeromint=0' to crs.conf
+- enable: add 'enablezeromint=1' to crsx.conf
+- disable: add 'enablezeromint=0' to crsx.conf
 
 To change the percentage (no restart required):
-- menu Settings-&gt;Options-&gt;Percentage of autominted zCRS
+- menu Settings-&gt;Options-&gt;Percentage of autominted zCRSX
 
 </source>
-        <translation>Mostra lo stato corrente del conio automatico zCRS.
+        <translation>Mostra lo stato corrente del conio automatico zCRSX.
 Per cambiare lo stato (riavvio necessario):
-- attivato: aggiungi 'enablezeromint=1' a crs.conf
-- disattivato: aggiungi 'enablezeromint=0' a crs.conf
+- attivato: aggiungi 'enablezeromint=1' a crsx.conf
+- disattivato: aggiungi 'enablezeromint=0' a crsx.conf
 
 Per cambiare la percentuale (riavvio non necessario):
-- menu Impostazioni-&gt;Opzioni-&gt;Percentuale di zCRS da coniare automaticamente
+- menu Impostazioni-&gt;Opzioni-&gt;Percentuale di zCRSX da coniare automaticamente
 
 </translation>
     </message>
@@ -2209,8 +2209,8 @@ Per cambiare la percentuale (riavvio non necessario):
         <translation>Copia ammontare</translation>
     </message>
     <message>
-        <source>zCRS Mint</source>
-        <translation>Conio zCRS</translation>
+        <source>zCRSX Mint</source>
+        <translation>Conio zCRSX</translation>
     </message>
     <message>
         <source>AutoMint Status:</source>
@@ -2483,8 +2483,8 @@ Per cambiare la percentuale (riavvio non necessario):
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The CRS address to sign the message with</source>
-        <translation>L'indirizzo CRS per firmare il messaggio con</translation>
+        <source>The CRSX address to sign the message with</source>
+        <translation>L'indirizzo CRSX per firmare il messaggio con</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2507,16 +2507,16 @@ Per cambiare la percentuale (riavvio non necessario):
         <translation>Copiare la firma corrente negli Appunti di sistema</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this CRS address</source>
-        <translation>Firmare il messaggio per dimostrare di possedere questo indirizzo CRS</translation>
+        <source>Sign the message to prove you own this CRSX address</source>
+        <translation>Firmare il messaggio per dimostrare di possedere questo indirizzo CRSX</translation>
     </message>
     <message>
-        <source>The CRS address the message was signed with</source>
-        <translation>L'indirizzo CRS con cui è stato firmato il messaggio</translation>
+        <source>The CRSX address the message was signed with</source>
+        <translation>L'indirizzo CRSX con cui è stato firmato il messaggio</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified CRS address</source>
-        <translation>Verificare il messaggio per assicurarsi che sia stato firmato con l'indirizzo CRS specificato </translation>
+        <source>Verify the message to ensure it was signed with the specified CRSX address</source>
+        <translation>Verificare il messaggio per assicurarsi che sia stato firmato con l'indirizzo CRSX specificato </translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
@@ -2554,8 +2554,8 @@ Per cambiare la percentuale (riavvio non necessario):
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>CRS Core</source>
-        <translation>CRS Core</translation>
+        <source>CRSX Core</source>
+        <translation>CRSX Core</translation>
     </message>
     </context>
 <context>
@@ -2666,14 +2666,14 @@ Per cambiare la percentuale (riavvio non necessario):
     </message>
     </context>
 <context>
-    <name>ZCRSControlDialog</name>
+    <name>ZCRSXControlDialog</name>
     <message>
         <source>0</source>
         <translation>0</translation>
     </message>
     <message>
-        <source>zCRS</source>
-        <translation>zCRS</translation>
+        <source>zCRSX</source>
+        <translation>zCRSX</translation>
     </message>
     </context>
 <context>

@@ -62,12 +62,12 @@
         <translation>Direcciones de recepción</translation>
     </message>
     <message>
-        <source>These are your CRS addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Estas son sus direcciones de CRS para enviar pagos. Compruebe siempre la cantidad así como la dirección de destino antes de enviar moneda.</translation>
+        <source>These are your CRSX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Estas son sus direcciones de CRSX para enviar pagos. Compruebe siempre la cantidad así como la dirección de destino antes de enviar moneda.</translation>
     </message>
     <message>
-        <source>These are your CRS addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Estas son sus direcciones de CRS para recibir pagos. Es recomendable que use una dirección nueva para cada transacción.</translation>
+        <source>These are your CRSX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Estas son sus direcciones de CRSX para recibir pagos. Es recomendable que use una dirección nueva para cada transacción.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,16 +176,16 @@
         <translation>Confirmar encriptación del monedero</translation>
     </message>
     <message>
-        <source>CRS will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your CRSs from being stolen by malware infecting your computer.</source>
-        <translation>CRS se cerrará ahora para completar el proceso de encriptación. Recuerde que la encriptación no le protege completamente del robo de sus CRSs frente a malware que infecte su ordenador.</translation>
+        <source>CRSX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your CRSXs from being stolen by malware infecting your computer.</source>
+        <translation>CRSX se cerrará ahora para completar el proceso de encriptación. Recuerde que la encriptación no le protege completamente del robo de sus CRSXs frente a malware que infecte su ordenador.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>¿Está seguro de que quiere encriptar su monedero?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CRS&lt;/b&gt;!</source>
-        <translation>Advertencia: si encripta su monedero y pierde su clave de seguridad, ¡&lt;b&gt;PERDERÁ TODOS SUS CRS&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CRSX&lt;/b&gt;!</source>
+        <translation>Advertencia: si encripta su monedero y pierde su clave de seguridad, ¡&lt;b&gt;PERDERÁ TODOS SUS CRSX&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -254,12 +254,12 @@
         <translation>Dirección:</translation>
     </message>
     <message>
-        <source>Enter a CRS Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Ingrese una dirección CRS que le gustaría encriptar usando BIP 38. Ingrese una contraseña en el cuadro del medio. Presione encriptar para calcular la clave privada encriptada.</translation>
+        <source>Enter a CRSX Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Ingrese una dirección CRSX que le gustaría encriptar usando BIP 38. Ingrese una contraseña en el cuadro del medio. Presione encriptar para calcular la clave privada encriptada.</translation>
     </message>
     <message>
-        <source>The CRS address to encrypt</source>
-        <translation>La dirección CRS a encriptar</translation>
+        <source>The CRSX address to encrypt</source>
+        <translation>La dirección CRSX a encriptar</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -290,8 +290,8 @@
         <translation>Copiar la firma actual al portapapeles del sistema</translation>
     </message>
     <message>
-        <source>Encrypt the private key for this CRS address</source>
-        <translation>Cifrar la llave privada para esta dirección CRS</translation>
+        <source>Encrypt the private key for this CRSX address</source>
+        <translation>Cifrar la llave privada para esta dirección CRSX</translation>
     </message>
     <message>
         <source>Reset all fields</source>
@@ -530,8 +530,8 @@
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The CRS address to sign the message with</source>
-        <translation>Dirección CRS con la que firmar el mensaje</translation>
+        <source>The CRSX address to sign the message with</source>
+        <translation>Dirección CRSX con la que firmar el mensaje</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -554,8 +554,8 @@
         <translation>Copiar la firma actual al portapapeles del sistema</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this CRS address</source>
-        <translation>Firme el mensaje para probar que Ud. es el propietario de esta dirección CRS</translation>
+        <source>Sign the message to prove you own this CRSX address</source>
+        <translation>Firme el mensaje para probar que Ud. es el propietario de esta dirección CRSX</translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
@@ -645,7 +645,7 @@
     </message>
     </context>
 <context>
-    <name>ZCRSControlDialog</name>
+    <name>ZCRSXControlDialog</name>
     </context>
 <context>
     <name>cronos-core</name>

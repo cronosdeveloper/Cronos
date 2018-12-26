@@ -353,36 +353,36 @@ static const CRPCCommand vRPCCommands[] =
         {"hidden", "setmocktime", &setmocktime, true, false, false},
 
         /* Cronos features */
-        {"crs", "masternode", &masternode, true, true, false},
-        {"crs", "listmasternodes", &listmasternodes, true, true, false},
-        {"crs", "getmasternodecount", &getmasternodecount, true, true, false},
-        {"crs", "masternodeconnect", &masternodeconnect, true, true, false},
-        {"crs", "createmasternodebroadcast", &createmasternodebroadcast, true, true, false},
-        {"crs", "decodemasternodebroadcast", &decodemasternodebroadcast, true, true, false},
-        {"crs", "relaymasternodebroadcast", &relaymasternodebroadcast, true, true, false},
-        {"crs", "masternodecurrent", &masternodecurrent, true, true, false},
-        {"crs", "masternodedebug", &masternodedebug, true, true, false},
-        {"crs", "startmasternode", &startmasternode, true, true, false},
-        {"crs", "createmasternodekey", &createmasternodekey, true, true, false},
-        {"crs", "getmasternodeoutputs", &getmasternodeoutputs, true, true, false},
-        {"crs", "listmasternodeconf", &listmasternodeconf, true, true, false},
-        {"crs", "getmasternodestatus", &getmasternodestatus, true, true, false},
-        {"crs", "getmasternodewinners", &getmasternodewinners, true, true, false},
-        {"crs", "getmasternodescores", &getmasternodescores, true, true, false},
-        {"crs", "mnbudget", &mnbudget, true, true, false},
-        {"crs", "preparebudget", &preparebudget, true, true, false},
-        {"crs", "submitbudget", &submitbudget, true, true, false},
-        {"crs", "mnbudgetvote", &mnbudgetvote, true, true, false},
-        {"crs", "getbudgetvotes", &getbudgetvotes, true, true, false},
-        {"crs", "getnextsuperblock", &getnextsuperblock, true, true, false},
-        {"crs", "getbudgetprojection", &getbudgetprojection, true, true, false},
-        {"crs", "getbudgetinfo", &getbudgetinfo, true, true, false},
-        {"crs", "mnbudgetrawvote", &mnbudgetrawvote, true, true, false},
-        {"crs", "mnfinalbudget", &mnfinalbudget, true, true, false},
-        {"crs", "checkbudgets", &checkbudgets, true, true, false},
-        {"crs", "mnsync", &mnsync, true, true, false},
-        {"crs", "spork", &spork, true, true, false},
-        {"crs", "getpoolinfo", &getpoolinfo, true, true, false},
+        {"crsx", "masternode", &masternode, true, true, false},
+        {"crsx", "listmasternodes", &listmasternodes, true, true, false},
+        {"crsx", "getmasternodecount", &getmasternodecount, true, true, false},
+        {"crsx", "masternodeconnect", &masternodeconnect, true, true, false},
+        {"crsx", "createmasternodebroadcast", &createmasternodebroadcast, true, true, false},
+        {"crsx", "decodemasternodebroadcast", &decodemasternodebroadcast, true, true, false},
+        {"crsx", "relaymasternodebroadcast", &relaymasternodebroadcast, true, true, false},
+        {"crsx", "masternodecurrent", &masternodecurrent, true, true, false},
+        {"crsx", "masternodedebug", &masternodedebug, true, true, false},
+        {"crsx", "startmasternode", &startmasternode, true, true, false},
+        {"crsx", "createmasternodekey", &createmasternodekey, true, true, false},
+        {"crsx", "getmasternodeoutputs", &getmasternodeoutputs, true, true, false},
+        {"crsx", "listmasternodeconf", &listmasternodeconf, true, true, false},
+        {"crsx", "getmasternodestatus", &getmasternodestatus, true, true, false},
+        {"crsx", "getmasternodewinners", &getmasternodewinners, true, true, false},
+        {"crsx", "getmasternodescores", &getmasternodescores, true, true, false},
+        {"crsx", "mnbudget", &mnbudget, true, true, false},
+        {"crsx", "preparebudget", &preparebudget, true, true, false},
+        {"crsx", "submitbudget", &submitbudget, true, true, false},
+        {"crsx", "mnbudgetvote", &mnbudgetvote, true, true, false},
+        {"crsx", "getbudgetvotes", &getbudgetvotes, true, true, false},
+        {"crsx", "getnextsuperblock", &getnextsuperblock, true, true, false},
+        {"crsx", "getbudgetprojection", &getbudgetprojection, true, true, false},
+        {"crsx", "getbudgetinfo", &getbudgetinfo, true, true, false},
+        {"crsx", "mnbudgetrawvote", &mnbudgetrawvote, true, true, false},
+        {"crsx", "mnfinalbudget", &mnfinalbudget, true, true, false},
+        {"crsx", "checkbudgets", &checkbudgets, true, true, false},
+        {"crsx", "mnsync", &mnsync, true, true, false},
+        {"crsx", "spork", &spork, true, true, false},
+        {"crsx", "getpoolinfo", &getpoolinfo, true, true, false},
 
 #ifdef ENABLE_WALLET
         /* Wallet */
@@ -599,7 +599,7 @@ std::vector<std::string> CRPCTable::listCommands() const
 
 std::string HelpExampleCli(string methodname, string args)
 {
-    return "> crs-cli " + methodname + " " + args + "\n";
+    return "> crsx-cli " + methodname + " " + args + "\n";
 }
 
 std::string HelpExampleRpc(string methodname, string args)

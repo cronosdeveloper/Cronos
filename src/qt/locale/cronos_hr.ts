@@ -62,12 +62,12 @@
         <translation>Adrese za primanje</translation>
     </message>
     <message>
-        <source>These are your CRS addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>To su vaše CRS adrese za slanje plaćanja. Uvijek provjerite iznos i adresu primatelja prije slanja novca.</translation>
+        <source>These are your CRSX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>To su vaše CRSX adrese za slanje plaćanja. Uvijek provjerite iznos i adresu primatelja prije slanja novca.</translation>
     </message>
     <message>
-        <source>These are your CRS addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>To su vaše CRS adrese za primanje uplata. Preporuča se upotreba nove adrese primanja za svaku transakciju.</translation>
+        <source>These are your CRSX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>To su vaše CRSX adrese za primanje uplata. Preporuča se upotreba nove adrese primanja za svaku transakciju.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -172,16 +172,16 @@
         <translation>Potvrdite šifriranje novčanika</translation>
     </message>
     <message>
-        <source>CRS will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your CRSs from being stolen by malware infecting your computer.</source>
-        <translation>CRS se sada zatvara kako bi dovršio proces šifriranja. Ne zaboravite da šifriranje vašeg novčanika ne može u potpunosti zaštititi vaše CRS od krađe zlonamjernog softvera koji zarazi vaše računalo.</translation>
+        <source>CRSX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your CRSXs from being stolen by malware infecting your computer.</source>
+        <translation>CRSX se sada zatvara kako bi dovršio proces šifriranja. Ne zaboravite da šifriranje vašeg novčanika ne može u potpunosti zaštititi vaše CRSX od krađe zlonamjernog softvera koji zarazi vaše računalo.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Jeste li sigurni da želite šifrirati svoj novčanik?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CRS&lt;/b&gt;!</source>
-        <translation>Upozorenje: Ako šifrirate svoj novčanik i izgubite vašu zaporku, vi ćete1 IZGUBITI ĆE TE SAV VAŠ CRS1!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CRSX&lt;/b&gt;!</source>
+        <translation>Upozorenje: Ako šifrirate svoj novčanik i izgubite vašu zaporku, vi ćete1 IZGUBITI ĆE TE SAV VAŠ CRSX1!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -397,8 +397,8 @@
         <translation>Pregledajte povijest transakcija</translation>
     </message>
     <message>
-        <source>Privacy Actions for zCRS</source>
-        <translation>Aktivnosti na privatnost za zCRS</translation>
+        <source>Privacy Actions for zCRSX</source>
+        <translation>Aktivnosti na privatnost za zCRSX</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
@@ -601,16 +601,16 @@
         <translation>Alatna traka kartica</translation>
     </message>
     <message>
-        <source>CRS Core</source>
-        <translation>CRS Core</translation>
+        <source>CRSX Core</source>
+        <translation>CRSX Core</translation>
     </message>
     <message>
-        <source>Send coins to a CRS address</source>
-        <translation>Pošaljite kovanice na CRS adresu</translation>
+        <source>Send coins to a CRSX address</source>
+        <translation>Pošaljite kovanice na CRSX adresu</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and crs: URIs)</source>
-        <translation>Zahtjev za plaćanja (generira QR kodove i crs: URI)</translation>
+        <source>Request payments (generates QR codes and crsx: URIs)</source>
+        <translation>Zahtjev za plaćanja (generira QR kodove i crsx: URI)</translation>
     </message>
     <message>
         <source>&amp;Privacy</source>
@@ -625,24 +625,24 @@
         <translation>Pregledajte masternode</translation>
     </message>
     <message>
-        <source>&amp;About CRS Core</source>
-        <translation>&amp; O CRS Coreu</translation>
+        <source>&amp;About CRSX Core</source>
+        <translation>&amp; O CRSX Coreu</translation>
     </message>
     <message>
-        <source>Show information about CRS Core</source>
-        <translation>Prikaz informacija o CRS Coreu</translation>
+        <source>Show information about CRSX Core</source>
+        <translation>Prikaz informacija o CRSX Coreu</translation>
     </message>
     <message>
-        <source>Modify configuration options for CRS</source>
-        <translation>Izmijenite opcije konfiguracije za CRS</translation>
+        <source>Modify configuration options for CRSX</source>
+        <translation>Izmijenite opcije konfiguracije za CRSX</translation>
     </message>
     <message>
-        <source>Sign messages with your CRS addresses to prove you own them</source>
-        <translation>Potpišite poruke s vašim CRS adresama kako biste dokazali da ih posjedujete</translation>
+        <source>Sign messages with your CRSX addresses to prove you own them</source>
+        <translation>Potpišite poruke s vašim CRSX adresama kako biste dokazali da ih posjedujete</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified CRS addresses</source>
-        <translation>Potvrdite poruke kako biste bili sigurni da su potpisani s određenim CRS adresama</translation>
+        <source>Verify messages to ensure they were signed with specified CRSX addresses</source>
+        <translation>Potvrdite poruke kako biste bili sigurni da su potpisani s određenim CRSX adresama</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -653,8 +653,8 @@
         <translation>Šifriranje i dešifriranje privatnih ključeva pomoću zaporke</translation>
     </message>
     <message>
-        <source>CRS Core client</source>
-        <translation>CRS Core klijent</translation>
+        <source>CRSX Core client</source>
+        <translation>CRSX Core klijent</translation>
     </message>
     <message>
         <source>Error</source>
@@ -751,15 +751,15 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>CRS Core</source>
-        <translation>CRS Core</translation>
+        <source>CRSX Core</source>
+        <translation>CRSX Core</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>CRS Core</source>
-        <translation>CRS Core</translation>
+        <source>CRSX Core</source>
+        <translation>CRSX Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1045,8 +1045,8 @@
         <translation>ne</translation>
     </message>
     <message>
-        <source>0 CRS</source>
-        <translation>0 CRS</translation>
+        <source>0 CRSX</source>
+        <translation>0 CRSX</translation>
     </message>
     <message>
         <source>Confirmation time:</source>
@@ -1111,15 +1111,15 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>CRS Core is shutting down...</source>
-        <translation>CRS Core se gasi...</translation>
+        <source>CRSX Core is shutting down...</source>
+        <translation>CRSX Core se gasi...</translation>
     </message>
     </context>
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The CRS address to sign the message with</source>
-        <translation>CRS adresa za potpisivanje poruke s</translation>
+        <source>The CRSX address to sign the message with</source>
+        <translation>CRSX adresa za potpisivanje poruke s</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1142,16 +1142,16 @@
         <translation>Kopirajte trenutačni potpis u međuspremnik sustava</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this CRS address</source>
-        <translation>Potpišite poruku da biste dokazali da ste vlasnik ove CRS adrese</translation>
+        <source>Sign the message to prove you own this CRSX address</source>
+        <translation>Potpišite poruku da biste dokazali da ste vlasnik ove CRSX adrese</translation>
     </message>
     <message>
-        <source>The CRS address the message was signed with</source>
-        <translation>CRS adresa s kojom je potpisana poruka</translation>
+        <source>The CRSX address the message was signed with</source>
+        <translation>CRSX adresa s kojom je potpisana poruka</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified CRS address</source>
-        <translation>Potvrdite poruku kako biste bili sigurni da je potpisan s navedenom CRS adresom</translation>
+        <source>Verify the message to ensure it was signed with the specified CRSX address</source>
+        <translation>Potvrdite poruku kako biste bili sigurni da je potpisan s navedenom CRSX adresom</translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
@@ -1197,8 +1197,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>CRS Core</source>
-        <translation>CRS Core</translation>
+        <source>CRSX Core</source>
+        <translation>CRSX Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -1345,7 +1345,7 @@
     </message>
     </context>
 <context>
-    <name>ZCRSControlDialog</name>
+    <name>ZCRSXControlDialog</name>
     <message>
         <source>0</source>
         <translation>0</translation>

@@ -1,6 +1,6 @@
 // Copyright (c) 2011-2014 The Bitcoin developers
 // Copyright (c) 2014-2015 The Dash developers
-// Copyright (c) 2015-2018 The CRSX developers
+// Copyright (c) 2015-2018 The CRSXX developers
 // Copyright (c) 2018 The Cronos developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
@@ -36,7 +36,7 @@ class TxViewDelegate : public QAbstractItemDelegate
 {
     Q_OBJECT
 public:
-    TxViewDelegate() : QAbstractItemDelegate(), unit(BitcoinUnits::CRS)
+    TxViewDelegate() : QAbstractItemDelegate(), unit(BitcoinUnits::CRSX)
     {
     }
 
@@ -165,7 +165,7 @@ OverviewPage::~OverviewPage()
     delete ui;
 }
 
-void OverviewPage::getPercentage(CAmount nUnlockedBalance, CAmount nZerocoinBalance, QString& sCRSPercentage, QString& szCRSPercentage)
+void OverviewPage::getPercentage(CAmount nUnlockedBalance, CAmount nZerocoinBalance, QString& sCRSXPercentage, QString& szCRSXPercentage)
 {
     int nPrecision = 2;
     double dzPercentage = 0.0;
@@ -184,8 +184,8 @@ void OverviewPage::getPercentage(CAmount nUnlockedBalance, CAmount nZerocoinBala
 
     double dPercentage = 100.0 - dzPercentage;
     
-    szCRSPercentage = "(" + QLocale(QLocale::system()).toString(dzPercentage, 'f', nPrecision) + " %)";
-    sCRSPercentage = "(" + QLocale(QLocale::system()).toString(dPercentage, 'f', nPrecision) + " %)";
+    szCRSXPercentage = "(" + QLocale(QLocale::system()).toString(dzPercentage, 'f', nPrecision) + " %)";
+    sCRSXPercentage = "(" + QLocale(QLocale::system()).toString(dPercentage, 'f', nPrecision) + " %)";
     
 }
 
@@ -209,9 +209,9 @@ void OverviewPage::setBalance(const CAmount& balance, const CAmount& unconfirmed
         nLockedBalance = pwalletMain->GetLockedCoins();
         nWatchOnlyLockedBalance = pwalletMain->GetLockedWatchOnlyBalance();
     }
-    // CRS Balance
+    // CRSX Balance
     CAmount nTotalBalance = balance;
-    CAmount crsAvailableBalance = balance - immatureBalance - nLockedBalance;
+    CAmount crsxAvailableBalance = balance - immatureBalance - nLockedBalance;
     CAmount nTotalWatchBalance = watchOnlyBalance + watchUnconfBalance + watchImmatureBalance;    
     CAmount nUnlockedBalance = nTotalBalance - nLockedBalance; // increment nLockedBalance twice because it was added to
                                                                                 // nTotalBalance above
@@ -220,11 +220,11 @@ void OverviewPage::setBalance(const CAmount& balance, const CAmount& unconfirmed
     QString sPercentage = "";
     getPercentage(nUnlockedBalance, zerocoinBalance, sPercentage, szPercentage);
     // Combined balances
-    CAmount availableTotalBalance = crsAvailableBalance;
+    CAmount availableTotalBalance = crsxAvailableBalance;
     CAmount sumTotalBalance = nTotalBalance + zerocoinBalance;
 
-    // CRS labels
-    ui->labelBalance->setText(BitcoinUnits::floorHtmlWithUnit(nDisplayUnit, crsAvailableBalance, false, BitcoinUnits::separatorAlways));
+    // CRSX labels
+    ui->labelBalance->setText(BitcoinUnits::floorHtmlWithUnit(nDisplayUnit, crsxAvailableBalance, false, BitcoinUnits::separatorAlways));
     ui->labelUnconfirmed->setText(BitcoinUnits::floorHtmlWithUnit(nDisplayUnit, unconfirmedBalance, false, BitcoinUnits::separatorAlways));
     ui->labelImmature->setText(BitcoinUnits::floorHtmlWithUnit(nDisplayUnit, immatureBalance, false, BitcoinUnits::separatorAlways));
     ui->labelLockedBalance->setText(BitcoinUnits::floorHtmlWithUnit(nDisplayUnit, nLockedBalance, false, BitcoinUnits::separatorAlways));
@@ -241,30 +241,30 @@ void OverviewPage::setBalance(const CAmount& balance, const CAmount& unconfirmed
     QSettings settings;
     bool settingShowAllBalances = !settings.value("fHideZeroBalances").toBool();
     bool showSumAvailable = settingShowAllBalances || sumTotalBalance != availableTotalBalance;
-    bool showCRSAvailable = settingShowAllBalances || crsAvailableBalance != nTotalBalance;
-    bool showWatchOnlyCRSAvailable = watchOnlyBalance != nTotalWatchBalance;
-    bool showCRSPending = settingShowAllBalances || unconfirmedBalance != 0;
-    bool showWatchOnlyCRSPending = watchUnconfBalance != 0;
-    bool showCRSLocked = settingShowAllBalances || nLockedBalance != 0;
-    bool showWatchOnlyCRSLocked = nWatchOnlyLockedBalance != 0;
+    bool showCRSXAvailable = settingShowAllBalances || crsxAvailableBalance != nTotalBalance;
+    bool showWatchOnlyCRSXAvailable = watchOnlyBalance != nTotalWatchBalance;
+    bool showCRSXPending = settingShowAllBalances || unconfirmedBalance != 0;
+    bool showWatchOnlyCRSXPending = watchUnconfBalance != 0;
+    bool showCRSXLocked = settingShowAllBalances || nLockedBalance != 0;
+    bool showWatchOnlyCRSXLocked = nWatchOnlyLockedBalance != 0;
     bool showImmature = settingShowAllBalances || immatureBalance != 0;
     bool showWatchOnlyImmature = watchImmatureBalance != 0;
     bool showWatchOnly = nTotalWatchBalance != 0;
-    ui->labelBalance->setVisible(showCRSAvailable || showWatchOnlyCRSAvailable);
-    ui->labelBalanceText->setVisible(showCRSAvailable || showWatchOnlyCRSAvailable);
-    ui->labelWatchAvailable->setVisible(showCRSAvailable && showWatchOnly);
-    ui->labelUnconfirmed->setVisible(showCRSPending || showWatchOnlyCRSPending);
-    ui->labelPendingText->setVisible(showCRSPending || showWatchOnlyCRSPending);
-    ui->labelWatchPending->setVisible(showCRSPending && showWatchOnly);
-    ui->labelLockedBalance->setVisible(showCRSLocked || showWatchOnlyCRSLocked);
-    ui->labelLockedBalanceText->setVisible(showCRSLocked || showWatchOnlyCRSLocked);
-    ui->labelWatchLocked->setVisible(showCRSLocked && showWatchOnly);
+    ui->labelBalance->setVisible(showCRSXAvailable || showWatchOnlyCRSXAvailable);
+    ui->labelBalanceText->setVisible(showCRSXAvailable || showWatchOnlyCRSXAvailable);
+    ui->labelWatchAvailable->setVisible(showCRSXAvailable && showWatchOnly);
+    ui->labelUnconfirmed->setVisible(showCRSXPending || showWatchOnlyCRSXPending);
+    ui->labelPendingText->setVisible(showCRSXPending || showWatchOnlyCRSXPending);
+    ui->labelWatchPending->setVisible(showCRSXPending && showWatchOnly);
+    ui->labelLockedBalance->setVisible(showCRSXLocked || showWatchOnlyCRSXLocked);
+    ui->labelLockedBalanceText->setVisible(showCRSXLocked || showWatchOnlyCRSXLocked);
+    ui->labelWatchLocked->setVisible(showCRSXLocked && showWatchOnly);
     ui->labelImmature->setVisible(showImmature || showWatchOnlyImmature); // for symmetry reasons also show immature label when the watch-only one is shown
     ui->labelImmatureText->setVisible(showImmature || showWatchOnlyImmature);
     ui->labelWatchImmature->setVisible(showImmature && showWatchOnly); // show watch-only immature balance
-    bool showzCRSAvailable = settingShowAllBalances;
-    bool showzCRSUnconfirmed = settingShowAllBalances || unconfirmedZerocoinBalance != 0;
-    bool showzCRSImmature = settingShowAllBalances || immatureZerocoinBalance != 0;
+    bool showzCRSXAvailable = settingShowAllBalances;
+    bool showzCRSXUnconfirmed = settingShowAllBalances || unconfirmedZerocoinBalance != 0;
+    bool showzCRSXImmature = settingShowAllBalances || immatureZerocoinBalance != 0;
 
     static int cachedTxLocks = 0;
 
@@ -335,7 +335,7 @@ void OverviewPage::setWalletModel(WalletModel* model)
         connect(model, SIGNAL(notifyWatchonlyChanged(bool)), this, SLOT(updateWatchOnlyLabels(bool)));
     }
 
-    // update the display unit, to not use the default ("CRS")
+    // update the display unit, to not use the default ("CRSX")
     updateDisplayUnit();
 }
 

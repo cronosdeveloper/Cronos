@@ -5,8 +5,8 @@
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef CRS_PUBKEY_H
-#define CRS_PUBKEY_H
+#ifndef CRSX_PUBKEY_H
+#define CRSX_PUBKEY_H
 
 #include "hash.h"
 #include "serialize.h"
@@ -269,4 +269,4 @@ public:
     ~ECCVerifyHandle();
 };
 
-#endif // CRS_PUBKEY_H
+#endif // CRSX_PUBKEY_H

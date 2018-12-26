@@ -4,8 +4,8 @@
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef CRS_SERIALIZE_H
-#define CRS_SERIALIZE_H
+#ifndef CRSX_SERIALIZE_H
+#define CRSX_SERIALIZE_H
 
 #include <algorithm>
 #include <assert.h>
@@ -965,4 +965,4 @@ public:
     }
 };
 
-#endif // CRS_SERIALIZE_H
+#endif // CRSX_SERIALIZE_H

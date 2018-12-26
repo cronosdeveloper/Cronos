@@ -62,12 +62,12 @@
         <translation>Ontvangstadressen</translation>
     </message>
     <message>
-        <source>These are your CRS addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Dit zijn uw CRS adressen om betalingen mee te verzenden. Controleer altijd zowel het bedrag als het ontvangstadres voor het verzenden van geld.</translation>
+        <source>These are your CRSX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Dit zijn uw CRSX adressen om betalingen mee te verzenden. Controleer altijd zowel het bedrag als het ontvangstadres voor het verzenden van geld.</translation>
     </message>
     <message>
-        <source>These are your CRS addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Dit zijn uw CRS adressen waarop betalingen kunnen worden ontvangen. Het wordt aangeraden om een nieuw ontvangstadres voor elke transactie te gebruiken.</translation>
+        <source>These are your CRSX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Dit zijn uw CRSX adressen waarop betalingen kunnen worden ontvangen. Het wordt aangeraden om een nieuw ontvangstadres voor elke transactie te gebruiken.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,16 +176,16 @@
         <translation>Bevestig versleuteling van de portemonnee</translation>
     </message>
     <message>
-        <source>CRS will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your CRSs from being stolen by malware infecting your computer.</source>
-        <translation>CRS zal nu afsluiten om het versleutelingsproces te voltooien. Onthoud dat het versleutelen van uw portemonnee u niet volledig kan beschermen tegen malware infecties op uw computer die uw CRS's kunnen stelen.</translation>
+        <source>CRSX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your CRSXs from being stolen by malware infecting your computer.</source>
+        <translation>CRSX zal nu afsluiten om het versleutelingsproces te voltooien. Onthoud dat het versleutelen van uw portemonnee u niet volledig kan beschermen tegen malware infecties op uw computer die uw CRSX's kunnen stelen.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Weet u zeker dat u uw portemonnee wilt versleutelen?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CRS&lt;/b&gt;!</source>
-        <translation>Waarschuwing: Als u uw portemonnee versleutelt en uw wachtwoord vergeet, zult u &lt;b&gt;AL UW CRS VERLIEZEN&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CRSX&lt;/b&gt;!</source>
+        <translation>Waarschuwing: Als u uw portemonnee versleutelt en uw wachtwoord vergeet, zult u &lt;b&gt;AL UW CRSX VERLIEZEN&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -254,12 +254,12 @@
         <translation>Adres:</translation>
     </message>
     <message>
-        <source>Enter a CRS Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Voer een CRS adres in dat u wilt coderen met BIP 38. Voer een wachtwoordzin in in het middelste vak. Druk op versleutelen om de versleutelde privé sleutel te berekenen.</translation>
+        <source>Enter a CRSX Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Voer een CRSX adres in dat u wilt coderen met BIP 38. Voer een wachtwoordzin in in het middelste vak. Druk op versleutelen om de versleutelde privé sleutel te berekenen.</translation>
     </message>
     <message>
-        <source>The CRS address to encrypt</source>
-        <translation>Het CRS adres om te versleutelen</translation>
+        <source>The CRSX address to encrypt</source>
+        <translation>Het CRSX adres om te versleutelen</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -290,8 +290,8 @@
         <translation>Kopieer de huidige handtekening naar het systeemklembord</translation>
     </message>
     <message>
-        <source>Encrypt the private key for this CRS address</source>
-        <translation>Versleutel de privé sleutel voor dit CRS adres</translation>
+        <source>Encrypt the private key for this CRSX address</source>
+        <translation>Versleutel de privé sleutel voor dit CRSX adres</translation>
     </message>
     <message>
         <source>Reset all fields</source>
@@ -433,8 +433,8 @@
         <translation>Blader door transactiegescheidenis</translation>
     </message>
     <message>
-        <source>Privacy Actions for zCRS</source>
-        <translation>Privacy Acties voor zCRS</translation>
+        <source>Privacy Actions for zCRSX</source>
+        <translation>Privacy Acties voor zCRSX</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
@@ -645,16 +645,16 @@
         <translation>Tabblad werkbalk</translation>
     </message>
     <message>
-        <source>CRS Core</source>
-        <translation>CRS Core</translation>
+        <source>CRSX Core</source>
+        <translation>CRSX Core</translation>
     </message>
     <message>
-        <source>Send coins to a CRS address</source>
-        <translation>Verstuur munten naar een CRS adres</translation>
+        <source>Send coins to a CRSX address</source>
+        <translation>Verstuur munten naar een CRSX adres</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and crs: URIs)</source>
-        <translation>Vraag betaling aan (genereert QR codes en CRS: URI's)</translation>
+        <source>Request payments (generates QR codes and crsx: URIs)</source>
+        <translation>Vraag betaling aan (genereert QR codes en CRSX: URI's)</translation>
     </message>
     <message>
         <source>&amp;Privacy</source>
@@ -669,24 +669,24 @@
         <translation>Bekijk masternodes</translation>
     </message>
     <message>
-        <source>&amp;About CRS Core</source>
-        <translation>&amp;Over CRS Core</translation>
+        <source>&amp;About CRSX Core</source>
+        <translation>&amp;Over CRSX Core</translation>
     </message>
     <message>
-        <source>Show information about CRS Core</source>
-        <translation>Toon informatie over CRS Kern</translation>
+        <source>Show information about CRSX Core</source>
+        <translation>Toon informatie over CRSX Kern</translation>
     </message>
     <message>
-        <source>Modify configuration options for CRS</source>
-        <translation>Wijzig CRS configuratie opties</translation>
+        <source>Modify configuration options for CRSX</source>
+        <translation>Wijzig CRSX configuratie opties</translation>
     </message>
     <message>
-        <source>Sign messages with your CRS addresses to prove you own them</source>
-        <translation>Onderteken berichten met uw CRS adressen om te bewijzen dat deze adressen in uw bezit zijn</translation>
+        <source>Sign messages with your CRSX addresses to prove you own them</source>
+        <translation>Onderteken berichten met uw CRSX adressen om te bewijzen dat deze adressen in uw bezit zijn</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified CRS addresses</source>
-        <translation>Controleer berichten om te verzekeren dat deze ondertekend zijn met de gespecificeerde CRS adressen</translation>
+        <source>Verify messages to ensure they were signed with specified CRSX addresses</source>
+        <translation>Controleer berichten om te verzekeren dat deze ondertekend zijn met de gespecificeerde CRSX adressen</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -717,8 +717,8 @@
         <translation>Open Masternode configuratiebestand</translation>
     </message>
     <message>
-        <source>Open a CRS: URI or payment request</source>
-        <translation>Open een CRS: URI of betaalverzoek</translation>
+        <source>Open a CRSX: URI or payment request</source>
+        <translation>Open een CRSX: URI of betaalverzoek</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -729,16 +729,16 @@
         <translation>Block verkenner venster</translation>
     </message>
     <message>
-        <source>Show the CRS Core help message to get a list with possible CRS command-line options</source>
-        <translation>Toon het CRS Core help bericht om een ​​lijst te krijgen met mogelijke CRS command line opties</translation>
+        <source>Show the CRSX Core help message to get a list with possible CRSX command-line options</source>
+        <translation>Toon het CRSX Core help bericht om een ​​lijst te krijgen met mogelijke CRSX command line opties</translation>
     </message>
     <message>
-        <source>CRS Core client</source>
-        <translation>CRS Core client</translation>
+        <source>CRSX Core client</source>
+        <translation>CRSX Core client</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to CRS network</source>
-        <translation><numerusform>%n actieve verbindingen met het CRS netwerk</numerusform><numerusform>%n actieve connectie(s) naar CRS netwerk</numerusform></translation>
+        <source>%n active connection(s) to CRSX network</source>
+        <translation><numerusform>%n actieve verbindingen met het CRSX netwerk</numerusform><numerusform>%n actieve connectie(s) naar CRSX netwerk</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -892,8 +892,8 @@ MultiSend: %1</translation>
         <translation>TextLabel</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (crs.conf).</source>
-        <translation>Niet alle transacties zullen worden getoond. Om alle transacties te bekijken moet u txindex=1 instellen in het configuratie bestand (crs.conf).</translation>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (crsx.conf).</source>
+        <translation>Niet alle transacties zullen worden getoond. Om alle transacties te bekijken moet u txindex=1 instellen in het configuratie bestand (crsx.conf).</translation>
     </message>
 </context>
 <context>
@@ -1130,8 +1130,8 @@ MultiSend: %1</translation>
         <translation>Dit label wordt rood, als een ontvanger een hoeveelheid kleiner dan %1 ontvangt.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 ucrs per input.</source>
-        <translation>Kan +/-%1 ucrs per invoer variëren.</translation>
+        <source>Can vary +/- %1 ucrsx per input.</source>
+        <translation>Kan +/-%1 ucrsx per invoer variëren.</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1185,8 +1185,8 @@ MultiSend: %1</translation>
         <translation>Wijzig verzend adres</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid CRS address.</source>
-        <translation>Het ingevoerde adres: "%1" is geen geldig CRS adres.</translation>
+        <source>The entered address "%1" is not a valid CRSX address.</source>
+        <translation>Het ingevoerde adres: "%1" is geen geldig CRSX adres.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1231,16 +1231,16 @@ MultiSend: %1</translation>
         <translation>versie</translation>
     </message>
     <message>
-        <source>CRS Core</source>
-        <translation>CRS Core</translation>
+        <source>CRSX Core</source>
+        <translation>CRSX Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About CRS Core</source>
-        <translation>Over CRS Core</translation>
+        <source>About CRSX Core</source>
+        <translation>Over CRSX Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1286,16 +1286,16 @@ MultiSend: %1</translation>
         <translation>Welkom</translation>
     </message>
     <message>
-        <source>Welcome to CRS Core.</source>
-        <translation>Welkom bij CRS Core.</translation>
+        <source>Welcome to CRSX Core.</source>
+        <translation>Welkom bij CRSX Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where CRS Core will store its data.</source>
-        <translation>Aangezien dit de eerste keer is dat het programma is gestart, kun je kiezen waar CRS Core zijn data opslaat.</translation>
+        <source>As this is the first time the program is launched, you can choose where CRSX Core will store its data.</source>
+        <translation>Aangezien dit de eerste keer is dat het programma is gestart, kun je kiezen waar CRSX Core zijn data opslaat.</translation>
     </message>
     <message>
-        <source>CRS Core will download and store a copy of the CRS block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>CRS Core zal een kopie van de CRS blockchain downloaden en opslaan. Tenminste %1GB aan data zal worden opgeslagen in deze map en het zal over de tijd groeien. De portemonnee zal ook in deze map worden opgeslagen.</translation>
+        <source>CRSX Core will download and store a copy of the CRSX block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>CRSX Core zal een kopie van de CRSX blockchain downloaden en opslaan. Tenminste %1GB aan data zal worden opgeslagen in deze map en het zal over de tijd groeien. De portemonnee zal ook in deze map worden opgeslagen.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1306,8 +1306,8 @@ MultiSend: %1</translation>
         <translation>Gebruik een aangepaste data directory:</translation>
     </message>
     <message>
-        <source>CRS Core</source>
-        <translation>CRS Core</translation>
+        <source>CRSX Core</source>
+        <translation>CRSX Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1448,12 +1448,12 @@ MultiSend: %1</translation>
         <translation>Vul het adres in om naar te verzenden</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other CRS addresses after it matures.
-To Add: enter percentage to give and CRS address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other CRSX addresses after it matures.
+To Add: enter percentage to give and CRSX address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>MultiSend stelt je in staat om automatisch tot 100% van uw stake of masternode beloning automatisch te verzenden naar een lijst van andere CRS adressen nadat het volwassen is. 
-Toevoegen: voer het te geven percentage in en CRS adres om toe te voegen aan de MultiSend vector.
+        <translation>MultiSend stelt je in staat om automatisch tot 100% van uw stake of masternode beloning automatisch te verzenden naar een lijst van andere CRSX adressen nadat het volwassen is. 
+Toevoegen: voer het te geven percentage in en CRSX adres om toe te voegen aan de MultiSend vector.
 Verwijderen: Voer adres in om te verwijderen en druk op delete.
 MultiSend zal niet worden geactiveerd tenzij je op Activeer hebt geklikt</translation>
     </message>
@@ -1681,8 +1681,8 @@ Waas alsjeblieft geduldig nadat u op importeren hebt geklikt.</translation>
         <translation>Adres / Bedrag:</translation>
     </message>
     <message>
-        <source>Add destinations to send CRS to</source>
-        <translation>Voeg bestemmingen toe om CRS naar te verzenden</translation>
+        <source>Add destinations to send CRSX to</source>
+        <translation>Voeg bestemmingen toe om CRSX naar te verzenden</translation>
     </message>
     <message>
         <source>Add &amp;Destination</source>
@@ -1780,48 +1780,48 @@ Waas alsjeblieft geduldig nadat u op importeren hebt geklikt.</translation>
         <translation>Selecteer de privacy level.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 CRS</source>
-        <translation>Gebruik 2 aparte masternodes om fondsen te mixen tot 10000 CRS</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 CRSX</source>
+        <translation>Gebruik 2 aparte masternodes om fondsen te mixen tot 10000 CRSX</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 CRS</source>
-        <translation>Gebruik 8 aparte masternodes om fondsen te mixen tot 10000 CRS</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 CRSX</source>
+        <translation>Gebruik 8 aparte masternodes om fondsen te mixen tot 10000 CRSX</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Gebruik 16 aparte masternodes</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 CRS to anonymize 10000 CRS</source>
-        <translation>Deze optie is het snelst en kost ongeveer ~0,025 CRS om 10000 CRS te anonimiseren</translation>
+        <source>This option is the quickest and will cost about ~0.025 CRSX to anonymize 10000 CRSX</source>
+        <translation>Deze optie is het snelst en kost ongeveer ~0,025 CRSX om 10000 CRSX te anonimiseren</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 CRS to anonymize 10000 CRS</source>
-        <translation>Deze optie is gematigd snel en kost ongeveer 0,05 CRS om 10000 CRS te anonimiseren</translation>
+        <source>This option is moderately fast and will cost about 0.05 CRSX to anonymize 10000 CRSX</source>
+        <translation>Deze optie is gematigd snel en kost ongeveer 0,05 CRSX om 10000 CRSX te anonimiseren</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Dit is de langzaamste en veiligste optie. Het gebruik van maximale anonimiteit kost</translation>
     </message>
     <message>
-        <source>0.1 CRS per 10000 CRS you anonymize.</source>
-        <translation>je anonimiseert 0,1 CRS per 10000 CRS.</translation>
+        <source>0.1 CRSX per 10000 CRSX you anonymize.</source>
+        <translation>je anonimiseert 0,1 CRSX per 10000 CRSX.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
         <translation>Verduistering configuratie</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening CRS's configuration screen.</source>
-        <translation>Verduistering is succesvol ingesteld op basic (%1 en 2 rondes). Je kunt dit op elk gewenst moment wijzigen door het configuratiescherm van CRS te openen.</translation>
+        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening CRSX's configuration screen.</source>
+        <translation>Verduistering is succesvol ingesteld op basic (%1 en 2 rondes). Je kunt dit op elk gewenst moment wijzigen door het configuratiescherm van CRSX te openen.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening CRS's configuration screen.</source>
-        <translation>Verduistering is succesvol ingesteld op hoog (%1 en 8 rondes). U kunt dit op elk gewenst moment wijzigen door het configuratiescherm van CRS te openen.</translation>
+        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening CRSX's configuration screen.</source>
+        <translation>Verduistering is succesvol ingesteld op hoog (%1 en 8 rondes). U kunt dit op elk gewenst moment wijzigen door het configuratiescherm van CRSX te openen.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening CRS's configuration screen.</source>
-        <translation>Verduistering is succesvol ingesteld op hoog (%1 en 16 rondes). U kunt dit op elk gewenst moment wijzigen door het configuratiescherm van CRS te openen.</translation>
+        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening CRSX's configuration screen.</source>
+        <translation>Verduistering is succesvol ingesteld op hoog (%1 en 16 rondes). U kunt dit op elk gewenst moment wijzigen door het configuratiescherm van CRSX te openen.</translation>
     </message>
 </context>
 <context>
@@ -1882,8 +1882,8 @@ Waas alsjeblieft geduldig nadat u op importeren hebt geklikt.</translation>
         <translation>Als je de uitgaven van onbevestigde wijzigingen uitschakelt, de wijziging van een transactie&lt;br/&gt;kan niet worden gebruikt tot die transactie tenminste één bevestiging heeft.&lt;br/&gt;Dit beïnvloedt ook hoe uw saldo is berekend.</translation>
     </message>
     <message>
-        <source>Automatically open the CRS client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Open de CRS client poort automatisch op de router. Dit werkt alleen als je router UPnP ondersteunt en het is ingeschakeld.</translation>
+        <source>Automatically open the CRSX client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Open de CRSX client poort automatisch op de router. Dit werkt alleen als je router UPnP ondersteunt en het is ingeschakeld.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1902,12 +1902,12 @@ Waas alsjeblieft geduldig nadat u op importeren hebt geklikt.</translation>
         <translation>Expert</translation>
     </message>
     <message>
-        <source>Automatically start CRS after logging in to the system.</source>
-        <translation>CRS automatisch opstarten na inloggen op het systeem.</translation>
+        <source>Automatically start CRSX after logging in to the system.</source>
+        <translation>CRSX automatisch opstarten na inloggen op het systeem.</translation>
     </message>
     <message>
-        <source>&amp;Start CRS on system login</source>
-        <translation>&amp;CRS starten bij systeemlogin</translation>
+        <source>&amp;Start CRSX on system login</source>
+        <translation>&amp;CRSX starten bij systeemlogin</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1934,50 +1934,50 @@ Waas alsjeblieft geduldig nadat u op importeren hebt geklikt.</translation>
         <translation>&amp;Netwerk</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting CRS.</source>
-        <translation>De gebruikersinterface taal kan hier ingesteld worden. Deze instelling zal uitgevoerd na herstart van CRS.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting CRSX.</source>
+        <translation>De gebruikersinterface taal kan hier ingesteld worden. Deze instelling zal uitgevoerd na herstart van CRSX.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/crs-project/crs-project-translations</source>
+https://www.transifex.com/crsx-project/crsx-project-translations</source>
         <translation>Taal ontbreekt of vertaling onvolledig? Help om bij te dragen aan vertalingen:
-https://www.transifex.com/crs-project/crs-project-translations</translation>
+https://www.transifex.com/crsx-project/crsx-project-translations</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>Map poort gebruikt &amp;UPnP</translation>
     </message>
     <message>
-        <source>Enable automatic minting of CRS units to zCRS</source>
-        <translation>Schakel automatisch slaan van CRS-eenheden in op zCRS</translation>
+        <source>Enable automatic minting of CRSX units to zCRSX</source>
+        <translation>Schakel automatisch slaan van CRSX-eenheden in op zCRSX</translation>
     </message>
     <message>
-        <source>Enable zCRS Automint</source>
-        <translation>Schakel zCRS Automint in</translation>
+        <source>Enable zCRSX Automint</source>
+        <translation>Schakel zCRSX Automint in</translation>
     </message>
     <message>
-        <source>Percentage of incoming CRS which get automatically converted to zCRS via Zerocoin Protocol (min: 10%)</source>
-        <translation>Percentage inkomende CRS die automatisch wordt omgezet naar zCRS via Zerocoin Protocol (min: 10%)</translation>
+        <source>Percentage of incoming CRSX which get automatically converted to zCRSX via Zerocoin Protocol (min: 10%)</source>
+        <translation>Percentage inkomende CRSX die automatisch wordt omgezet naar zCRSX via Zerocoin Protocol (min: 10%)</translation>
     </message>
     <message>
-        <source>Percentage of autominted zCRS</source>
-        <translation>Percentage autominted zCRS</translation>
+        <source>Percentage of autominted zCRSX</source>
+        <translation>Percentage autominted zCRSX</translation>
     </message>
     <message>
-        <source>Wait with automatic conversion to Zerocoin until enough CRS for this denomination is available</source>
-        <translation>Wacht met automatische omzetting naar Zerocoin totdat er genoeg CRS voor deze denominatie beschikbaar is</translation>
+        <source>Wait with automatic conversion to Zerocoin until enough CRSX for this denomination is available</source>
+        <translation>Wacht met automatische omzetting naar Zerocoin totdat er genoeg CRSX voor deze denominatie beschikbaar is</translation>
     </message>
     <message>
-        <source>Preferred Automint zCRS Denomination</source>
-        <translation>Gewenste Automint zCRS denominatie</translation>
+        <source>Preferred Automint zCRSX Denomination</source>
+        <translation>Gewenste Automint zCRSX denominatie</translation>
     </message>
     <message>
         <source>Stake split threshold:</source>
         <translation>Inzet splitdrempel:</translation>
     </message>
     <message>
-        <source>Connect to the CRS network through a SOCKS5 proxy.</source>
-        <translation>Maak verbinding met het CRS netwerk via een SOCKS5 proxy.</translation>
+        <source>Connect to the CRSX network through a SOCKS5 proxy.</source>
+        <translation>Maak verbinding met het CRSX netwerk via een SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -2131,8 +2131,8 @@ https://www.transifex.com/crs-project/crs-project-translations</translation>
         <translation>Totaal saldo, inclusief alle niet-beschikbare munten.</translation>
     </message>
     <message>
-        <source>CRS Balance</source>
-        <translation>CRS Saldi</translation>
+        <source>CRSX Balance</source>
+        <translation>CRSX Saldi</translation>
     </message>
     <message>
         <source>Pending:</source>
@@ -2155,16 +2155,16 @@ https://www.transifex.com/crs-project/crs-project-translations</translation>
         <translation>Huidige vergrendelde balans in alleen-lezen-adressen</translation>
     </message>
     <message>
-        <source>Your current CRS balance, unconfirmed and immature transactions included</source>
-        <translation>Uw huidige CRS-saldo, onbevestigde en onvolgroeide transacties inbegrepen</translation>
+        <source>Your current CRSX balance, unconfirmed and immature transactions included</source>
+        <translation>Uw huidige CRSX-saldo, onbevestigde en onvolgroeide transacties inbegrepen</translation>
     </message>
     <message>
-        <source>zCRS Balance</source>
-        <translation>zCRS-saldo</translation>
+        <source>zCRSX Balance</source>
+        <translation>zCRSX-saldo</translation>
     </message>
     <message>
         <source>Mature: more than 20 confirmation and more than 1 mint of the same denomination after it was minted.
-These zCRS are spendable.</source>
+These zCRSX are spendable.</source>
         <translation>Volwassen: meer dan 20 bevestigingen en meer dan 1 mint van dezelfde denominatie nadat het gemint was.
 Deze zPIB zijn besteedbaar.</translation>
     </message>
@@ -2175,8 +2175,8 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 Onvolwassen: bevestigd, maar minder dan 1 mint van dezelfde denominatie nadat het gemint was.</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRS network after a connection is established, but this process has not completed yet.</source>
-        <translation>De weergegeven informatie kan verouderd zijn. Je portemonnee synchroniseert automatisch met het CRS netwerk nadat een verbinding is opgezet, maar dit proces is nog niet afgerond.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRSX network after a connection is established, but this process has not completed yet.</source>
+        <translation>De weergegeven informatie kan verouderd zijn. Je portemonnee synchroniseert automatisch met het CRSX netwerk nadat een verbinding is opgezet, maar dit proces is nog niet afgerond.</translation>
     </message>
     <message>
         <source>OVERVIEW</source>
@@ -2219,8 +2219,8 @@ Onvolwassen: bevestigd, maar minder dan 1 mint van dezelfde denominatie nadat he
         <translation>Uitgeefbaar:</translation>
     </message>
     <message>
-        <source>Locked CRS or Masternode collaterals. These are excluded from zCRS minting.</source>
-        <translation>Vergrendelde CRS of Masternode onderpanden. Deze zijn uitgesloten van de zCRS muntage.</translation>
+        <source>Locked CRSX or Masternode collaterals. These are excluded from zCRSX minting.</source>
+        <translation>Vergrendelde CRSX of Masternode onderpanden. Deze zijn uitgesloten van de zCRSX muntage.</translation>
     </message>
     <message>
         <source>Locked:</source>
@@ -2231,8 +2231,8 @@ Onvolwassen: bevestigd, maar minder dan 1 mint van dezelfde denominatie nadat he
         <translation>Onbevestigd:</translation>
     </message>
     <message>
-        <source>Your current zCRS balance, unconfirmed and immature zCRS included.</source>
-        <translation>Uw huidige zCRS-saldo, onbevestigde en onvolgroeide zCRS inbegrepen.</translation>
+        <source>Your current zCRSX balance, unconfirmed and immature zCRSX included.</source>
+        <translation>Uw huidige zCRSX-saldo, onbevestigde en onvolgroeide zCRSX inbegrepen.</translation>
     </message>
     <message>
         <source>Recent transactions</source>
@@ -2243,10 +2243,10 @@ Onvolwassen: bevestigd, maar minder dan 1 mint van dezelfde denominatie nadat he
         <translation>niet gesynchroniseerd</translation>
     </message>
     <message>
-        <source>Current percentage of zCRS.
+        <source>Current percentage of zCRSX.
 If AutoMint is enabled this percentage will settle around the configured AutoMint percentage (default = 10%).
 </source>
-        <translation>Huidige percentage van zCRS
+        <translation>Huidige percentage van zCRSX
 Als AutoMint ingeschakeld is zal deze percentage afhangen van de geconfigureerde AutoMint percentage (standaard = 10%).
 </translation>
     </message>
@@ -2255,14 +2255,14 @@ Als AutoMint ingeschakeld is zal deze percentage afhangen van de geconfigureerde
         <translation>AutoMint is momenteel ingeschakeld en ingesteld op</translation>
     </message>
     <message>
-        <source>To disable AutoMint add 'enablezeromint=0' in crs.conf.</source>
-        <translation>Om AutoMint uit te schakelen, voeg je 'enablezeromint=0' toe aan crs.conf.</translation>
+        <source>To disable AutoMint add 'enablezeromint=0' in crsx.conf.</source>
+        <translation>Om AutoMint uit te schakelen, voeg je 'enablezeromint=0' toe aan crsx.conf.</translation>
     </message>
     <message>
         <source>AutoMint is currently disabled.
-To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in crs.conf</source>
+To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in crsx.conf</source>
         <translation>AutoMint is momenteel uitgeschakeld.
-Om AutoMint in te schakelend verander je 'enablezeromint=0' naar 'enablezeromint=1' in crs.conf</translation>
+Om AutoMint in te schakelend verander je 'enablezeromint=0' naar 'enablezeromint=1' in crsx.conf</translation>
     </message>
 </context>
 <context>
@@ -2288,12 +2288,12 @@ Om AutoMint in te schakelend verander je 'enablezeromint=0' naar 'enablezeromint
         <translation>Ongeldig betalingsadres %1</translation>
     </message>
     <message>
-        <source>Cannot start crs: click-to-pay handler</source>
-        <translation>Kan crs niet starten: click-to-pay handler</translation>
+        <source>Cannot start crsx: click-to-pay handler</source>
+        <translation>Kan crsx niet starten: click-to-pay handler</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid CRS address or malformed URI parameters.</source>
-        <translation>URL kan niet ontleed worden! Dit kan worden veroorzaakt door een ongeldig CRS adres of misvormde URL parameters.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid CRSX address or malformed URI parameters.</source>
+        <translation>URL kan niet ontleed worden! Dit kan worden veroorzaakt door een ongeldig CRSX adres of misvormde URL parameters.</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -2378,8 +2378,8 @@ Om AutoMint in te schakelend verander je 'enablezeromint=0' naar 'enablezeromint
         <translation>Zerocoin Acties:</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRS network after a connection is established, but this process has not completed yet.</source>
-        <translation>De weergegeven informatie kan verouderd zijn. Je portemonnee synchroniseert automatisch met het CRS netwerk nadat een verbinding is opgezet, maar dit proces is nog niet afgerond.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRSX network after a connection is established, but this process has not completed yet.</source>
+        <translation>De weergegeven informatie kan verouderd zijn. Je portemonnee synchroniseert automatisch met het CRSX netwerk nadat een verbinding is opgezet, maar dit proces is nog niet afgerond.</translation>
     </message>
     <message>
         <source>Mint Zerocoin</source>
@@ -2390,8 +2390,8 @@ Om AutoMint in te schakelend verander je 'enablezeromint=0' naar 'enablezeromint
         <translation>0</translation>
     </message>
     <message>
-        <source>zCRS</source>
-        <translation>zCRS</translation>
+        <source>zCRSX</source>
+        <translation>zCRSX</translation>
     </message>
     <message>
         <source>Available for minting are coins which are confirmed and not locked or Masternode collaterals.</source>
@@ -2402,8 +2402,8 @@ Om AutoMint in te schakelend verander je 'enablezeromint=0' naar 'enablezeromint
         <translation>Beschikbaar voor minting:</translation>
     </message>
     <message>
-        <source>0.000 000 00 CRS</source>
-        <translation>0.000 000 00 CRS</translation>
+        <source>0.000 000 00 CRSX</source>
+        <translation>0.000 000 00 CRSX</translation>
     </message>
     <message>
         <source>Reset Zerocoin Wallet DB. Deletes transactions that did not make it into the blockchain.</source>
@@ -2442,16 +2442,16 @@ Om AutoMint in te schakelend verander je 'enablezeromint=0' naar 'enablezeromint
         <translation>PRIVACY</translation>
     </message>
     <message>
-        <source>Enter an amount of CRS to convert to zCRS</source>
-        <translation>Vul het aantal CRS in om te converteren naar zCRS</translation>
+        <source>Enter an amount of CRSX to convert to zCRSX</source>
+        <translation>Vul het aantal CRSX in om te converteren naar zCRSX</translation>
     </message>
     <message>
-        <source>zCRS Control</source>
-        <translation>zCRS Control</translation>
+        <source>zCRSX Control</source>
+        <translation>zCRSX Control</translation>
     </message>
     <message>
-        <source>zCRS Selected:</source>
-        <translation>zCRS geselecteerd:</translation>
+        <source>zCRSX Selected:</source>
+        <translation>zCRSX geselecteerd:</translation>
     </message>
     <message>
         <source>Quantity Selected:</source>
@@ -2466,24 +2466,24 @@ Om AutoMint in te schakelend verander je 'enablezeromint=0' naar 'enablezeromint
         <translation>Besteed Zerocoin</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zCRS for spending</source>
-        <translation>Beschikbare (volwassen en uitgeefbaar) zCRS voor besteding</translation>
+        <source>Available (mature and spendable) zCRSX for spending</source>
+        <translation>Beschikbare (volwassen en uitgeefbaar) zCRSX voor besteding</translation>
     </message>
     <message>
         <source>Available Balance:</source>
         <translation>Beschikbaar saldo:</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zCRS for spending
+        <source>Available (mature and spendable) zCRSX for spending
 
-zCRS are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
-        <translation>Beschikbare (volwwassen en uitgeefbaar) zCRS voor besteding
+zCRSX are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
+        <translation>Beschikbare (volwwassen en uitgeefbaar) zCRSX voor besteding
 
-zCRS zijn volwassen wanneer zij meer dan 20 bevestigingen hebben EN meer dan 2 muntages van dezelfde denominaties nadat zij gemunt zijn.</translation>
+zCRSX zijn volwassen wanneer zij meer dan 20 bevestigingen hebben EN meer dan 2 muntages van dezelfde denominaties nadat zij gemunt zijn.</translation>
     </message>
     <message>
-        <source>0 zCRS</source>
-        <translation>0 zCRS</translation>
+        <source>0 zCRSX</source>
+        <translation>0 zCRSX</translation>
     </message>
     <message>
         <source>Security Level for Zerocoin Transactions. More is better, but needs more time and resources.</source>
@@ -2502,8 +2502,8 @@ zCRS zijn volwassen wanneer zij meer dan 20 bevestigingen hebben EN meer dan 2 m
         <translation>Betaal &amp;Naar:</translation>
     </message>
     <message>
-        <source>The CRS address to send the payment to. Creates local payment to yourself when empty.</source>
-        <translation>Het CRS adres om de betaling naar te verzenden. Maakt lokale betaling aan jezelf als je leeg bent.</translation>
+        <source>The CRSX address to send the payment to. Creates local payment to yourself when empty.</source>
+        <translation>Het CRSX adres om de betaling naar te verzenden. Maakt lokale betaling aan jezelf als je leeg bent.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2554,8 +2554,8 @@ zCRS zijn volwassen wanneer zij meer dan 20 bevestigingen hebben EN meer dan 2 m
         <translation>Zerocoin Statistieken:</translation>
     </message>
     <message>
-        <source>Total Balance including unconfirmed and immature zCRS</source>
-        <translation>Totale Saldi, inclusief onbevestigde en onvolwassen zCRS</translation>
+        <source>Total Balance including unconfirmed and immature zCRSX</source>
+        <translation>Totale Saldi, inclusief onbevestigde en onvolwassen zCRSX</translation>
     </message>
     <message>
         <source>Total Zerocoin  Balance:</source>
@@ -2576,24 +2576,24 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 Onvolwassen: bevestigd, maar minder dan 1 mint van dezelfde denominatie nadat het gemint was.</translation>
     </message>
     <message>
-        <source>Show the current status of automatic zCRS minting.
+        <source>Show the current status of automatic zCRSX minting.
 
 To change the status (restart required):
-- enable: add 'enablezeromint=1' to crs.conf
-- disable: add 'enablezeromint=0' to crs.conf
+- enable: add 'enablezeromint=1' to crsx.conf
+- disable: add 'enablezeromint=0' to crsx.conf
 
 To change the percentage (no restart required):
-- menu Settings-&gt;Options-&gt;Percentage of autominted zCRS
+- menu Settings-&gt;Options-&gt;Percentage of autominted zCRSX
 
 </source>
-        <translation>Toon de huidige status van automatische zCRS-markering.
+        <translation>Toon de huidige status van automatische zCRSX-markering.
 
 Om de status te wijzigen (opnieuw opstarten vereist): 
-- enable: voeg 'enablezeromint = 1' toe aan crs.conf
-- uitschakelen: voeg 'enablezeromint = 0' toe aan crs.conf
+- enable: voeg 'enablezeromint = 1' toe aan crsx.conf
+- uitschakelen: voeg 'enablezeromint = 0' toe aan crsx.conf
 
 Om het percentage te wijzigen (geen herstart vereist): 
-- menu Instellingen-&gt; Opties-&gt; Percentage van geautomatiseerde zCRS
+- menu Instellingen-&gt; Opties-&gt; Percentage van geautomatiseerde zCRSX
 </translation>
     </message>
     <message>
@@ -2789,12 +2789,12 @@ Maximum allowed: </source>
 Maximaal toegestaan:</translation>
     </message>
     <message>
-        <source>zCRS Spend #: </source>
-        <translation>zCRS besteed #:</translation>
+        <source>zCRSX Spend #: </source>
+        <translation>zCRSX besteed #:</translation>
     </message>
     <message>
-        <source>zCRS Mint</source>
-        <translation>zCRS mint</translation>
+        <source>zCRSX Mint</source>
+        <translation>zCRSX mint</translation>
     </message>
     <message>
         <source> &lt;b&gt;enabled&lt;/b&gt;.</source>
@@ -2809,12 +2809,12 @@ Maximaal toegestaan:</translation>
         <translation>Geconfigureerd doelpercentage:&lt;b&gt;</translation>
     </message>
     <message>
-        <source>zCRS is currently disabled due to maintenance.</source>
-        <translation>zCRS is momenteel uitgeschakeld vanwege onderhoud.</translation>
+        <source>zCRSX is currently disabled due to maintenance.</source>
+        <translation>zCRSX is momenteel uitgeschakeld vanwege onderhoud.</translation>
     </message>
     <message>
-        <source>zCRS is currently undergoing maintenance.</source>
-        <translation>zCRS wordt momenteel onderhouden.</translation>
+        <source>zCRSX is currently undergoing maintenance.</source>
+        <translation>zCRSX wordt momenteel onderhouden.</translation>
     </message>
     <message>
         <source>Denom. with value &lt;b&gt;1&lt;/b&gt;:</source>
@@ -2901,8 +2901,8 @@ Maximaal toegestaan:</translation>
         <translation>Succesvol gemint</translation>
     </message>
     <message>
-        <source> zCRS in </source>
-        <translation> zCRS in </translation>
+        <source> zCRSX in </source>
+        <translation> zCRSX in </translation>
     </message>
     <message>
         <source> sec. Used denominations:
@@ -2929,8 +2929,8 @@ Maximaal toegestaan:</translation>
         <translation>Geen 'Betaal aan' adres verstrekt, lokale betaling wordt gemaakt</translation>
     </message>
     <message>
-        <source>Invalid CRS Address</source>
-        <translation>Ongeldig CRS addres</translation>
+        <source>Invalid CRSX Address</source>
+        <translation>Ongeldig CRSX addres</translation>
     </message>
     <message>
         <source>Invalid Send Amount</source>
@@ -2961,12 +2961,12 @@ Maximaal toegestaan:</translation>
         <translation>Bevestig verzending coins</translation>
     </message>
     <message>
-        <source>Version 1 zCRS require a security level of 100 to successfully spend.</source>
-        <translation>Versie 1 zCRS vereist een beveiligingsniveau van 100 om succesvol te besteden.</translation>
+        <source>Version 1 zCRSX require a security level of 100 to successfully spend.</source>
+        <translation>Versie 1 zCRSX vereist een beveiligingsniveau van 100 om succesvol te besteden.</translation>
     </message>
     <message>
-        <source>Failed to spend zCRS</source>
-        <translation>Mislukt om zCRS te besteden.</translation>
+        <source>Failed to spend zCRSX</source>
+        <translation>Mislukt om zCRSX te besteden.</translation>
     </message>
     <message>
         <source>Failed to fetch mint associated with serial hash</source>
@@ -2988,7 +2988,7 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
     </message>
     <message numerus="yes">
         <source>PrivacyDialog</source>
-        <comment>Enter an amount of CRS to convert to zCRS</comment>
+        <comment>Enter an amount of CRSX to convert to zCRSX</comment>
         <translation><numerusform>PrivacyDialoog</numerusform><numerusform>PrivacyDialog</numerusform></translation>
     </message>
     <message>
@@ -3031,8 +3031,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Hoeveelheid</translation>
     </message>
     <message>
-        <source>Enter a CRS address (e.g. %1)</source>
-        <translation>Voer een CRS adres in (b.v. %1)</translation>
+        <source>Enter a CRSX address (e.g. %1)</source>
+        <translation>Voer een CRSX adres in (b.v. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -3169,8 +3169,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Blockchain</translation>
     </message>
     <message>
-        <source>Open the CRS debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open het CRS debug log bestand uit de huidige data directory. Dit kan enkele seconden duren voor grote logbestanden.</translation>
+        <source>Open the CRSX debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open het CRSX debug log bestand uit de huidige data directory. Dit kan enkele seconden duren voor grote logbestanden.</translation>
     </message>
     <message>
         <source>Number of Masternodes</source>
@@ -3305,8 +3305,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Aangepast back-up pad:</translation>
     </message>
     <message>
-        <source>Custom zCRS Backup Path:</source>
-        <translation>Aangepast zCRS back-up pad:</translation>
+        <source>Custom zCRSX Backup Path:</source>
+        <translation>Aangepast zCRSX back-up pad:</translation>
     </message>
     <message>
         <source>Custom Backups Threshold:</source>
@@ -3385,8 +3385,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Uit:</translation>
     </message>
     <message>
-        <source>Welcome to the CRS RPC console.</source>
-        <translation>Welkom bij de CRS RPC console.</translation>
+        <source>Welcome to the CRSX RPC console.</source>
+        <translation>Welkom bij de CRSX RPC console.</translation>
     </message>
     <message>
         <source>&amp;Disconnect Node</source>
@@ -3512,16 +3512,16 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Een optioneel label om te associëren met het nieuwe ontvangstadres.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the CRS network.</source>
-        <translation>Een optioneel bericht dat aan het betalingsverzoek wordt gehecht, dat wordt weergegeven wanneer het verzoek wordt geopend. Opmerking: het bericht wordt niet verzonden met de betaling via het CRS netwerk.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the CRSX network.</source>
+        <translation>Een optioneel bericht dat aan het betalingsverzoek wordt gehecht, dat wordt weergegeven wanneer het verzoek wordt geopend. Opmerking: het bericht wordt niet verzonden met de betaling via het CRSX netwerk.</translation>
     </message>
     <message>
         <source>RECEIVE</source>
         <translation>ontvangen</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the CRS network.</source>
-        <translation>Een optioneel bericht dat aan het betalingsverzoek wordt gehecht, dat wordt weergegeven wanneer het verzoek wordt geopend.&lt;br&gt;Opmerking: het bericht wordt niet verzonden met de betaling via het CRS netwerk.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the CRSX network.</source>
+        <translation>Een optioneel bericht dat aan het betalingsverzoek wordt gehecht, dat wordt weergegeven wanneer het verzoek wordt geopend.&lt;br&gt;Opmerking: het bericht wordt niet verzonden met de betaling via het CRSX netwerk.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -3749,8 +3749,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>UTXO grootte:</translation>
     </message>
     <message>
-        <source>0 CRS</source>
-        <translation>0 CRS</translation>
+        <source>0 CRSX</source>
+        <translation>0 CRSX</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -3805,16 +3805,16 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Munten automatisch geselecteerd</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uCRSs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uCRSs in fee,&lt;br /&gt;while "at least" pays 1000 uCRSs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Als de aangepaste vergoeding is ingesteld op 1000 uCRSs en de transactie is slechts 250 bytes, dan betaalt per kilobyte alleen 250 uCRS's in vergoeding,&lt;br /&gt;terwijl "minstens" 1000 uCRS's betaalt. Voor transacties die groter zijn dan een kilobyte, betalen beiden per kilobyte.</translation>
+        <source>If the custom fee is set to 1000 uCRSXs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uCRSXs in fee,&lt;br /&gt;while "at least" pays 1000 uCRSXs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Als de aangepaste vergoeding is ingesteld op 1000 uCRSXs en de transactie is slechts 250 bytes, dan betaalt per kilobyte alleen 250 uCRSX's in vergoeding,&lt;br /&gt;terwijl "minstens" 1000 uCRSX's betaalt. Voor transacties die groter zijn dan een kilobyte, betalen beiden per kilobyte.</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uCRSs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uCRSs in fee,&lt;br /&gt;while "total at least" pays 1000 uCRSs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Als de aangepaste vergoeding is ingesteld op 1000 uCRSs en de transactie is slechts 250 bytes, dan betaalt per kilobyte alleen 250 uCRS's in vergoeding,&lt;br /&gt;terwijl "totaal minstens" 1000 uCRS's betaalt. Voor transacties die groter zijn dan een kilobyte, betalen beiden per kilobyte.</translation>
+        <source>If the custom fee is set to 1000 uCRSXs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uCRSXs in fee,&lt;br /&gt;while "total at least" pays 1000 uCRSXs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Als de aangepaste vergoeding is ingesteld op 1000 uCRSXs en de transactie is slechts 250 bytes, dan betaalt per kilobyte alleen 250 uCRSX's in vergoeding,&lt;br /&gt;terwijl "totaal minstens" 1000 uCRSX's betaalt. Voor transacties die groter zijn dan een kilobyte, betalen beiden per kilobyte.</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for CRS transactions than the network can process.</source>
-        <translation>Alleen de minimale vergoeding betalen is prima, zolang er minder transactie volume is dan ruimte in de blokken. &lt;br /&gt;Maar wees ervan bewust dat dit kan leiden tot een nooit bevestigende transactie wanneer er meer vraag is naar CRS transacties dan het netwerk kan verwerken.</translation>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for CRSX transactions than the network can process.</source>
+        <translation>Alleen de minimale vergoeding betalen is prima, zolang er minder transactie volume is dan ruimte in de blokken. &lt;br /&gt;Maar wees ervan bewust dat dit kan leiden tot een nooit bevestigende transactie wanneer er meer vraag is naar CRSX transacties dan het netwerk kan verwerken.</translation>
     </message>
     <message>
         <source>normal</source>
@@ -3861,8 +3861,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Voeg &amp;ontvanger toe</translation>
     </message>
     <message>
-        <source>Anonymized CRS</source>
-        <translation>Geanonimiseerde CRS</translation>
+        <source>Anonymized CRSX</source>
+        <translation>Geanonimiseerde CRSX</translation>
     </message>
     <message>
         <source>Balance:</source>
@@ -3909,8 +3909,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Het split block tool werkt niet met meerdere adressen. Probeer het nog eens.</translation>
     </message>
     <message>
-        <source>Warning: Invalid CRS address</source>
-        <translation>Waarschuwing: Ongeldig CRS adres</translation>
+        <source>Warning: Invalid CRSX address</source>
+        <translation>Waarschuwing: Ongeldig CRSX adres</translation>
     </message>
     <message>
         <source>%1 to %2</source>
@@ -4012,8 +4012,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Betaal &amp;Naar:</translation>
     </message>
     <message>
-        <source>The CRS address to send the payment to</source>
-        <translation>Het CRS adres om de betaling naar te verzenden</translation>
+        <source>The CRSX address to send the payment to</source>
+        <translation>Het CRSX adres om de betaling naar te verzenden</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -4052,8 +4052,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Bericht:</translation>
     </message>
     <message>
-        <source>A message that was attached to the CRS: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the CRS network.</source>
-        <translation>Een bericht dat is gehecht aan de CRS: URI die bij de transactie wordt opgeslagen voor uw referentie. Opmerking: dit bericht wordt niet verzonden via het CRS netwerk.</translation>
+        <source>A message that was attached to the CRSX: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the CRSX network.</source>
+        <translation>Een bericht dat is gehecht aan de CRSX: URI die bij de transactie wordt opgeslagen voor uw referentie. Opmerking: dit bericht wordt niet verzonden via het CRSX netwerk.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -4079,8 +4079,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>CRS Core is shutting down...</source>
-        <translation>CRS Core is aan het afsluiten...</translation>
+        <source>CRSX Core is shutting down...</source>
+        <translation>CRSX Core is aan het afsluiten...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -4102,8 +4102,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Je kunt berichten met je adressen ondertekenen om te bewijzen dat je ze bezit. Wees voorzichtig om niets vaags te ondertekenen, omdat phishing aanvallen je misschien kunnen proberen om je identiteit over te geven. Teken alleen volledig gedetailleerde verklaringen aan waar je mee akkoord gaat.</translation>
     </message>
     <message>
-        <source>The CRS address to sign the message with</source>
-        <translation>Het CRS adres om het bericht met te ondertekenen</translation>
+        <source>The CRSX address to sign the message with</source>
+        <translation>Het CRSX adres om het bericht met te ondertekenen</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -4134,16 +4134,16 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Kopieer de huidige handtekening naar het systeemklembord</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this CRS address</source>
-        <translation>Onderteken het bericht om te bewijzen dat u het CRS adres bezit</translation>
+        <source>Sign the message to prove you own this CRSX address</source>
+        <translation>Onderteken het bericht om te bewijzen dat u het CRSX adres bezit</translation>
     </message>
     <message>
-        <source>The CRS address the message was signed with</source>
-        <translation>Het CRS adres waarmee het bericht was ondertekend</translation>
+        <source>The CRSX address the message was signed with</source>
+        <translation>Het CRSX adres waarmee het bericht was ondertekend</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified CRS address</source>
-        <translation>Controleer een bericht om te verifiëren dat het ondertekend is door het gespecificeerde CRS adres</translation>
+        <source>Verify the message to ensure it was signed with the specified CRSX address</source>
+        <translation>Controleer een bericht om te verifiëren dat het ondertekend is door het gespecificeerde CRSX adres</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -4229,8 +4229,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>CRS Core</source>
-        <translation>CRS Kern</translation>
+        <source>CRSX Core</source>
+        <translation>CRSX Kern</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -4245,8 +4245,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>De Dash Kernontwikkelaars</translation>
     </message>
     <message>
-        <source>The CRS Core developers</source>
-        <translation>De CRS Kernontwikkelaars</translation>
+        <source>The CRSX Core developers</source>
+        <translation>De CRSX Kernontwikkelaars</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -4525,12 +4525,12 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Verkregen via verduistering</translation>
     </message>
     <message>
-        <source>CRS Stake</source>
-        <translation>CRS Stake</translation>
+        <source>CRSX Stake</source>
+        <translation>CRSX Stake</translation>
     </message>
     <message>
-        <source>zCRS Stake</source>
-        <translation>zCRS Stake</translation>
+        <source>zCRSX Stake</source>
+        <translation>zCRSX Stake</translation>
     </message>
     <message>
         <source>Obfuscation Denominate</source>
@@ -4549,32 +4549,32 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Verduistering creëert denominaties</translation>
     </message>
     <message>
-        <source>Converted CRS to zCRS</source>
-        <translation>Geconverteerde CRS naar zCRS</translation>
+        <source>Converted CRSX to zCRSX</source>
+        <translation>Geconverteerde CRSX naar zCRSX</translation>
     </message>
     <message>
-        <source>Spent zCRS</source>
-        <translation>Bestede zCRS</translation>
+        <source>Spent zCRSX</source>
+        <translation>Bestede zCRSX</translation>
     </message>
     <message>
-        <source>Received CRS from zCRS</source>
-        <translation>Ontvangen CRS van zCRS</translation>
+        <source>Received CRSX from zCRSX</source>
+        <translation>Ontvangen CRSX van zCRSX</translation>
     </message>
     <message>
-        <source>Minted Change as zCRS from zCRS Spend</source>
-        <translation>Gemint wisselgeld als zCRS van bestede zCRS</translation>
+        <source>Minted Change as zCRSX from zCRSX Spend</source>
+        <translation>Gemint wisselgeld als zCRSX van bestede zCRSX</translation>
     </message>
     <message>
-        <source>Converted zCRS to CRS</source>
-        <translation>Geconverteerde zCRS naar CRS</translation>
+        <source>Converted zCRSX to CRSX</source>
+        <translation>Geconverteerde zCRSX naar CRSX</translation>
     </message>
     <message>
-        <source>Anonymous (zCRS Transaction)</source>
-        <translation>Anonieme (zCRS transactie)</translation>
+        <source>Anonymous (zCRSX Transaction)</source>
+        <translation>Anonieme (zCRSX transactie)</translation>
     </message>
     <message>
-        <source>Anonymous (zCRS Stake)</source>
-        <translation>Anonieme (zCRS stake)</translation>
+        <source>Anonymous (zCRSX Stake)</source>
+        <translation>Anonieme (zCRSX stake)</translation>
     </message>
     <message>
         <source>Sent to</source>
@@ -4784,12 +4784,12 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Exporteren succesvol</translation>
     </message>
     <message>
-        <source>Received CRS from zCRS</source>
-        <translation>Ontvangen CRS van zCRS</translation>
+        <source>Received CRSX from zCRSX</source>
+        <translation>Ontvangen CRSX van zCRSX</translation>
     </message>
     <message>
-        <source>Zerocoin Spend, Change in zCRS</source>
-        <translation>Zerocoin besteed, wisselgeld in zCRS</translation>
+        <source>Zerocoin Spend, Change in zCRSX</source>
+        <translation>Zerocoin besteed, wisselgeld in zCRSX</translation>
     </message>
     <message>
         <source>The transaction history was successfully saved to %1.</source>
@@ -4825,8 +4825,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Verzend Munten</translation>
     </message>
     <message>
-        <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 CRS.</source>
-        <translation>SwiftTX ondersteunt geen verzendwaarden die zo hoog zijn. Transacties zijn momenteel beperkt tot %1 CRS.</translation>
+        <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 CRSX.</source>
+        <translation>SwiftTX ondersteunt geen verzendwaarden die zo hoog zijn. Transacties zijn momenteel beperkt tot %1 CRSX.</translation>
     </message>
 </context>
 <context>
@@ -4857,10 +4857,10 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
     </message>
 </context>
 <context>
-    <name>ZCRSControlDialog</name>
+    <name>ZCRSXControlDialog</name>
     <message>
-        <source>Select zCRS to Spend</source>
-        <translation>Selecteer zCRS om te besteden</translation>
+        <source>Select zCRSX to Spend</source>
+        <translation>Selecteer zCRSX om te besteden</translation>
     </message>
     <message>
         <source>Quantity</source>
@@ -4871,8 +4871,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>0</translation>
     </message>
     <message>
-        <source>zCRS</source>
-        <translation>zCRS</translation>
+        <source>zCRSX</source>
+        <translation>zCRSX</translation>
     </message>
     <message>
         <source>Select/Deselect All</source>
@@ -4910,8 +4910,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Het berekende accumulatie controlepunt is niet wat wordt geregistreerd door de blokindex</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. CRS Core is probably already running.</source>
-        <translation>Kan geen vergrendeling op data directory %s verkrijgen. CRS Core loopt waarschijnlijk al.</translation>
+        <source>Cannot obtain a lock on data directory %s. CRSX Core is probably already running.</source>
+        <translation>Kan geen vergrendeling op data directory %s verkrijgen. CRSX Core loopt waarschijnlijk al.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -4938,16 +4938,16 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Gedistribueerd onder de MIT software licentie, zie het bijgevoegde bestand COPYING of &lt;http://www.opensource.org/licenses/mit-license.php&gt;.</translation>
     </message>
     <message>
-        <source>Enable automatic wallet backups triggered after each zCRS minting (0-1, default: %u)</source>
-        <translation>Schakel automatische portemonnee back-ups in geactiveerd na elke geminte zCRS (0-1, standaard: %u)</translation>
+        <source>Enable automatic wallet backups triggered after each zCRSX minting (0-1, default: %u)</source>
+        <translation>Schakel automatische portemonnee back-ups in geactiveerd na elke geminte zCRSX (0-1, standaard: %u)</translation>
     </message>
     <message>
-        <source>Enable or disable staking functionality for CRS inputs (0-1, default: %u)</source>
-        <translation>In- of uitschakelen staking functionaliteit voor CRS inputs (0-1, standaard: %u)</translation>
+        <source>Enable or disable staking functionality for CRSX inputs (0-1, default: %u)</source>
+        <translation>In- of uitschakelen staking functionaliteit voor CRSX inputs (0-1, standaard: %u)</translation>
     </message>
     <message>
-        <source>Enable or disable staking functionality for zCRS inputs (0-1, default: %u)</source>
-        <translation>In- of uitschakelen staking functionaliteit voor zCRS inputs (0-1, standaard: %u)</translation>
+        <source>Enable or disable staking functionality for zCRSX inputs (0-1, default: %u)</source>
+        <translation>In- of uitschakelen staking functionaliteit voor zCRSX inputs (0-1, standaard: %u)</translation>
     </message>
     <message>
         <source>Enable spork administration functionality with the appropriate private key.</source>
@@ -4982,12 +4982,12 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Uitvoeren commando wanneer het beste blok verandert (%s in cmd is vervangen door block hash)</translation>
     </message>
     <message>
-        <source>Fees (in CRS/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Kosten (in CRS/Kb) kleiner dan dit worden beschouwd als zero fee voor heruitzending (standaard: %s)</translation>
+        <source>Fees (in CRSX/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Kosten (in CRSX/Kb) kleiner dan dit worden beschouwd als zero fee voor heruitzending (standaard: %s)</translation>
     </message>
     <message>
-        <source>Fees (in CRS/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Kosten (in CRS/Kb) kleiner dan dit worden beschouwd als zero fee voor transactie verrichting (standaard: %s)</translation>
+        <source>Fees (in CRSX/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>Kosten (in CRSX/Kb) kleiner dan dit worden beschouwd als zero fee voor transactie verrichting (standaard: %s)</translation>
     </message>
     <message>
         <source>Flush database activity from memory pool to disk log every &lt;n&gt; megabytes (default: %u)</source>
@@ -5086,20 +5086,20 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in de OpenSSL Toolkit &lt;https://www.openssl.org/&gt; en cryptografische software geschreven door Eric Young en UPnP software geschreven door Thomas Bernard.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. CRS Core is probably already running.</source>
-        <translation>Niet mogelijk te binden aan %s op deze computer. CRS Core loopt waarschijnlijk al.</translation>
+        <source>Unable to bind to %s on this computer. CRSX Core is probably already running.</source>
+        <translation>Niet mogelijk te binden aan %s op deze computer. CRSX Core loopt waarschijnlijk al.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
         <translation>Kan niet genoeg verduistering gedenomineerde fondsen voor deze transactie vinden.</translation>
     </message>
     <message>
-        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 CRS.</source>
-        <translation>Kan niet genoeg verduistering niet gedenomineerde fondsen voor deze transactie vinden die niet gelijk zijn aan 10000 CRS.</translation>
+        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 CRSX.</source>
+        <translation>Kan niet genoeg verduistering niet gedenomineerde fondsen voor deze transactie vinden die niet gelijk zijn aan 10000 CRSX.</translation>
     </message>
     <message>
-        <source>Unable to locate enough funds for this transaction that are not equal 10000 CRS.</source>
-        <translation>Kan niet genoeg fondsen voor deze transactie vinden die niet gelijk zijn aan 10000 CRS.</translation>
+        <source>Unable to locate enough funds for this transaction that are not equal 10000 CRSX.</source>
+        <translation>Kan niet genoeg fondsen voor deze transactie vinden die niet gelijk zijn aan 10000 CRSX.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
@@ -5114,8 +5114,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Waarschuwing: -paytxfee is zeer hoog ingesteld! Dit zijn de transactie kosten die je betaalt als je een transactie verstuurt.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong CRS Core will not work properly.</source>
-        <translation>Waarschuwing: Controleer of de datum en tijd van je computer juist zijn! Als je klok verkeerd staat, werkt CRS Core niet goed.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong CRSX Core will not work properly.</source>
+        <translation>Waarschuwing: Controleer of de datum en tijd van je computer juist zijn! Als je klok verkeerd staat, werkt CRSX Core niet goed.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -5266,8 +5266,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Copyright (C) 2014-%i The Dash Kernontwikkelaars</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The CRS Core Developers</source>
-        <translation>Copyright (C) 2015-%i The CRS Kernontwikkelaars</translation>
+        <source>Copyright (C) 2015-%i The CRSX Core Developers</source>
+        <translation>Copyright (C) 2015-%i The CRSX Kernontwikkelaars</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -5354,8 +5354,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Error tijdens het laden van wallet.dat: Portemonnee corrupt</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of CRS Core</source>
-        <translation>Fout bij het laden van wallet.dat: Portemonnee vereist een nieuwere versie van CRS Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of CRSX Core</source>
+        <translation>Fout bij het laden van wallet.dat: Portemonnee vereist een nieuwere versie van CRSX Core</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -5410,8 +5410,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Mislukt om block te lezen</translation>
     </message>
     <message>
-        <source>Fee (in CRS/kB) to add to transactions you send (default: %s)</source>
-        <translation>Fee (in CRS/kB) om toe te voegen aan transacties die je verzendt (standaard: %s)</translation>
+        <source>Fee (in CRSX/kB) to add to transactions you send (default: %s)</source>
+        <translation>Fee (in CRSX/kB) om toe te voegen aan transacties die je verzendt (standaard: %s)</translation>
     </message>
     <message>
         <source>Finalizing transaction.</source>
@@ -5470,8 +5470,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Informatie</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. CRS Core is shutting down.</source>
-        <translation>Initialisatie saniteitscontrole mislukt. CRS Core wordt afgesloten.</translation>
+        <source>Initialization sanity check failed. CRSX Core is shutting down.</source>
+        <translation>Initialisatie saniteitscontrole mislukt. CRSX Core wordt afgesloten.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -5542,8 +5542,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Percentage automatisch geminte Zerocoin (10-100, standaard: %u)</translation>
     </message>
     <message>
-        <source>Reindex the CRS and zCRS money supply statistics</source>
-        <translation>Indexeer de CRS- en zCRS-geldvoorraadstatistieken opnieuw</translation>
+        <source>Reindex the CRSX and zCRSX money supply statistics</source>
+        <translation>Indexeer de CRSX- en zCRSX-geldvoorraadstatistieken opnieuw</translation>
     </message>
     <message>
         <source>Reindexing zerocoin database...</source>
@@ -5582,8 +5582,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
 </translation>
     </message>
     <message>
-        <source>Disable all CRS specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
-        <translation>Schakel alle specifieke CRS functionaliteit uit (Masternodes, Zerocoin, SwiftTX, Budgeting) (0-1, standaard: %u)</translation>
+        <source>Disable all CRSX specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
+        <translation>Schakel alle specifieke CRSX functionaliteit uit (Masternodes, Zerocoin, SwiftTX, Budgeting) (0-1, standaard: %u)</translation>
     </message>
     <message>
         <source>Enable SwiftX, show confirmations for locked transactions (bool, default: %s)</source>
@@ -5618,8 +5618,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Voorkeur denominatie voor automatisch minted Zerocoin (1/5/10/50/100/500/1000/5000), 0 voor geen voorkeur. standaard: %u)</translation>
     </message>
     <message>
-        <source>Specify custom backup path to add a copy of any automatic zCRS backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup. If backuppath is set as well, 4 backups will happen</source>
-        <translation>Specificeer aangepast back-up pad om een kopie van elke automatische zCRS back-up toe te voegen. Indien ingesteld als dir zal elke back-up een bestand genereren met een tijdstempel. Indien ingesteld als file zal elke back-up herschreven worden naar dat bestand. Indien backuppath ook is ingesteld zullen 4 back-ups gedaan worden.</translation>
+        <source>Specify custom backup path to add a copy of any automatic zCRSX backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup. If backuppath is set as well, 4 backups will happen</source>
+        <translation>Specificeer aangepast back-up pad om een kopie van elke automatische zCRSX back-up toe te voegen. Indien ingesteld als dir zal elke back-up een bestand genereren met een tijdstempel. Indien ingesteld als file zal elke back-up herschreven worden naar dat bestand. Indien backuppath ook is ingesteld zullen 4 back-ups gedaan worden.</translation>
     </message>
     <message>
         <source>Specify custom backup path to add a copy of any wallet backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup.</source>
@@ -6118,8 +6118,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Synchroniseren sporks...</translation>
     </message>
     <message>
-        <source>Syncing zCRS wallet...</source>
-        <translation>Synchroniseren zCRS portemonnee...</translation>
+        <source>Syncing zCRSX wallet...</source>
+        <translation>Synchroniseren zCRSX portemonnee...</translation>
     </message>
     <message>
         <source>The coin spend has been used</source>
@@ -6266,8 +6266,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Gebruikersnaam voor JSON-RPC verbindingen</translation>
     </message>
     <message>
-        <source>Value is below the smallest available denomination (= 1) of zCRS</source>
-        <translation>Waarde is minder dan de kleinst beschikbare denominatie (=1) van zCRS</translation>
+        <source>Value is below the smallest available denomination (= 1) of zCRSX</source>
+        <translation>Waarde is minder dan de kleinst beschikbare denominatie (=1) van zCRSX</translation>
     </message>
     <message>
         <source>Value more than Obfuscation pool maximum allows.</source>
@@ -6282,8 +6282,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Portemonnee verifiëren...</translation>
     </message>
     <message>
-        <source>Version 1 zCRS require a security level of 100 to successfully spend.</source>
-        <translation>Versie 1 zCRS vereist een beveiligingsniveau van 100 om succesvol uit te geven.</translation>
+        <source>Version 1 zCRSX require a security level of 100 to successfully spend.</source>
+        <translation>Versie 1 zCRSX vereist een beveiligingsniveau van 100 om succesvol uit te geven.</translation>
     </message>
     <message>
         <source>Wallet %s resides outside data directory %s</source>
@@ -6294,8 +6294,8 @@ Ofwel het munten van hogere denominaties (dus minder invoer nodig) of het te bes
         <translation>Portemonnee is vergrendeld.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart CRS Core to complete</source>
-        <translation>Wallet moest worden herschreven: start CRS Core opnieuw om te voltooien</translation>
+        <source>Wallet needed to be rewritten: restart CRSX Core to complete</source>
+        <translation>Wallet moest worden herschreven: start CRSX Core opnieuw om te voltooien</translation>
     </message>
     <message>
         <source>Wallet options:</source>

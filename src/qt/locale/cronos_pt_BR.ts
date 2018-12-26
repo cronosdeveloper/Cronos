@@ -62,12 +62,12 @@
         <translation>Endereços de recebimento</translation>
     </message>
     <message>
-        <source>These are your CRS addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Esses são seus endereços CRS para envio de pagamentos. Sempre verifique a quantia e os endereços de recebimento antes de enviar moedas.</translation>
+        <source>These are your CRSX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Esses são seus endereços CRSX para envio de pagamentos. Sempre verifique a quantia e os endereços de recebimento antes de enviar moedas.</translation>
     </message>
     <message>
-        <source>These are your CRS addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Esses são seus endereços CRS para recebimento de pagamentos. É recomendado usar um novo endereço para cada transação.</translation>
+        <source>These are your CRSX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Esses são seus endereços CRSX para recebimento de pagamentos. É recomendado usar um novo endereço para cada transação.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,16 +176,16 @@
         <translation>Confirmar criptografia de carteira</translation>
     </message>
     <message>
-        <source>CRS will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your CRSs from being stolen by malware infecting your computer.</source>
-        <translation>CRS vai fechar agora para finalizar o processo de criptografia. Lembre-se que encriptar sua carteira não pode proteger totalmente suas CRSs de serem roubadas por malwares infectando seu computador.</translation>
+        <source>CRSX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your CRSXs from being stolen by malware infecting your computer.</source>
+        <translation>CRSX vai fechar agora para finalizar o processo de criptografia. Lembre-se que encriptar sua carteira não pode proteger totalmente suas CRSXs de serem roubadas por malwares infectando seu computador.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Você tem certeza que deseja criptografar sua carteira?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CRS&lt;/b&gt;!</source>
-        <translation>Aviso: se você criptografar sua carteira e perder sua senha você &lt;b&gt;PERDERÁ TODAS AS SUAS CRS&lt;b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CRSX&lt;/b&gt;!</source>
+        <translation>Aviso: se você criptografar sua carteira e perder sua senha você &lt;b&gt;PERDERÁ TODAS AS SUAS CRSX&lt;b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -254,7 +254,7 @@
         <translation>Endereço:</translation>
     </message>
     <message>
-        <source>Enter a CRS Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <source>Enter a CRSX Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
         <translation>Insira um endereço que você deseja criptografar usando a BIP 38. Insira a palavra-chave na caixa do meio. Pressione criptografar para computar a chave privada criptografada.</translation>
     </message>
     <message>
@@ -409,8 +409,8 @@
         <translation>Olhar histórico de transação</translation>
     </message>
     <message>
-        <source>Privacy Actions for zCRS</source>
-        <translation>Ações privadas para zCRS</translation>
+        <source>Privacy Actions for zCRSX</source>
+        <translation>Ações privadas para zCRSX</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
@@ -613,16 +613,16 @@
         <translation>Ferramentas de abas</translation>
     </message>
     <message>
-        <source>CRS Core</source>
-        <translation>CRS Core</translation>
+        <source>CRSX Core</source>
+        <translation>CRSX Core</translation>
     </message>
     <message>
-        <source>Send coins to a CRS address</source>
-        <translation>Enviar moedas para um endereço CRS</translation>
+        <source>Send coins to a CRSX address</source>
+        <translation>Enviar moedas para um endereço CRSX</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and crs: URIs)</source>
-        <translation>Requisitar pagamentos (gera códigos QR e crs: URIs)</translation>
+        <source>Request payments (generates QR codes and crsx: URIs)</source>
+        <translation>Requisitar pagamentos (gera códigos QR e crsx: URIs)</translation>
     </message>
     <message>
         <source>&amp;Privacy</source>
@@ -637,24 +637,24 @@
         <translation>Procurar masternodes</translation>
     </message>
     <message>
-        <source>&amp;About CRS Core</source>
-        <translation>&amp;Sobre o CRS Core</translation>
+        <source>&amp;About CRSX Core</source>
+        <translation>&amp;Sobre o CRSX Core</translation>
     </message>
     <message>
-        <source>Show information about CRS Core</source>
-        <translation>Mostra informação sobre o CRS Core</translation>
+        <source>Show information about CRSX Core</source>
+        <translation>Mostra informação sobre o CRSX Core</translation>
     </message>
     <message>
-        <source>Modify configuration options for CRS</source>
-        <translation>Modificar opções de configuração para CRS</translation>
+        <source>Modify configuration options for CRSX</source>
+        <translation>Modificar opções de configuração para CRSX</translation>
     </message>
     <message>
-        <source>Sign messages with your CRS addresses to prove you own them</source>
-        <translation>Assine mensagens com seus endereços CRS para provar que você os detém</translation>
+        <source>Sign messages with your CRSX addresses to prove you own them</source>
+        <translation>Assine mensagens com seus endereços CRSX para provar que você os detém</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified CRS addresses</source>
-        <translation>Verifique as mensagens para ter certeza que estão assinadas com os endereços CRS especificados</translation>
+        <source>Verify messages to ensure they were signed with specified CRSX addresses</source>
+        <translation>Verifique as mensagens para ter certeza que estão assinadas com os endereços CRSX especificados</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -685,8 +685,8 @@
         <translation>Abrir arquivo de configuração de Masternode</translation>
     </message>
     <message>
-        <source>Open a CRS: URI or payment request</source>
-        <translation>Abrir um CRS: URI ou requisição de pagamento</translation>
+        <source>Open a CRSX: URI or payment request</source>
+        <translation>Abrir um CRSX: URI ou requisição de pagamento</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -697,12 +697,12 @@
         <translation>Janela de exploração de blocos</translation>
     </message>
     <message>
-        <source>Show the CRS Core help message to get a list with possible CRS command-line options</source>
-        <translation>Mostra a ajuda da CRS Core para receber uma lista com possíveis opções de linha de comando CRS</translation>
+        <source>Show the CRSX Core help message to get a list with possible CRSX command-line options</source>
+        <translation>Mostra a ajuda da CRSX Core para receber uma lista com possíveis opções de linha de comando CRSX</translation>
     </message>
     <message>
-        <source>CRS Core client</source>
-        <translation>Cliente Core CRS</translation>
+        <source>CRSX Core client</source>
+        <translation>Cliente Core CRSX</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -837,8 +837,8 @@ MultiSend: %1</translation>
         <translation>Rótulo</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (crs.conf).</source>
-        <translation>Nem todas as transações serão exibidas. Para visualizar todas as transações você precisa definir txindex=1 no arquivo de configuração (crs.conf). </translation>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (crsx.conf).</source>
+        <translation>Nem todas as transações serão exibidas. Para visualizar todas as transações você precisa definir txindex=1 no arquivo de configuração (crsx.conf). </translation>
     </message>
 </context>
 <context>
@@ -1118,8 +1118,8 @@ MultiSend: %1</translation>
         <translation>Editar endereço remetente</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid CRS address.</source>
-        <translation>O endereço que você selecionou, "%1" , não é um endereço válido de CRS</translation>
+        <source>The entered address "%1" is not a valid CRSX address.</source>
+        <translation>O endereço que você selecionou, "%1" , não é um endereço válido de CRSX</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1164,16 +1164,16 @@ MultiSend: %1</translation>
         <translation>versão</translation>
     </message>
     <message>
-        <source>CRS Core</source>
-        <translation>CRS Core</translation>
+        <source>CRSX Core</source>
+        <translation>CRSX Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About CRS Core</source>
-        <translation>Sobre o CRS Core</translation>
+        <source>About CRSX Core</source>
+        <translation>Sobre o CRSX Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1215,16 +1215,16 @@ MultiSend: %1</translation>
         <translation>Bem-vindo</translation>
     </message>
     <message>
-        <source>Welcome to CRS Core.</source>
-        <translation>Bem-vindo ao CRS Core.</translation>
+        <source>Welcome to CRSX Core.</source>
+        <translation>Bem-vindo ao CRSX Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where CRS Core will store its data.</source>
-        <translation>Como essa é a primeira vez que o programa é utilizado, você pode escolher onde CRS Core vai armazenar os seus dados.</translation>
+        <source>As this is the first time the program is launched, you can choose where CRSX Core will store its data.</source>
+        <translation>Como essa é a primeira vez que o programa é utilizado, você pode escolher onde CRSX Core vai armazenar os seus dados.</translation>
     </message>
     <message>
-        <source>CRS Core will download and store a copy of the CRS block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>CRS Core vai baixar e armazenar uma cópia da blockchain CRS. Pelo menos %1GB de informação será armazenado neste diretório e irá aumentar com o tempo. A carteira também será armazenada neste diretório.</translation>
+        <source>CRSX Core will download and store a copy of the CRSX block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>CRSX Core vai baixar e armazenar uma cópia da blockchain CRSX. Pelo menos %1GB de informação será armazenado neste diretório e irá aumentar com o tempo. A carteira também será armazenada neste diretório.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1235,8 +1235,8 @@ MultiSend: %1</translation>
         <translation>Usar um diretório personalizado de dados:</translation>
     </message>
     <message>
-        <source>CRS Core</source>
-        <translation>CRS Core</translation>
+        <source>CRSX Core</source>
+        <translation>CRSX Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1574,48 +1574,48 @@ Favor verificar o endereço e tente novamente.</translation>
         <translation>Favor selecionar o nível de privacidade.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 CRS</source>
-        <translation>Use 2 masternodes separados para embaralhar fundos até 10000 CRS</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 CRSX</source>
+        <translation>Use 2 masternodes separados para embaralhar fundos até 10000 CRSX</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 CRS</source>
-        <translation>Use 8 masternodes separados para embaralhar fundos até 10000 CRS</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 CRSX</source>
+        <translation>Use 8 masternodes separados para embaralhar fundos até 10000 CRSX</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Use 16 masternodes separados</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 CRS to anonymize 10000 CRS</source>
-        <translation>Está opção é a mais rápida e vai custar em torno de ~0.025 CRS para anonimizar 10000 CRS</translation>
+        <source>This option is the quickest and will cost about ~0.025 CRSX to anonymize 10000 CRSX</source>
+        <translation>Está opção é a mais rápida e vai custar em torno de ~0.025 CRSX para anonimizar 10000 CRSX</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 CRS to anonymize 10000 CRS</source>
-        <translation>Está opção moderamente rápida e vai custar em torno de ~0.05 CRS para anonimizar 10000 CRS</translation>
+        <source>This option is moderately fast and will cost about 0.05 CRSX to anonymize 10000 CRSX</source>
+        <translation>Está opção moderamente rápida e vai custar em torno de ~0.05 CRSX para anonimizar 10000 CRSX</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Esta é a opção mais lenta e mais segura. Usando a anonimização máxima vai custar</translation>
     </message>
     <message>
-        <source>0.1 CRS per 10000 CRS you anonymize.</source>
-        <translation>0.1 CRS por 10000 CRS que deixar anônima.</translation>
+        <source>0.1 CRSX per 10000 CRSX you anonymize.</source>
+        <translation>0.1 CRSX por 10000 CRSX que deixar anônima.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
         <translation>Configuração de ofuscação</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening CRS's configuration screen.</source>
-        <translation>Ofuscação foi definida com sucesso para o básico (%1 e 2 rodadas) Você pode mudar isto a qualquer tempo ao abrir a configuração de tela CRS's.</translation>
+        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening CRSX's configuration screen.</source>
+        <translation>Ofuscação foi definida com sucesso para o básico (%1 e 2 rodadas) Você pode mudar isto a qualquer tempo ao abrir a configuração de tela CRSX's.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening CRS's configuration screen.</source>
-        <translation>Ofuscação foi definida com sucesso para alto (%1 e 8 rodadas). Você pode mudar isto a qualquer tempo ao abrir a configuração de tela CRS's.</translation>
+        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening CRSX's configuration screen.</source>
+        <translation>Ofuscação foi definida com sucesso para alto (%1 e 8 rodadas). Você pode mudar isto a qualquer tempo ao abrir a configuração de tela CRSX's.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening CRS's configuration screen.</source>
-        <translation>Ofuscação foi definida com sucesso para máxima (%1 e 16 rodadas). Você pode mudar isto a qualquer tempo ao abrir a configuração de tela CRS's.</translation>
+        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening CRSX's configuration screen.</source>
+        <translation>Ofuscação foi definida com sucesso para máxima (%1 e 16 rodadas). Você pode mudar isto a qualquer tempo ao abrir a configuração de tela CRSX's.</translation>
     </message>
 </context>
 <context>
@@ -1668,8 +1668,8 @@ Favor verificar o endereço e tente novamente.</translation>
         <translation>C&amp;arteira</translation>
     </message>
     <message>
-        <source>Automatically open the CRS client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir automaticamente a porta do cliente CRS no roteador. Isto somente funciona quando seu roteador suporta UPnP e este esteja habilitado.</translation>
+        <source>Automatically open the CRSX client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abrir automaticamente a porta do cliente CRSX no roteador. Isto somente funciona quando seu roteador suporta UPnP e este esteja habilitado.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1688,12 +1688,12 @@ Favor verificar o endereço e tente novamente.</translation>
         <translation>Expert</translation>
     </message>
     <message>
-        <source>Automatically start CRS after logging in to the system.</source>
-        <translation>Iniciar automaticamente CRS depois de logar no sistema.</translation>
+        <source>Automatically start CRSX after logging in to the system.</source>
+        <translation>Iniciar automaticamente CRSX depois de logar no sistema.</translation>
     </message>
     <message>
-        <source>&amp;Start CRS on system login</source>
-        <translation>&amp;Iniciar CRS ao logar no sistema</translation>
+        <source>&amp;Start CRSX on system login</source>
+        <translation>&amp;Iniciar CRSX ao logar no sistema</translation>
     </message>
     <message>
         <source>Enable coin &amp;control features</source>
@@ -1708,18 +1708,18 @@ Favor verificar o endereço e tente novamente.</translation>
         <translation>&amp;Rede</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting CRS.</source>
-        <translation>A linguagem da interface pode ser definida aqui. Está configuração terá efeito após reinício do CRS.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting CRSX.</source>
+        <translation>A linguagem da interface pode ser definida aqui. Está configuração terá efeito após reinício do CRSX.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/crs-project/crs-project-translations</source>
+https://www.transifex.com/crsx-project/crsx-project-translations</source>
         <translation>Linguagem não encontrada ou tradução incompleta? Ajude contribuido com traduções aqui:
-https://www.transifex.com/crs-project/crs-project-translations</translation>
+https://www.transifex.com/crsx-project/crsx-project-translations</translation>
     </message>
     <message>
-        <source>Connect to the CRS network through a SOCKS5 proxy.</source>
-        <translation>Conectar à rede CRS através de um proxy SOCKS5</translation>
+        <source>Connect to the CRSX network through a SOCKS5 proxy.</source>
+        <translation>Conectar à rede CRSX através de um proxy SOCKS5</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1853,8 +1853,8 @@ https://www.transifex.com/crs-project/crs-project-translations</translation>
         <translation>Imaturo:</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRS network after a connection is established, but this process has not completed yet.</source>
-        <translation>A informação mostrada pode estar desatualizada. A sua carteira se sincroniza automaticamente com a rede CRS após estabelecer uma conexão, mas esse processo ainda não foi concluído.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRSX network after a connection is established, but this process has not completed yet.</source>
+        <translation>A informação mostrada pode estar desatualizada. A sua carteira se sincroniza automaticamente com a rede CRSX após estabelecer uma conexão, mas esse processo ainda não foi concluído.</translation>
     </message>
     <message>
         <source>Unconfirmed transactions to watch-only addresses</source>
@@ -1950,20 +1950,20 @@ https://www.transifex.com/crs-project/crs-project-translations</translation>
         <translation>Ações Zerocoin:</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRS network after a connection is established, but this process has not completed yet.</source>
-        <translation>A informação mostrada pode estar desatualizada. A sua carteira se sincroniza automaticamente com a rede CRS após estabelecer uma conexão, mas esse processo ainda não foi concluído.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRSX network after a connection is established, but this process has not completed yet.</source>
+        <translation>A informação mostrada pode estar desatualizada. A sua carteira se sincroniza automaticamente com a rede CRSX após estabelecer uma conexão, mas esse processo ainda não foi concluído.</translation>
     </message>
     <message>
         <source>0</source>
         <translation>0</translation>
     </message>
     <message>
-        <source>zCRS</source>
-        <translation>zCRS</translation>
+        <source>zCRSX</source>
+        <translation>zCRSX</translation>
     </message>
     <message>
-        <source>0.000 000 00 CRS</source>
-        <translation>0.000 000 00 CRS</translation>
+        <source>0.000 000 00 CRSX</source>
+        <translation>0.000 000 00 CRSX</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -1998,8 +1998,8 @@ https://www.transifex.com/crs-project/crs-project-translations</translation>
         <translation>Pagar &amp;Para:</translation>
     </message>
     <message>
-        <source>The CRS address to send the payment to. Creates local payment to yourself when empty.</source>
-        <translation>O endereço CRS para enviar o pagamento. Cria um pagamento local para si mesmo quando vazio.</translation>
+        <source>The CRSX address to send the payment to. Creates local payment to yourself when empty.</source>
+        <translation>O endereço CRSX para enviar o pagamento. Cria um pagamento local para si mesmo quando vazio.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2038,8 +2038,8 @@ https://www.transifex.com/crs-project/crs-project-translations</translation>
         <translation>Estatísticas zerocoin:</translation>
     </message>
     <message>
-        <source>Total Balance including unconfirmed and immature zCRS</source>
-        <translation>Balanço Total incluindo não confirmadas e imaturas zCRS</translation>
+        <source>Total Balance including unconfirmed and immature zCRSX</source>
+        <translation>Balanço Total incluindo não confirmadas e imaturas zCRSX</translation>
     </message>
     <message>
         <source>Total Zerocoin  Balance:</source>
@@ -2173,8 +2173,8 @@ https://www.transifex.com/crs-project/crs-project-translations</translation>
         <translation>Quantidade</translation>
     </message>
     <message>
-        <source>Enter a CRS address (e.g. %1)</source>
-        <translation>Insira um endereço CRS (e.g. %1)</translation>
+        <source>Enter a CRSX address (e.g. %1)</source>
+        <translation>Insira um endereço CRSX (e.g. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -2431,8 +2431,8 @@ https://www.transifex.com/crs-project/crs-project-translations</translation>
         <translation>saída:</translation>
     </message>
     <message>
-        <source>Welcome to the CRS RPC console.</source>
-        <translation>Bem-vindo ao console da CRS RPC</translation>
+        <source>Welcome to the CRSX RPC console.</source>
+        <translation>Bem-vindo ao console da CRSX RPC</translation>
     </message>
     <message>
         <source>Do you want to continue?.&lt;br /&gt;</source>
@@ -2687,8 +2687,8 @@ https://www.transifex.com/crs-project/crs-project-translations</translation>
         <translation>Tamanho UTXO:</translation>
     </message>
     <message>
-        <source>0 CRS</source>
-        <translation>0 CRS</translation>
+        <source>0 CRSX</source>
+        <translation>0 CRSX</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -2731,12 +2731,12 @@ https://www.transifex.com/crs-project/crs-project-translations</translation>
         <translation>Tempo de confirmação:</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uCRSs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uCRSs in fee,&lt;br /&gt;while "at least" pays 1000 uCRSs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Se a taxa padrão estiver definida para 1000 uCRSs e a transação for somente de 250 bytes, então "por kilobyte" pagará somente 250 uCRSs em taxa,&lt;br /&gt; pagará pelo menos 1000 uCRSs. Para transações maiores que um kilobyte ambas pagam por kilobyte.</translation>
+        <source>If the custom fee is set to 1000 uCRSXs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uCRSXs in fee,&lt;br /&gt;while "at least" pays 1000 uCRSXs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Se a taxa padrão estiver definida para 1000 uCRSXs e a transação for somente de 250 bytes, então "por kilobyte" pagará somente 250 uCRSXs em taxa,&lt;br /&gt; pagará pelo menos 1000 uCRSXs. Para transações maiores que um kilobyte ambas pagam por kilobyte.</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for CRS transactions than the network can process.</source>
-        <translation>Pagar a taxa mínima é aceitável desde que existe menos volume de transações que espaço nos blocos. &lt;br/&gt; Mas fique atento que isso pode acabar em uma transação que nunca será confirmada caso haja mais demanda por transações de CRS do que a rede pode processar.</translation>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for CRSX transactions than the network can process.</source>
+        <translation>Pagar a taxa mínima é aceitável desde que existe menos volume de transações que espaço nos blocos. &lt;br/&gt; Mas fique atento que isso pode acabar em uma transação que nunca será confirmada caso haja mais demanda por transações de CRSX do que a rede pode processar.</translation>
     </message>
     <message>
         <source>normal</source>
@@ -2783,8 +2783,8 @@ https://www.transifex.com/crs-project/crs-project-translations</translation>
         <translation>Adicionar &amp;Recipiente</translation>
     </message>
     <message>
-        <source>Anonymized CRS</source>
-        <translation>CRS anonimizadas</translation>
+        <source>Anonymized CRSX</source>
+        <translation>CRSX anonimizadas</translation>
     </message>
     <message>
         <source>Balance:</source>
@@ -2819,8 +2819,8 @@ https://www.transifex.com/crs-project/crs-project-translations</translation>
         <translation>Copiar troco</translation>
     </message>
     <message>
-        <source>Warning: Invalid CRS address</source>
-        <translation>Aviso: endereço CRS inválido</translation>
+        <source>Warning: Invalid CRSX address</source>
+        <translation>Aviso: endereço CRSX inválido</translation>
     </message>
     <message>
         <source>%1 to %2</source>
@@ -2906,8 +2906,8 @@ https://www.transifex.com/crs-project/crs-project-translations</translation>
         <translation>Pagar &amp;Para:</translation>
     </message>
     <message>
-        <source>The CRS address to send the payment to</source>
-        <translation>O endereço CRS para enviar o pagamento</translation>
+        <source>The CRSX address to send the payment to</source>
+        <translation>O endereço CRSX para enviar o pagamento</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2969,8 +2969,8 @@ https://www.transifex.com/crs-project/crs-project-translations</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>CRS Core is shutting down...</source>
-        <translation>CRS Core está desligando...</translation>
+        <source>CRSX Core is shutting down...</source>
+        <translation>CRSX Core está desligando...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2988,8 +2988,8 @@ https://www.transifex.com/crs-project/crs-project-translations</translation>
         <translation>&amp;Assinar mensagem</translation>
     </message>
     <message>
-        <source>The CRS address to sign the message with</source>
-        <translation>O endereço CRS para assinar a mensagem</translation>
+        <source>The CRSX address to sign the message with</source>
+        <translation>O endereço CRSX para assinar a mensagem</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3020,16 +3020,16 @@ https://www.transifex.com/crs-project/crs-project-translations</translation>
         <translation>Copia a assinatura atual do sistema de transferência</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this CRS address</source>
-        <translation>Assine a mensagem para provar que você possui este endereço CRS</translation>
+        <source>Sign the message to prove you own this CRSX address</source>
+        <translation>Assine a mensagem para provar que você possui este endereço CRSX</translation>
     </message>
     <message>
-        <source>The CRS address the message was signed with</source>
-        <translation>O endereço CRS que assinou a mensagem</translation>
+        <source>The CRSX address the message was signed with</source>
+        <translation>O endereço CRSX que assinou a mensagem</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified CRS address</source>
-        <translation>Verifique a mensagem para ter certeza que foi assinada com o endereço CRS especificado.</translation>
+        <source>Verify the message to ensure it was signed with the specified CRSX address</source>
+        <translation>Verifique a mensagem para ter certeza que foi assinada com o endereço CRSX especificado.</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -3111,8 +3111,8 @@ https://www.transifex.com/crs-project/crs-project-translations</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>CRS Core</source>
-        <translation>CRS Core</translation>
+        <source>CRSX Core</source>
+        <translation>CRSX Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -3127,8 +3127,8 @@ https://www.transifex.com/crs-project/crs-project-translations</translation>
         <translation>Os desenvolvedores do Dash Core</translation>
     </message>
     <message>
-        <source>The CRS Core developers</source>
-        <translation>Os desenvolvedores do CRS Core</translation>
+        <source>The CRSX Core developers</source>
+        <translation>Os desenvolvedores do CRSX Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -3635,7 +3635,7 @@ https://www.transifex.com/crs-project/crs-project-translations</translation>
     </message>
 </context>
 <context>
-    <name>ZCRSControlDialog</name>
+    <name>ZCRSXControlDialog</name>
     <message>
         <source>Quantity</source>
         <translation>Quantia</translation>
@@ -3645,8 +3645,8 @@ https://www.transifex.com/crs-project/crs-project-translations</translation>
         <translation>0</translation>
     </message>
     <message>
-        <source>zCRS</source>
-        <translation>zCRS</translation>
+        <source>zCRSX</source>
+        <translation>zCRSX</translation>
     </message>
     <message>
         <source>Select/Deselect All</source>
@@ -3672,12 +3672,12 @@ https://www.transifex.com/crs-project/crs-project-translations</translation>
         <translation>Executar o comando quando uma transação da carteira mudar (%s no cmd será substituído pela TxID)</translation>
     </message>
     <message>
-        <source>Fees (in CRS/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Taxas (em CRS/Kb) menores que isso serão consideradas taxa zero para propagação (padrão: %s)</translation>
+        <source>Fees (in CRSX/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Taxas (em CRSX/Kb) menores que isso serão consideradas taxa zero para propagação (padrão: %s)</translation>
     </message>
     <message>
-        <source>Fees (in CRS/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Taxas (em CRS/Kb) menores que isso serão consideradas taxa zero para a criação da transação (padrão: %s)</translation>
+        <source>Fees (in CRSX/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>Taxas (em CRSX/Kb) menores que isso serão consideradas taxa zero para a criação da transação (padrão: %s)</translation>
     </message>
     <message>
         <source>In this mode -genproclimit controls how many blocks are generated immediately.</source>
@@ -3696,8 +3696,8 @@ https://www.transifex.com/crs-project/crs-project-translations</translation>
         <translation>Define o tamanho máximo de transações de alta prioridade/taxa baixa em bytes (padrão: %d)</translation>
     </message>
     <message>
-        <source>Unable to locate enough funds for this transaction that are not equal 10000 CRS.</source>
-        <translation>Incapaz de localizar fundos para esta transação que não são iguais a 10000 CRS.</translation>
+        <source>Unable to locate enough funds for this transaction that are not equal 10000 CRSX.</source>
+        <translation>Incapaz de localizar fundos para esta transação que não são iguais a 10000 CRSX.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
@@ -3712,8 +3712,8 @@ https://www.transifex.com/crs-project/crs-project-translations</translation>
         <translation>Aviso: -paytxfee está definido como muito alto! Está e a taxa de transação que você irá pagar se enviar uma transação.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong CRS Core will not work properly.</source>
-        <translation>Aviso: Favor verificar se o horário e data de seu computador estão corretos! Se o seu relógio estiver errado o Core CRS não vai funcionar corretamente.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong CRSX Core will not work properly.</source>
+        <translation>Aviso: Favor verificar se o horário e data de seu computador estão corretos! Se o seu relógio estiver errado o Core CRSX não vai funcionar corretamente.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -3792,8 +3792,8 @@ https://www.transifex.com/crs-project/crs-project-translations</translation>
         <translation>Todos os direitos reservados (C) 2014-%i aos Desenvolvedores do Dash Core</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The CRS Core Developers</source>
-        <translation>Todos os direitos reservados (C) 2015-%i aos Desenvolvedores do CRS Core</translation>
+        <source>Copyright (C) 2015-%i The CRSX Core Developers</source>
+        <translation>Todos os direitos reservados (C) 2015-%i aos Desenvolvedores do CRSX Core</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -3852,8 +3852,8 @@ https://www.transifex.com/crs-project/crs-project-translations</translation>
         <translation>Erro no carregamento da wallet.dat: Carteira corrompida</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of CRS Core</source>
-        <translation>Erro ao carregar wallet.dat: A Carteira requer uma nova versão da CRS Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of CRSX Core</source>
+        <translation>Erro ao carregar wallet.dat: A Carteira requer uma nova versão da CRSX Core</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -3896,8 +3896,8 @@ https://www.transifex.com/crs-project/crs-project-translations</translation>
         <translation>Falhou em ler o bloco</translation>
     </message>
     <message>
-        <source>Fee (in CRS/kB) to add to transactions you send (default: %s)</source>
-        <translation>Taxa (em CRS/kB) a adicionar em transações que você enviar (padrão: %s)</translation>
+        <source>Fee (in CRSX/kB) to add to transactions you send (default: %s)</source>
+        <translation>Taxa (em CRSX/kB) a adicionar em transações que você enviar (padrão: %s)</translation>
     </message>
     <message>
         <source>Finalizing transaction.</source>
@@ -4342,8 +4342,8 @@ https://www.transifex.com/crs-project/crs-project-translations</translation>
         <translation>Carteira está travada.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart CRS Core to complete</source>
-        <translation>A carteira precisa ser reescrita: reinicia o CRS Core para completar</translation>
+        <source>Wallet needed to be rewritten: restart CRSX Core to complete</source>
+        <translation>A carteira precisa ser reescrita: reinicia o CRSX Core para completar</translation>
     </message>
     <message>
         <source>Wallet options:</source>

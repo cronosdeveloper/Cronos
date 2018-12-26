@@ -78,7 +78,7 @@ HEADERS += src/activemasternode.h \
            src/crypter.h \
            src/obfuscation-relay.h \
            src/obfuscation.h \
-           src/crs-config.h \
+           src/crsx-config.h \
            src/db.h \
            src/eccryptoverify.h \
            src/ecwrapper.h \

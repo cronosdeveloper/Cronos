@@ -62,12 +62,12 @@
         <translation>Endereços de recebimento</translation>
     </message>
     <message>
-        <source>These are your CRS addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Esses são seus endereços CRS para onde enviar pagamentos. Confira sempre o montante e os endereços de destino antes de enviar moedas.</translation>
+        <source>These are your CRSX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Esses são seus endereços CRSX para onde enviar pagamentos. Confira sempre o montante e os endereços de destino antes de enviar moedas.</translation>
     </message>
     <message>
-        <source>These are your CRS addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Esses são seus endereços CRS onde receber pagamentos. Recomenda-se o uso de um novo endereço para cada transacção.</translation>
+        <source>These are your CRSX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Esses são seus endereços CRSX onde receber pagamentos. Recomenda-se o uso de um novo endereço para cada transacção.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -172,16 +172,16 @@
         <translation>Confirmar encriptação da carteira</translation>
     </message>
     <message>
-        <source>CRS will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your CRSs from being stolen by malware infecting your computer.</source>
-        <translation>CRS encerrará para terminar o processo de encriptação. Lembre-se que encriptar sua carteira não protege completamente suas CRSs contra roubo por malware infectando seu computador.</translation>
+        <source>CRSX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your CRSXs from being stolen by malware infecting your computer.</source>
+        <translation>CRSX encerrará para terminar o processo de encriptação. Lembre-se que encriptar sua carteira não protege completamente suas CRSXs contra roubo por malware infectando seu computador.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Tem certeza que deseja encriptar sua carteira?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CRS&lt;/b&gt;!</source>
-        <translation>Atenção: Se você encriptar sua carteira e perder a senha, você &lt;B&gt;PERDERÁ TODA SUA CRS&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CRSX&lt;/b&gt;!</source>
+        <translation>Atenção: Se você encriptar sua carteira e perder a senha, você &lt;B&gt;PERDERÁ TODA SUA CRSX&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -666,8 +666,8 @@
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The CRS address to sign the message with</source>
-        <translation>Um endereço CRS para assinar a mensagem</translation>
+        <source>The CRSX address to sign the message with</source>
+        <translation>Um endereço CRSX para assinar a mensagem</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -698,12 +698,12 @@
         <translation>Copiar a assinatura para a area de trabalho</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this CRS address</source>
-        <translation>Assinar a Mensagem para provar que você e dono desse endereço CRS.</translation>
+        <source>Sign the message to prove you own this CRSX address</source>
+        <translation>Assinar a Mensagem para provar que você e dono desse endereço CRSX.</translation>
     </message>
     <message>
-        <source>The CRS address the message was signed with</source>
-        <translation>O endereço CRS que foi assinado com</translation>
+        <source>The CRSX address the message was signed with</source>
+        <translation>O endereço CRSX que foi assinado com</translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
@@ -901,7 +901,7 @@
     </message>
     </context>
 <context>
-    <name>ZCRSControlDialog</name>
+    <name>ZCRSXControlDialog</name>
     </context>
 <context>
     <name>cronos-core</name>
@@ -1250,8 +1250,8 @@
         <translation>Carteira esta bloqueada.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart CRS Core to complete</source>
-        <translation>Carteira precisa ser reescrita: reinicie o CRS Core para completar.</translation>
+        <source>Wallet needed to be rewritten: restart CRSX Core to complete</source>
+        <translation>Carteira precisa ser reescrita: reinicie o CRSX Core para completar.</translation>
     </message>
     <message>
         <source>Wallet options:</source>

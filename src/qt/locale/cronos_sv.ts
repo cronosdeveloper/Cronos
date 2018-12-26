@@ -62,12 +62,12 @@
         <translation>Mottagar adresser</translation>
     </message>
     <message>
-        <source>These are your CRS addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Det här är dina CRS adresser för att skicka betalningar. Kontrollera alltid summan och mottagaradressen före du sänder mynt.</translation>
+        <source>These are your CRSX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Det här är dina CRSX adresser för att skicka betalningar. Kontrollera alltid summan och mottagaradressen före du sänder mynt.</translation>
     </message>
     <message>
-        <source>These are your CRS addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Det här är dina CRS adresser för att ta emot betalningar. Det är rekomenderat att använda en ny mottagaradress för varje transaktion.</translation>
+        <source>These are your CRSX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Det här är dina CRSX adresser för att ta emot betalningar. Det är rekomenderat att använda en ny mottagaradress för varje transaktion.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,16 +176,16 @@
         <translation>Bekräfta plånboks krypering</translation>
     </message>
     <message>
-        <source>CRS will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your CRSs from being stolen by malware infecting your computer.</source>
-        <translation>CRS kommer att stängas ner nu för att färdigställa kryperingsprocessen. Kom ihåg att kryptering av din plånbok inte kan säkerställa dina CRSs från att bli stulna av skadeprogram som infekterat din dator.</translation>
+        <source>CRSX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your CRSXs from being stolen by malware infecting your computer.</source>
+        <translation>CRSX kommer att stängas ner nu för att färdigställa kryperingsprocessen. Kom ihåg att kryptering av din plånbok inte kan säkerställa dina CRSXs från att bli stulna av skadeprogram som infekterat din dator.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Är du säker på att du vill kryptera din plånbok?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CRS&lt;/b&gt;!</source>
-        <translation>Varning: om du krypterar din plånbok och tappar bort din lösenfras kommer du &lt;b&gt; FÖRLORA ALLA DINA CRS&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CRSX&lt;/b&gt;!</source>
+        <translation>Varning: om du krypterar din plånbok och tappar bort din lösenfras kommer du &lt;b&gt; FÖRLORA ALLA DINA CRSX&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -254,12 +254,12 @@
         <translation>Adress:</translation>
     </message>
     <message>
-        <source>Enter a CRS Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Fyll i en CRS Adress som du skulle vilja cryptera med BIP 38. Skriv in en lösenfras i den mittersta lådan. Tryck kryptera för att beräkna fram den krypterade privata nyckeln.</translation>
+        <source>Enter a CRSX Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Fyll i en CRSX Adress som du skulle vilja cryptera med BIP 38. Skriv in en lösenfras i den mittersta lådan. Tryck kryptera för att beräkna fram den krypterade privata nyckeln.</translation>
     </message>
     <message>
-        <source>The CRS address to encrypt</source>
-        <translation>CRS adressen som ska krypteras</translation>
+        <source>The CRSX address to encrypt</source>
+        <translation>CRSX adressen som ska krypteras</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -290,8 +290,8 @@
         <translation>Kopiera den nuvarande signaturen till systemets urklipp</translation>
     </message>
     <message>
-        <source>Encrypt the private key for this CRS address</source>
-        <translation>Kryptera den privata nyckeln för denna CRS adressen</translation>
+        <source>Encrypt the private key for this CRSX address</source>
+        <translation>Kryptera den privata nyckeln för denna CRSX adressen</translation>
     </message>
     <message>
         <source>Reset all fields</source>
@@ -433,8 +433,8 @@
         <translation>Bläddra i transaktions historiken</translation>
     </message>
     <message>
-        <source>Privacy Actions for zCRS</source>
-        <translation>Integritets funktioner för zCRS</translation>
+        <source>Privacy Actions for zCRSX</source>
+        <translation>Integritets funktioner för zCRSX</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
@@ -645,16 +645,16 @@
         <translation>flik vertygsrad</translation>
     </message>
     <message>
-        <source>CRS Core</source>
-        <translation>CRS Kärna</translation>
+        <source>CRSX Core</source>
+        <translation>CRSX Kärna</translation>
     </message>
     <message>
-        <source>Send coins to a CRS address</source>
-        <translation>Skicka mynt till en CRS adress</translation>
+        <source>Send coins to a CRSX address</source>
+        <translation>Skicka mynt till en CRSX adress</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and crs: URIs)</source>
-        <translation>Begär betalning (genererar QR kod och crs: URls)</translation>
+        <source>Request payments (generates QR codes and crsx: URIs)</source>
+        <translation>Begär betalning (genererar QR kod och crsx: URls)</translation>
     </message>
     <message>
         <source>&amp;Privacy</source>
@@ -669,24 +669,24 @@
         <translation>Utforska masternoder</translation>
     </message>
     <message>
-        <source>&amp;About CRS Core</source>
-        <translation>Om CRS Kärnan</translation>
+        <source>&amp;About CRSX Core</source>
+        <translation>Om CRSX Kärnan</translation>
     </message>
     <message>
-        <source>Show information about CRS Core</source>
-        <translation>Visa information om CRS Kärnan</translation>
+        <source>Show information about CRSX Core</source>
+        <translation>Visa information om CRSX Kärnan</translation>
     </message>
     <message>
-        <source>Modify configuration options for CRS</source>
-        <translation>Ändra konfigurationsval för CRS</translation>
+        <source>Modify configuration options for CRSX</source>
+        <translation>Ändra konfigurationsval för CRSX</translation>
     </message>
     <message>
-        <source>Sign messages with your CRS addresses to prove you own them</source>
-        <translation>Signera meddelanden med din CRS adress för att visa att du äger dem</translation>
+        <source>Sign messages with your CRSX addresses to prove you own them</source>
+        <translation>Signera meddelanden med din CRSX adress för att visa att du äger dem</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified CRS addresses</source>
-        <translation>Verifiera meddelandet för att säkerställa att de blev signerat med den specifika CRS adressen.</translation>
+        <source>Verify messages to ensure they were signed with specified CRSX addresses</source>
+        <translation>Verifiera meddelandet för att säkerställa att de blev signerat med den specifika CRSX adressen.</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -717,8 +717,8 @@
         <translation>Öppna Huvudnodens konfigurations fil </translation>
     </message>
     <message>
-        <source>Open a CRS: URI or payment request</source>
-        <translation>Öppna en CRS: URI eller betalningsförfrågan</translation>
+        <source>Open a CRSX: URI or payment request</source>
+        <translation>Öppna en CRSX: URI eller betalningsförfrågan</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -729,16 +729,16 @@
         <translation>Blockera utforskarfönstret</translation>
     </message>
     <message>
-        <source>Show the CRS Core help message to get a list with possible CRS command-line options</source>
-        <translation>Visa CRS Core hjälp meddelande för att få en lista med möjliga CRS kommandorad alternativ</translation>
+        <source>Show the CRSX Core help message to get a list with possible CRSX command-line options</source>
+        <translation>Visa CRSX Core hjälp meddelande för att få en lista med möjliga CRSX kommandorad alternativ</translation>
     </message>
     <message>
-        <source>CRS Core client</source>
-        <translation>CRS kärn klient</translation>
+        <source>CRSX Core client</source>
+        <translation>CRSX kärn klient</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to CRS network</source>
-        <translation><numerusform>%n aktiv(a) annslutning(ar) till CRS nätverket</numerusform><numerusform>%n aktiv(a) annslutning(ar) till CRS nätverket</numerusform></translation>
+        <source>%n active connection(s) to CRSX network</source>
+        <translation><numerusform>%n aktiv(a) annslutning(ar) till CRSX nätverket</numerusform><numerusform>%n aktiv(a) annslutning(ar) till CRSX nätverket</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -892,8 +892,8 @@ MultiSend: %1</translation>
         <translation>text etikett</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (crs.conf).</source>
-        <translation>Alla transaktioner kommer inte visas. För att visa alla transaktioner behöver du sätta txindex=1 i konfigurationsfilen (crs.conf).</translation>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (crsx.conf).</source>
+        <translation>Alla transaktioner kommer inte visas. För att visa alla transaktioner behöver du sätta txindex=1 i konfigurationsfilen (crsx.conf).</translation>
     </message>
 </context>
 <context>
@@ -1130,8 +1130,8 @@ MultiSend: %1</translation>
         <translation>Den här etiketten blir röd, ifall någon mottagare får en mängd som är mindre än %1.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 ucrs per input.</source>
-        <translation>Kan variera med +/- %1 ucrs per inmatning.</translation>
+        <source>Can vary +/- %1 ucrsx per input.</source>
+        <translation>Kan variera med +/- %1 ucrsx per inmatning.</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1185,8 +1185,8 @@ MultiSend: %1</translation>
         <translation>Redigera skickande adress</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid CRS address.</source>
-        <translation>Den inmatade adressen "%1" är ej en giltig CRS adress.</translation>
+        <source>The entered address "%1" is not a valid CRSX address.</source>
+        <translation>Den inmatade adressen "%1" är ej en giltig CRSX adress.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1231,16 +1231,16 @@ MultiSend: %1</translation>
         <translation>version</translation>
     </message>
     <message>
-        <source>CRS Core</source>
-        <translation>CRS Kärna</translation>
+        <source>CRSX Core</source>
+        <translation>CRSX Kärna</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About CRS Core</source>
-        <translation>Om CRS Kärna</translation>
+        <source>About CRSX Core</source>
+        <translation>Om CRSX Kärna</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1286,16 +1286,16 @@ MultiSend: %1</translation>
         <translation>Välkommen</translation>
     </message>
     <message>
-        <source>Welcome to CRS Core.</source>
-        <translation>Välkommen till CRS Core.</translation>
+        <source>Welcome to CRSX Core.</source>
+        <translation>Välkommen till CRSX Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where CRS Core will store its data.</source>
-        <translation>Eftersom detta är första gången programmet körs så kan du välja var CRS Core ska spara sin data.</translation>
+        <source>As this is the first time the program is launched, you can choose where CRSX Core will store its data.</source>
+        <translation>Eftersom detta är första gången programmet körs så kan du välja var CRSX Core ska spara sin data.</translation>
     </message>
     <message>
-        <source>CRS Core will download and store a copy of the CRS block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>CRS Kärnan kommer ladda ner och spara en kopia av CRS block chain. Minst %1GB data kommer sparas i denna katalog och den kommer växa med tiden. Plånboken kommer också sparas i denna katalog.</translation>
+        <source>CRSX Core will download and store a copy of the CRSX block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>CRSX Kärnan kommer ladda ner och spara en kopia av CRSX block chain. Minst %1GB data kommer sparas i denna katalog och den kommer växa med tiden. Plånboken kommer också sparas i denna katalog.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1306,8 +1306,8 @@ MultiSend: %1</translation>
         <translation>Använd en skräddarsydd data katalog</translation>
     </message>
     <message>
-        <source>CRS Core</source>
-        <translation>CRS Core</translation>
+        <source>CRSX Core</source>
+        <translation>CRSX Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1448,12 +1448,12 @@ MultiSend: %1</translation>
         <translation>Mata in Adress att Skicka till</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other CRS addresses after it matures.
-To Add: enter percentage to give and CRS address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other CRSX addresses after it matures.
+To Add: enter percentage to give and CRSX address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>MultiSend tillåter dig att automatiskt skicka upp till 100% av dina staking eller huvudnod belöningar till en lista av andra CRS adresser efter att belöningarna har mognat.
-För att Lägga till: Ange procent att ge och CRS adress för att lägga till i MultiSend vektorn.
+        <translation>MultiSend tillåter dig att automatiskt skicka upp till 100% av dina staking eller huvudnod belöningar till en lista av andra CRSX adresser efter att belöningarna har mognat.
+För att Lägga till: Ange procent att ge och CRSX adress för att lägga till i MultiSend vektorn.
 För att Ta Bort: Ange adressen som ska tas bort och tryck ta bort.
 MultiSend kommer inte aktiveras om du inte tryckt på Aktivera</translation>
     </message>
@@ -1680,8 +1680,8 @@ Var god vänta efter att du trycker på importera.</translation>
         <translation>Adress / Mängd:</translation>
     </message>
     <message>
-        <source>Add destinations to send CRS to</source>
-        <translation>Lägg till destination att skicka CRS till</translation>
+        <source>Add destinations to send CRSX to</source>
+        <translation>Lägg till destination att skicka CRSX till</translation>
     </message>
     <message>
         <source>Add &amp;Destination</source>
@@ -1779,48 +1779,48 @@ Var god vänta efter att du trycker på importera.</translation>
         <translation>Var vänlig och välj en sekretess nivå.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 CRS</source>
-        <translation>Använd 2 separata huvudnoder för att blanda tillgångar upp till 10000 CRS</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 CRSX</source>
+        <translation>Använd 2 separata huvudnoder för att blanda tillgångar upp till 10000 CRSX</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 CRS</source>
-        <translation>Använd 8 separata huvudnoderför att blanda tillgångar upp till 10000 CRS</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 CRSX</source>
+        <translation>Använd 8 separata huvudnoderför att blanda tillgångar upp till 10000 CRSX</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Använd 16 separata huvudnoder</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 CRS to anonymize 10000 CRS</source>
-        <translation>Det här alternativet är det snabbaste och kommer kostar ungefär ~0.025 CRS för att anonymisera 10000 CRS</translation>
+        <source>This option is the quickest and will cost about ~0.025 CRSX to anonymize 10000 CRSX</source>
+        <translation>Det här alternativet är det snabbaste och kommer kostar ungefär ~0.025 CRSX för att anonymisera 10000 CRSX</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 CRS to anonymize 10000 CRS</source>
-        <translation>Det här alternativet är måttligt snabb och kommer kostar ungefär 0.05 CRS för att anonymisera 10000 CRS</translation>
+        <source>This option is moderately fast and will cost about 0.05 CRSX to anonymize 10000 CRSX</source>
+        <translation>Det här alternativet är måttligt snabb och kommer kostar ungefär 0.05 CRSX för att anonymisera 10000 CRSX</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Det här är det långsammaste och säkraste alternativet. Använda maximal anonymitet kommer kosta</translation>
     </message>
     <message>
-        <source>0.1 CRS per 10000 CRS you anonymize.</source>
-        <translation>0.1 CRS per 10000 CRS du anonymiserar.</translation>
+        <source>0.1 CRSX per 10000 CRSX you anonymize.</source>
+        <translation>0.1 CRSX per 10000 CRSX du anonymiserar.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
         <translation>Fördunkling Konfiguration</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening CRS's configuration screen.</source>
-        <translation>Fördunkling sattes framgångsrikt till grundläggande (%1 och 2 rundor). Du kan ändra det här när du vill genom att öppna CRS's konfigurationsskärm.</translation>
+        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening CRSX's configuration screen.</source>
+        <translation>Fördunkling sattes framgångsrikt till grundläggande (%1 och 2 rundor). Du kan ändra det här när du vill genom att öppna CRSX's konfigurationsskärm.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening CRS's configuration screen.</source>
-        <translation>Fördunkling sattes framgångsrikt till hög (%1 och 8 rundor). Du kan ändra det här när du vill genom att öppna CRS's konfigurationsskärm.</translation>
+        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening CRSX's configuration screen.</source>
+        <translation>Fördunkling sattes framgångsrikt till hög (%1 och 8 rundor). Du kan ändra det här när du vill genom att öppna CRSX's konfigurationsskärm.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening CRS's configuration screen.</source>
-        <translation>Fördunkling sattes framgångsrikt till maximal (%1 och 16 rundor). Du kan ändra det här när du vill genom att öppna CRS's konfigurationsskärm.</translation>
+        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening CRSX's configuration screen.</source>
+        <translation>Fördunkling sattes framgångsrikt till maximal (%1 och 16 rundor). Du kan ändra det här när du vill genom att öppna CRSX's konfigurationsskärm.</translation>
     </message>
 </context>
 <context>
@@ -1877,8 +1877,8 @@ Var god vänta efter att du trycker på importera.</translation>
         <translation>Om du avaktiverar spenderandet av okonfirmerad växel så kommer växeln från en transaktion &lt;br/&gt;ej kunna användas föräns transaktionen har minst en bekräftelse. &lt;br/&gt; Detta påverkar även hur ditt saldo beräknas.</translation>
     </message>
     <message>
-        <source>Automatically open the CRS client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Öppna automatiskt CRS klient porten på denna router. Detta funkar endast om din router stödjer UPnP och är påslaget.</translation>
+        <source>Automatically open the CRSX client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Öppna automatiskt CRSX klient porten på denna router. Detta funkar endast om din router stödjer UPnP och är påslaget.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1893,12 +1893,12 @@ Var god vänta efter att du trycker på importera.</translation>
         <translation>Expert</translation>
     </message>
     <message>
-        <source>Automatically start CRS after logging in to the system.</source>
-        <translation>Starta CRS automatiskt efter inloggning på systemet.</translation>
+        <source>Automatically start CRSX after logging in to the system.</source>
+        <translation>Starta CRSX automatiskt efter inloggning på systemet.</translation>
     </message>
     <message>
-        <source>&amp;Start CRS on system login</source>
-        <translation>&amp;Starta CRS vid systeminloggning</translation>
+        <source>&amp;Start CRSX on system login</source>
+        <translation>&amp;Starta CRSX vid systeminloggning</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1921,50 +1921,50 @@ Var god vänta efter att du trycker på importera.</translation>
         <translation>&amp;Nätverk</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting CRS.</source>
-        <translation>Användargränssnittets språk kan väljas här. Denna inställning börjar gälla efter att man startat om CRS.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting CRSX.</source>
+        <translation>Användargränssnittets språk kan väljas här. Denna inställning börjar gälla efter att man startat om CRSX.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/crs-project/crs-project-translations</source>
+https://www.transifex.com/crsx-project/crsx-project-translations</source>
         <translation>Fattas språk eller är översättningen ofullständig? Hjälp till att bidra med översättning här:
-https://www.transifex.com/crs-project/crs-project-translations</translation>
+https://www.transifex.com/crsx-project/crsx-project-translations</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>Kartlägg port med &amp;UPnP</translation>
     </message>
     <message>
-        <source>Enable automatic minting of CRS units to zCRS</source>
-        <translation>Tillåt automatisk prägling med CRS enheter till zCRS</translation>
+        <source>Enable automatic minting of CRSX units to zCRSX</source>
+        <translation>Tillåt automatisk prägling med CRSX enheter till zCRSX</translation>
     </message>
     <message>
-        <source>Enable zCRS Automint</source>
-        <translation>Tillåt zCRS Autoprägling</translation>
+        <source>Enable zCRSX Automint</source>
+        <translation>Tillåt zCRSX Autoprägling</translation>
     </message>
     <message>
-        <source>Percentage of incoming CRS which get automatically converted to zCRS via Zerocoin Protocol (min: 10%)</source>
-        <translation>Procent av inkommande CRS som automatiskt konverteras till zCRS via Zerocoin Protokollet (min: 10%)</translation>
+        <source>Percentage of incoming CRSX which get automatically converted to zCRSX via Zerocoin Protocol (min: 10%)</source>
+        <translation>Procent av inkommande CRSX som automatiskt konverteras till zCRSX via Zerocoin Protokollet (min: 10%)</translation>
     </message>
     <message>
-        <source>Percentage of autominted zCRS</source>
-        <translation>Procent av autopräglade zCRS</translation>
+        <source>Percentage of autominted zCRSX</source>
+        <translation>Procent av autopräglade zCRSX</translation>
     </message>
     <message>
-        <source>Wait with automatic conversion to Zerocoin until enough CRS for this denomination is available</source>
-        <translation>Vänta med automatisk omvandling till Zerocoin tills tillräckligt många CRS för denna valör är tillgängliga</translation>
+        <source>Wait with automatic conversion to Zerocoin until enough CRSX for this denomination is available</source>
+        <translation>Vänta med automatisk omvandling till Zerocoin tills tillräckligt många CRSX för denna valör är tillgängliga</translation>
     </message>
     <message>
-        <source>Preferred Automint zCRS Denomination</source>
-        <translation>Preferens på zCRS valör i autoprägling</translation>
+        <source>Preferred Automint zCRSX Denomination</source>
+        <translation>Preferens på zCRSX valör i autoprägling</translation>
     </message>
     <message>
         <source>Stake split threshold:</source>
         <translation>Staking delnings tröskel:</translation>
     </message>
     <message>
-        <source>Connect to the CRS network through a SOCKS5 proxy.</source>
-        <translation>Anslut till CRS nätverket via en SOCKS5 proxy.</translation>
+        <source>Connect to the CRSX network through a SOCKS5 proxy.</source>
+        <translation>Anslut till CRSX nätverket via en SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -2106,8 +2106,8 @@ https://www.transifex.com/crs-project/crs-project-translations</translation>
         <translation>Totalt saldo, inkluderar alla otillgängliga mynt.</translation>
     </message>
     <message>
-        <source>CRS Balance</source>
-        <translation>CRS Saldo</translation>
+        <source>CRSX Balance</source>
+        <translation>CRSX Saldo</translation>
     </message>
     <message>
         <source>Pending:</source>
@@ -2130,18 +2130,18 @@ https://www.transifex.com/crs-project/crs-project-translations</translation>
         <translation>Nuvarande låst saldo endast i "watch only" adresser</translation>
     </message>
     <message>
-        <source>Your current CRS balance, unconfirmed and immature transactions included</source>
-        <translation>Ditt nuvarande CRS saldo, obekräftade och omogna transaktioner är inkluderade</translation>
+        <source>Your current CRSX balance, unconfirmed and immature transactions included</source>
+        <translation>Ditt nuvarande CRSX saldo, obekräftade och omogna transaktioner är inkluderade</translation>
     </message>
     <message>
-        <source>zCRS Balance</source>
-        <translation>zCRS Saldo</translation>
+        <source>zCRSX Balance</source>
+        <translation>zCRSX Saldo</translation>
     </message>
     <message>
         <source>Mature: more than 20 confirmation and more than 1 mint of the same denomination after it was minted.
-These zCRS are spendable.</source>
+These zCRSX are spendable.</source>
         <translation>Mogna: över 20 bekräftelser och över 1 prägling av samma valör efter den blev myntad.
-Dessa zCRS kan spenderas.</translation>
+Dessa zCRSX kan spenderas.</translation>
     </message>
     <message>
         <source>Unconfirmed: less than 20 confirmations
@@ -2150,8 +2150,8 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 Omogna: bekräftade men under 1 myntning av samma valör efter den blev präglad</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRS network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informationen kan vara föråldrad. Din plånbok synkroniserar automatiskt med CRS nätverket efter att en anslutning är etablerad, men denna process har inte blivit klar än.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRSX network after a connection is established, but this process has not completed yet.</source>
+        <translation>Informationen kan vara föråldrad. Din plånbok synkroniserar automatiskt med CRSX nätverket efter att en anslutning är etablerad, men denna process har inte blivit klar än.</translation>
     </message>
     <message>
         <source>OVERVIEW</source>
@@ -2194,8 +2194,8 @@ Omogna: bekräftade men under 1 myntning av samma valör efter den blev präglad
         <translation>Spenderbar:</translation>
     </message>
     <message>
-        <source>Locked CRS or Masternode collaterals. These are excluded from zCRS minting.</source>
-        <translation>Låsta CRS eller masternode som säkerhet. Dessa är uteslutna från zCRS minting.</translation>
+        <source>Locked CRSX or Masternode collaterals. These are excluded from zCRSX minting.</source>
+        <translation>Låsta CRSX eller masternode som säkerhet. Dessa är uteslutna från zCRSX minting.</translation>
     </message>
     <message>
         <source>Locked:</source>
@@ -2206,8 +2206,8 @@ Omogna: bekräftade men under 1 myntning av samma valör efter den blev präglad
         <translation>Obekräftade:</translation>
     </message>
     <message>
-        <source>Your current zCRS balance, unconfirmed and immature zCRS included.</source>
-        <translation>Ditt nuvarande zCRS saldo, obekräftade och omogna zCRS inräknade.</translation>
+        <source>Your current zCRSX balance, unconfirmed and immature zCRSX included.</source>
+        <translation>Ditt nuvarande zCRSX saldo, obekräftade och omogna zCRSX inräknade.</translation>
     </message>
     <message>
         <source>Recent transactions</source>
@@ -2218,10 +2218,10 @@ Omogna: bekräftade men under 1 myntning av samma valör efter den blev präglad
         <translation>osynkroniserad</translation>
     </message>
     <message>
-        <source>Current percentage of zCRS.
+        <source>Current percentage of zCRSX.
 If AutoMint is enabled this percentage will settle around the configured AutoMint percentage (default = 10%).
 </source>
-        <translation>Nuvarande procent zCRS.
+        <translation>Nuvarande procent zCRSX.
 Om AutoMint är tillåten så kommer denna procent att vara som den konfigurerade AutoMint procenten (standard = 10%).
 </translation>
     </message>
@@ -2230,14 +2230,14 @@ Om AutoMint är tillåten så kommer denna procent att vara som den konfigurerad
         <translation>AutoMint är för tillfället aktiverat och inställt på</translation>
     </message>
     <message>
-        <source>To disable AutoMint add 'enablezeromint=0' in crs.conf.</source>
-        <translation>För att inaktivera AutoMint, lägg till 'enablezeromint=0' i crs.conf.</translation>
+        <source>To disable AutoMint add 'enablezeromint=0' in crsx.conf.</source>
+        <translation>För att inaktivera AutoMint, lägg till 'enablezeromint=0' i crsx.conf.</translation>
     </message>
     <message>
         <source>AutoMint is currently disabled.
-To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in crs.conf</source>
+To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in crsx.conf</source>
         <translation>AutoMint är för närvarande inaktiverat.
-För att aktivera AutoMint ändra 'enablezeromint=0' till 'enablezeromint=1' i crs.conf</translation>
+För att aktivera AutoMint ändra 'enablezeromint=0' till 'enablezeromint=1' i crsx.conf</translation>
     </message>
 </context>
 <context>
@@ -2263,12 +2263,12 @@ För att aktivera AutoMint ändra 'enablezeromint=0' till 'enablezeromint=1' i c
         <translation>Ogiltig betalningsadress %1</translation>
     </message>
     <message>
-        <source>Cannot start crs: click-to-pay handler</source>
-        <translation>Kan ej starta crs: klicka-för-att-betala hanterare</translation>
+        <source>Cannot start crsx: click-to-pay handler</source>
+        <translation>Kan ej starta crsx: klicka-för-att-betala hanterare</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid CRS address or malformed URI parameters.</source>
-        <translation>URI kunde ej analyseras! Detta kan orsakas av en ogiltig CRS adress eller felproducerade URI parametrar.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid CRSX address or malformed URI parameters.</source>
+        <translation>URI kunde ej analyseras! Detta kan orsakas av en ogiltig CRSX adress eller felproducerade URI parametrar.</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -2353,8 +2353,8 @@ För att aktivera AutoMint ändra 'enablezeromint=0' till 'enablezeromint=1' i c
         <translation>Zerocoin Handlingar:</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRS network after a connection is established, but this process has not completed yet.</source>
-        <translation>nformationen kan vara föråldrad. Din plånbok synkroniserar automatiskt med CRS nätverket efter att en anslutning är etablerad, men denna process har inte blivit klar än.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRSX network after a connection is established, but this process has not completed yet.</source>
+        <translation>nformationen kan vara föråldrad. Din plånbok synkroniserar automatiskt med CRSX nätverket efter att en anslutning är etablerad, men denna process har inte blivit klar än.</translation>
     </message>
     <message>
         <source>Mint Zerocoin</source>
@@ -2365,8 +2365,8 @@ För att aktivera AutoMint ändra 'enablezeromint=0' till 'enablezeromint=1' i c
         <translation>0</translation>
     </message>
     <message>
-        <source>zCRS</source>
-        <translation>zCRS</translation>
+        <source>zCRSX</source>
+        <translation>zCRSX</translation>
     </message>
     <message>
         <source>Available for minting are coins which are confirmed and not locked or Masternode collaterals.</source>
@@ -2377,8 +2377,8 @@ För att aktivera AutoMint ändra 'enablezeromint=0' till 'enablezeromint=1' i c
         <translation>Tillgängligt att prägla:</translation>
     </message>
     <message>
-        <source>0.000 000 00 CRS</source>
-        <translation>0.000 000 00 CRS</translation>
+        <source>0.000 000 00 CRSX</source>
+        <translation>0.000 000 00 CRSX</translation>
     </message>
     <message>
         <source>Reset Zerocoin Wallet DB. Deletes transactions that did not make it into the blockchain.</source>
@@ -2417,16 +2417,16 @@ För att aktivera AutoMint ändra 'enablezeromint=0' till 'enablezeromint=1' i c
         <translation>SEKRETESS</translation>
     </message>
     <message>
-        <source>Enter an amount of CRS to convert to zCRS</source>
-        <translation>Mata in en mängd CRS att konvertera till zCRS</translation>
+        <source>Enter an amount of CRSX to convert to zCRSX</source>
+        <translation>Mata in en mängd CRSX att konvertera till zCRSX</translation>
     </message>
     <message>
-        <source>zCRS Control</source>
-        <translation>zCRS Kontroll</translation>
+        <source>zCRSX Control</source>
+        <translation>zCRSX Kontroll</translation>
     </message>
     <message>
-        <source>zCRS Selected:</source>
-        <translation>Valda zCRS:</translation>
+        <source>zCRSX Selected:</source>
+        <translation>Valda zCRSX:</translation>
     </message>
     <message>
         <source>Quantity Selected:</source>
@@ -2441,24 +2441,24 @@ För att aktivera AutoMint ändra 'enablezeromint=0' till 'enablezeromint=1' i c
         <translation>Spendera Zerocoin</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zCRS for spending</source>
-        <translation>Tillgängliga (mogna och spenderbara) zCRS att spendera</translation>
+        <source>Available (mature and spendable) zCRSX for spending</source>
+        <translation>Tillgängliga (mogna och spenderbara) zCRSX att spendera</translation>
     </message>
     <message>
         <source>Available Balance:</source>
         <translation>Tillgängligt Saldo:</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zCRS for spending
+        <source>Available (mature and spendable) zCRSX for spending
 
-zCRS are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
-        <translation>Tillgängliga (mogna och spenderbara) zCRS att spendera
+zCRSX are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
+        <translation>Tillgängliga (mogna och spenderbara) zCRSX att spendera
 
-zCRS är mogna när de har över 20 bekräftelser OCH över 2 präglingar av samma valör efter de är myntade.</translation>
+zCRSX är mogna när de har över 20 bekräftelser OCH över 2 präglingar av samma valör efter de är myntade.</translation>
     </message>
     <message>
-        <source>0 zCRS</source>
-        <translation>0 zCRS</translation>
+        <source>0 zCRSX</source>
+        <translation>0 zCRSX</translation>
     </message>
     <message>
         <source>Security Level for Zerocoin Transactions. More is better, but needs more time and resources.</source>
@@ -2477,8 +2477,8 @@ zCRS är mogna när de har över 20 bekräftelser OCH över 2 präglingar av sam
         <translation>Betala &amp;Till:</translation>
     </message>
     <message>
-        <source>The CRS address to send the payment to. Creates local payment to yourself when empty.</source>
-        <translation>CRS adress att skicka betalningen till. Skapar betalning till dig själv när den är tom.</translation>
+        <source>The CRSX address to send the payment to. Creates local payment to yourself when empty.</source>
+        <translation>CRSX adress att skicka betalningen till. Skapar betalning till dig själv när den är tom.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2529,8 +2529,8 @@ zCRS är mogna när de har över 20 bekräftelser OCH över 2 präglingar av sam
         <translation>Zerocoin Stats:</translation>
     </message>
     <message>
-        <source>Total Balance including unconfirmed and immature zCRS</source>
-        <translation>Totalt Saldo, obekräftade och omogna zCRS inkluderade</translation>
+        <source>Total Balance including unconfirmed and immature zCRSX</source>
+        <translation>Totalt Saldo, obekräftade och omogna zCRSX inkluderade</translation>
     </message>
     <message>
         <source>Total Zerocoin  Balance:</source>
@@ -2551,24 +2551,24 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 Omogna: bekräftade men under 1 mint av samma valör efter den blev mintad</translation>
     </message>
     <message>
-        <source>Show the current status of automatic zCRS minting.
+        <source>Show the current status of automatic zCRSX minting.
 
 To change the status (restart required):
-- enable: add 'enablezeromint=1' to crs.conf
-- disable: add 'enablezeromint=0' to crs.conf
+- enable: add 'enablezeromint=1' to crsx.conf
+- disable: add 'enablezeromint=0' to crsx.conf
 
 To change the percentage (no restart required):
-- menu Settings-&gt;Options-&gt;Percentage of autominted zCRS
+- menu Settings-&gt;Options-&gt;Percentage of autominted zCRSX
 
 </source>
-        <translation>Visa den nuvarande statusen av automatisk zCRS minting.
+        <translation>Visa den nuvarande statusen av automatisk zCRSX minting.
 
 För att ändra statusen (omstart krävs):
--aktivera: lägg till 'enablezeromint=1' i crs.conf
--inaktivera: lägg till 'enablezeromint=0' i crs.conf
+-aktivera: lägg till 'enablezeromint=1' i crsx.conf
+-inaktivera: lägg till 'enablezeromint=0' i crsx.conf
 
 För att ändra procenten (ingen omstart krävs):
--meny Inställningar-&gt;Alternativ-&gt;Procent på autominted zCRS
+-meny Inställningar-&gt;Alternativ-&gt;Procent på autominted zCRSX
 
 </translation>
     </message>
@@ -2765,12 +2765,12 @@ Maximum allowed: </source>
 Högsta tillåtna:</translation>
     </message>
     <message>
-        <source>zCRS Spend #: </source>
-        <translation>zCRS spendering #:</translation>
+        <source>zCRSX Spend #: </source>
+        <translation>zCRSX spendering #:</translation>
     </message>
     <message>
-        <source>zCRS Mint</source>
-        <translation>zCRS Prägling</translation>
+        <source>zCRSX Mint</source>
+        <translation>zCRSX Prägling</translation>
     </message>
     <message>
         <source> &lt;b&gt;enabled&lt;/b&gt;.</source>
@@ -2785,12 +2785,12 @@ Högsta tillåtna:</translation>
         <translation>Konfigurerat procent mål: &lt;b&gt;</translation>
     </message>
     <message>
-        <source>zCRS is currently disabled due to maintenance.</source>
-        <translation>zCRS är för nuvarande inaktiverat p.g.a. underhåll.</translation>
+        <source>zCRSX is currently disabled due to maintenance.</source>
+        <translation>zCRSX är för nuvarande inaktiverat p.g.a. underhåll.</translation>
     </message>
     <message>
-        <source>zCRS is currently undergoing maintenance.</source>
-        <translation>zCRS genomgår för tillfället underhåll.</translation>
+        <source>zCRSX is currently undergoing maintenance.</source>
+        <translation>zCRSX genomgår för tillfället underhåll.</translation>
     </message>
     <message>
         <source>Denom. with value &lt;b&gt;1&lt;/b&gt;:</source>
@@ -2877,8 +2877,8 @@ Högsta tillåtna:</translation>
         <translation>Framgångsrikt Myntade</translation>
     </message>
     <message>
-        <source> zCRS in </source>
-        <translation>zCRS i</translation>
+        <source> zCRSX in </source>
+        <translation>zCRSX i</translation>
     </message>
     <message>
         <source> sec. Used denominations:
@@ -2905,8 +2905,8 @@ Högsta tillåtna:</translation>
         <translation>Ingen 'Betala Till' adress inmatad, skapar lokal betalning</translation>
     </message>
     <message>
-        <source>Invalid CRS Address</source>
-        <translation>Ogiltig CRS Adress</translation>
+        <source>Invalid CRSX Address</source>
+        <translation>Ogiltig CRSX Adress</translation>
     </message>
     <message>
         <source>Invalid Send Amount</source>
@@ -2937,12 +2937,12 @@ Högsta tillåtna:</translation>
         <translation>Bekräfta att skicka mynt</translation>
     </message>
     <message>
-        <source>Version 1 zCRS require a security level of 100 to successfully spend.</source>
-        <translation>Version 1 zCRS kräver en säkerhetsnivå på 100 för att kunna spenderas med framgång.</translation>
+        <source>Version 1 zCRSX require a security level of 100 to successfully spend.</source>
+        <translation>Version 1 zCRSX kräver en säkerhetsnivå på 100 för att kunna spenderas med framgång.</translation>
     </message>
     <message>
-        <source>Failed to spend zCRS</source>
-        <translation>Misslyckades med att spendera zCRS</translation>
+        <source>Failed to spend zCRSX</source>
+        <translation>Misslyckades med att spendera zCRSX</translation>
     </message>
     <message>
         <source>Failed to fetch mint associated with serial hash</source>
@@ -2964,7 +2964,7 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
     </message>
     <message numerus="yes">
         <source>PrivacyDialog</source>
-        <comment>Enter an amount of CRS to convert to zCRS</comment>
+        <comment>Enter an amount of CRSX to convert to zCRSX</comment>
         <translation><numerusform>SekretessRuta</numerusform><numerusform>SekretessDialog</numerusform></translation>
     </message>
     <message>
@@ -3007,8 +3007,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Mängd</translation>
     </message>
     <message>
-        <source>Enter a CRS address (e.g. %1)</source>
-        <translation>Mata in en CRS adress (e.g. %1)</translation>
+        <source>Enter a CRSX address (e.g. %1)</source>
+        <translation>Mata in en CRSX adress (e.g. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -3137,8 +3137,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Blockchain</translation>
     </message>
     <message>
-        <source>Open the CRS debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Öppna CRS felsökningslogg från den nuvarande data katalogen. Detta kan ta några sekunder för stora logg filer.</translation>
+        <source>Open the CRSX debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Öppna CRSX felsökningslogg från den nuvarande data katalogen. Detta kan ta några sekunder för stora logg filer.</translation>
     </message>
     <message>
         <source>Number of Masternodes</source>
@@ -3261,8 +3261,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Vanlig Backup Sökväg:</translation>
     </message>
     <message>
-        <source>Custom zCRS Backup Path:</source>
-        <translation>Vanlig zCRS Backup Sökväg:</translation>
+        <source>Custom zCRSX Backup Path:</source>
+        <translation>Vanlig zCRSX Backup Sökväg:</translation>
     </message>
     <message>
         <source>Custom Backups Threshold:</source>
@@ -3341,8 +3341,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Ut:</translation>
     </message>
     <message>
-        <source>Welcome to the CRS RPC console.</source>
-        <translation>Välkommen till CRS RPC konsol.</translation>
+        <source>Welcome to the CRSX RPC console.</source>
+        <translation>Välkommen till CRSX RPC konsol.</translation>
     </message>
     <message>
         <source>&amp;Disconnect Node</source>
@@ -3448,16 +3448,16 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>En valfri etikett att associera med den nya mottagaradressen.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the CRS network.</source>
-        <translation>Ett frivilligt meddelande att bifoga till betalningsförfrågan, som kommer visas när förfrågan öppnas. Observera: Medelandet kommer inte skickas med betalningen över CRS nätverket.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the CRSX network.</source>
+        <translation>Ett frivilligt meddelande att bifoga till betalningsförfrågan, som kommer visas när förfrågan öppnas. Observera: Medelandet kommer inte skickas med betalningen över CRSX nätverket.</translation>
     </message>
     <message>
         <source>RECEIVE</source>
         <translation>ERHÅLLA</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the CRS network.</source>
-        <translation>Ett frivilligt meddelande att bifoga till betalningsförfrågan, vilket kommer visas när förfrågan öppnas.&lt;br&gt;Observera: Medelandet kommer inte skickas med betalningen över CRS nätverket.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the CRSX network.</source>
+        <translation>Ett frivilligt meddelande att bifoga till betalningsförfrågan, vilket kommer visas när förfrågan öppnas.&lt;br&gt;Observera: Medelandet kommer inte skickas med betalningen över CRSX nätverket.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -3677,8 +3677,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>UTXO Storlek:</translation>
     </message>
     <message>
-        <source>0 CRS</source>
-        <translation>0 CRS</translation>
+        <source>0 CRSX</source>
+        <translation>0 CRSX</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -3729,16 +3729,16 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Mynt automatiskt valda</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uCRSs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uCRSs in fee,&lt;br /&gt;while "at least" pays 1000 uCRSs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Om 1000 uCRSs är den valda skräddarsydda avgiften och transaktionen är bara 250 bytes så kommer "per kilobyte" bara betala 250 uCRSs i avgift,&lt;br /&gt;medans "minst" betalar 1000 uCRSs. För transaktioner större än en kilobyte så betalar båda per kilobyte.</translation>
+        <source>If the custom fee is set to 1000 uCRSXs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uCRSXs in fee,&lt;br /&gt;while "at least" pays 1000 uCRSXs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Om 1000 uCRSXs är den valda skräddarsydda avgiften och transaktionen är bara 250 bytes så kommer "per kilobyte" bara betala 250 uCRSXs i avgift,&lt;br /&gt;medans "minst" betalar 1000 uCRSXs. För transaktioner större än en kilobyte så betalar båda per kilobyte.</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uCRSs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uCRSs in fee,&lt;br /&gt;while "total at least" pays 1000 uCRSs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Om 1000 uCRSs är den valda skräddarsydda avgiften och transaktionen är bara 250 bytes så kommer "per kilobyte" bara betala 250 uCRSs i avgift,&lt;br /&gt;medans "minst totalt" betalar 1000 uCRSs. För transaktioner större än en kilobyte så betalar båda per kilobyte.</translation>
+        <source>If the custom fee is set to 1000 uCRSXs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uCRSXs in fee,&lt;br /&gt;while "total at least" pays 1000 uCRSXs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Om 1000 uCRSXs är den valda skräddarsydda avgiften och transaktionen är bara 250 bytes så kommer "per kilobyte" bara betala 250 uCRSXs i avgift,&lt;br /&gt;medans "minst totalt" betalar 1000 uCRSXs. För transaktioner större än en kilobyte så betalar båda per kilobyte.</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for CRS transactions than the network can process.</source>
-        <translation>Att endast betala minimum avgift är okej så länge som transaktionsvolymen är mindre än rummet i blocken.&lt;br /&gt;Men var medveten om att detta kan sluta som en transaktion som aldrig blir bekräftad när det finns ett större behov av CRS transaktioner än nätverket kan bearbeta.</translation>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for CRSX transactions than the network can process.</source>
+        <translation>Att endast betala minimum avgift är okej så länge som transaktionsvolymen är mindre än rummet i blocken.&lt;br /&gt;Men var medveten om att detta kan sluta som en transaktion som aldrig blir bekräftad när det finns ett större behov av CRSX transaktioner än nätverket kan bearbeta.</translation>
     </message>
     <message>
         <source>normal</source>
@@ -3777,8 +3777,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Skicka till flera mottagare på en gång</translation>
     </message>
     <message>
-        <source>Anonymized CRS</source>
-        <translation>Anonymiserade CRS</translation>
+        <source>Anonymized CRSX</source>
+        <translation>Anonymiserade CRSX</translation>
     </message>
     <message>
         <source>Balance:</source>
@@ -3825,8 +3825,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Split block verktyget fungerar inte med flera adresser. Försök igen.</translation>
     </message>
     <message>
-        <source>Warning: Invalid CRS address</source>
-        <translation>Varning: Ogiltig CRS adress</translation>
+        <source>Warning: Invalid CRSX address</source>
+        <translation>Varning: Ogiltig CRSX adress</translation>
     </message>
     <message>
         <source>%1 to %2</source>
@@ -3928,8 +3928,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Betala &amp;Till:</translation>
     </message>
     <message>
-        <source>The CRS address to send the payment to</source>
-        <translation>CRS adressen att skicka betalningen till</translation>
+        <source>The CRSX address to send the payment to</source>
+        <translation>CRSX adressen att skicka betalningen till</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3968,8 +3968,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Medelande:</translation>
     </message>
     <message>
-        <source>A message that was attached to the CRS: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the CRS network.</source>
-        <translation>Ett medelande som var bifogat till CRS: URI som kommer sparas med transaktionen som din referens. Lägg märke till: Detta meddelande kommer inte skickas genom CRS nätverket.</translation>
+        <source>A message that was attached to the CRSX: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the CRSX network.</source>
+        <translation>Ett medelande som var bifogat till CRSX: URI som kommer sparas med transaktionen som din referens. Lägg märke till: Detta meddelande kommer inte skickas genom CRSX nätverket.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -3995,8 +3995,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>CRS Core is shutting down...</source>
-        <translation>CRS Core stängs ner...</translation>
+        <source>CRSX Core is shutting down...</source>
+        <translation>CRSX Core stängs ner...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -4018,8 +4018,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Du kan signera meddelanden med din egna adress för att bevisa att du äger dem. Se upp för att signera något vagt, då phishing-attacker kan försöka lura dig att signera din identitet åt dom. Signera endast fullt detaljerade påståenden du går med på.</translation>
     </message>
     <message>
-        <source>The CRS address to sign the message with</source>
-        <translation>CRS adressen för signera meddelandet med</translation>
+        <source>The CRSX address to sign the message with</source>
+        <translation>CRSX adressen för signera meddelandet med</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -4050,16 +4050,16 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Kopiera den nuvarande signaturen till systemets urklipp</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this CRS address</source>
-        <translation>Signera meddelandet för att bevisa att du äger denna CRS adress</translation>
+        <source>Sign the message to prove you own this CRSX address</source>
+        <translation>Signera meddelandet för att bevisa att du äger denna CRSX adress</translation>
     </message>
     <message>
-        <source>The CRS address the message was signed with</source>
-        <translation>CRS adressen meddelandet blev signerat med</translation>
+        <source>The CRSX address the message was signed with</source>
+        <translation>CRSX adressen meddelandet blev signerat med</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified CRS address</source>
-        <translation>Verifiera meddelandet för att säkerställa att de blev signerat med den specifika CRS adressen.</translation>
+        <source>Verify the message to ensure it was signed with the specified CRSX address</source>
+        <translation>Verifiera meddelandet för att säkerställa att de blev signerat med den specifika CRSX adressen.</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -4145,8 +4145,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>CRS Core</source>
-        <translation>CRS Core</translation>
+        <source>CRSX Core</source>
+        <translation>CRSX Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -4161,8 +4161,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Dash Core utvecklarna</translation>
     </message>
     <message>
-        <source>The CRS Core developers</source>
-        <translation>CRS Core utvecklarna</translation>
+        <source>The CRSX Core developers</source>
+        <translation>CRSX Core utvecklarna</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -4441,12 +4441,12 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Mottaget via Fördunkling</translation>
     </message>
     <message>
-        <source>CRS Stake</source>
-        <translation>CRS staking</translation>
+        <source>CRSX Stake</source>
+        <translation>CRSX staking</translation>
     </message>
     <message>
-        <source>zCRS Stake</source>
-        <translation>zCRS Staking</translation>
+        <source>zCRSX Stake</source>
+        <translation>zCRSX Staking</translation>
     </message>
     <message>
         <source>Obfuscation Denominate</source>
@@ -4465,32 +4465,32 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Obfuscation Skapa tecken</translation>
     </message>
     <message>
-        <source>Converted CRS to zCRS</source>
-        <translation>Konvertera CRS till zCRS</translation>
+        <source>Converted CRSX to zCRSX</source>
+        <translation>Konvertera CRSX till zCRSX</translation>
     </message>
     <message>
-        <source>Spent zCRS</source>
-        <translation>Spendera zCRS</translation>
+        <source>Spent zCRSX</source>
+        <translation>Spendera zCRSX</translation>
     </message>
     <message>
-        <source>Received CRS from zCRS</source>
-        <translation>Mottog CRS från zCRS</translation>
+        <source>Received CRSX from zCRSX</source>
+        <translation>Mottog CRSX från zCRSX</translation>
     </message>
     <message>
-        <source>Minted Change as zCRS from zCRS Spend</source>
-        <translation>Myntad Växel som zCRS från zCRS Spendering</translation>
+        <source>Minted Change as zCRSX from zCRSX Spend</source>
+        <translation>Myntad Växel som zCRSX från zCRSX Spendering</translation>
     </message>
     <message>
-        <source>Converted zCRS to CRS</source>
-        <translation>Konverterad zCRS till CRS</translation>
+        <source>Converted zCRSX to CRSX</source>
+        <translation>Konverterad zCRSX till CRSX</translation>
     </message>
     <message>
-        <source>Anonymous (zCRS Transaction)</source>
-        <translation>Anonym (zCRS Transaktion)</translation>
+        <source>Anonymous (zCRSX Transaction)</source>
+        <translation>Anonym (zCRSX Transaktion)</translation>
     </message>
     <message>
-        <source>Anonymous (zCRS Stake)</source>
-        <translation>Anonym (zCRS Stake)</translation>
+        <source>Anonymous (zCRSX Stake)</source>
+        <translation>Anonym (zCRSX Stake)</translation>
     </message>
     <message>
         <source>Sent to</source>
@@ -4700,12 +4700,12 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Exportering Lyckat</translation>
     </message>
     <message>
-        <source>Received CRS from zCRS</source>
-        <translation>Mottog CRS från zCRS</translation>
+        <source>Received CRSX from zCRSX</source>
+        <translation>Mottog CRSX från zCRSX</translation>
     </message>
     <message>
-        <source>Zerocoin Spend, Change in zCRS</source>
-        <translation>Zerocoin spendera, Växel i zCRS</translation>
+        <source>Zerocoin Spend, Change in zCRSX</source>
+        <translation>Zerocoin spendera, Växel i zCRSX</translation>
     </message>
     <message>
         <source>The transaction history was successfully saved to %1.</source>
@@ -4741,8 +4741,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Skicka Mynt</translation>
     </message>
     <message>
-        <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 CRS.</source>
-        <translation>wiftX stödjer inte att skicka så höga värden än. Transaktioner är för nuvarande begränsade till %1 CRS.</translation>
+        <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 CRSX.</source>
+        <translation>wiftX stödjer inte att skicka så höga värden än. Transaktioner är för nuvarande begränsade till %1 CRSX.</translation>
     </message>
 </context>
 <context>
@@ -4773,10 +4773,10 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
     </message>
 </context>
 <context>
-    <name>ZCRSControlDialog</name>
+    <name>ZCRSXControlDialog</name>
     <message>
-        <source>Select zCRS to Spend</source>
-        <translation>Välj zCRS att Spendera</translation>
+        <source>Select zCRSX to Spend</source>
+        <translation>Välj zCRSX att Spendera</translation>
     </message>
     <message>
         <source>Quantity</source>
@@ -4787,8 +4787,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>0</translation>
     </message>
     <message>
-        <source>zCRS</source>
-        <translation>zCRS</translation>
+        <source>zCRSX</source>
+        <translation>zCRSX</translation>
     </message>
     <message>
         <source>Select/Deselect All</source>
@@ -4826,8 +4826,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Beräknade ackumulator kontrollstation är inte vad som sparats av block index</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. CRS Core is probably already running.</source>
-        <translation>Kan ej låsa in på data katalog %s. CRS Kärna körs förmodligen redan.</translation>
+        <source>Cannot obtain a lock on data directory %s. CRSX Core is probably already running.</source>
+        <translation>Kan ej låsa in på data katalog %s. CRSX Kärna körs förmodligen redan.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -4854,16 +4854,16 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Distribuerad under MIT mjukvarulicensen, se medföljande fil COPYING eller &lt;http://www.opensource.org/licenses/mit-license.php&gt;.</translation>
     </message>
     <message>
-        <source>Enable automatic wallet backups triggered after each zCRS minting (0-1, default: %u)</source>
-        <translation>Aktivera automatisk plånboksbackup efter varje zCRS minting (0-1, standard: %u)</translation>
+        <source>Enable automatic wallet backups triggered after each zCRSX minting (0-1, default: %u)</source>
+        <translation>Aktivera automatisk plånboksbackup efter varje zCRSX minting (0-1, standard: %u)</translation>
     </message>
     <message>
-        <source>Enable or disable staking functionality for CRS inputs (0-1, default: %u)</source>
-        <translation>Aktivera eller avaktivera staking funktionalitet för CRS inmatningar (0-1, standard: %u)</translation>
+        <source>Enable or disable staking functionality for CRSX inputs (0-1, default: %u)</source>
+        <translation>Aktivera eller avaktivera staking funktionalitet för CRSX inmatningar (0-1, standard: %u)</translation>
     </message>
     <message>
-        <source>Enable or disable staking functionality for zCRS inputs (0-1, default: %u)</source>
-        <translation>Aktivera eller avaktivera staking funktionalitet för zCRS inmatningar (0-1, standard: %u)</translation>
+        <source>Enable or disable staking functionality for zCRSX inputs (0-1, default: %u)</source>
+        <translation>Aktivera eller avaktivera staking funktionalitet för zCRSX inmatningar (0-1, standard: %u)</translation>
     </message>
     <message>
         <source>Enable spork administration functionality with the appropriate private key.</source>
@@ -4898,12 +4898,12 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Exekvera kommando när den bästa block ändras (%s i cmd är utbytt mot block hash)</translation>
     </message>
     <message>
-        <source>Fees (in CRS/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Avgifter (i CRS/Kb) mindre än detta anses vara noll avgift i vidarebefodring (standard: %s)</translation>
+        <source>Fees (in CRSX/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Avgifter (i CRSX/Kb) mindre än detta anses vara noll avgift i vidarebefodring (standard: %s)</translation>
     </message>
     <message>
-        <source>Fees (in CRS/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Avgifter (i CRS/Kb) mindre än detta anses vara noll avgift i transaktionsskapelse (standard: %s)</translation>
+        <source>Fees (in CRSX/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>Avgifter (i CRSX/Kb) mindre än detta anses vara noll avgift i transaktionsskapelse (standard: %s)</translation>
     </message>
     <message>
         <source>Flush database activity from memory pool to disk log every &lt;n&gt; megabytes (default: %u)</source>
@@ -5002,20 +5002,20 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Denna produkt inkluderar mjukvara utvecklad av OpenSSL Projektet för användning i OpenSSL Toolkit &lt;https://www.openssl.org/&gt; och kryptografisk mjukvara skriven av Eric Young och UPnP mjukvara skriven av Thomas Bernard.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. CRS Core is probably already running.</source>
-        <translation>Kan inte binda till %s på denna dator. CRS Core körs förmodligen redan.</translation>
+        <source>Unable to bind to %s on this computer. CRSX Core is probably already running.</source>
+        <translation>Kan inte binda till %s på denna dator. CRSX Core körs förmodligen redan.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
         <translation>Kan ej lokalisera tillräckligt Fördunklingsdenominationerade pengar för denna transaktion.</translation>
     </message>
     <message>
-        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 CRS.</source>
-        <translation>Kan ej lokalisera tillräckligt Fördunkling icke-denominationerade pengar för denna transaktion som inte är 10000 CRS.</translation>
+        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 CRSX.</source>
+        <translation>Kan ej lokalisera tillräckligt Fördunkling icke-denominationerade pengar för denna transaktion som inte är 10000 CRSX.</translation>
     </message>
     <message>
-        <source>Unable to locate enough funds for this transaction that are not equal 10000 CRS.</source>
-        <translation>Kan inte hitta tillräckligt med pengar för denna transaktion som inte är 10000 CRS.</translation>
+        <source>Unable to locate enough funds for this transaction that are not equal 10000 CRSX.</source>
+        <translation>Kan inte hitta tillräckligt med pengar för denna transaktion som inte är 10000 CRSX.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
@@ -5030,8 +5030,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Varning: -maxtxfee är sätt väldigt högt! Detta är transaktionsavgiften du kommer betala om du skickar en transaktion.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong CRS Core will not work properly.</source>
-        <translation>Varning: Var vänlig kontrollera att din dators tid och datum är korrekt! Om din klocka är fel så kommer CRS Core inte att fungera korrekt.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong CRSX Core will not work properly.</source>
+        <translation>Varning: Var vänlig kontrollera att din dators tid och datum är korrekt! Om din klocka är fel så kommer CRSX Core inte att fungera korrekt.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -5182,8 +5182,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Copyright (C) 2014-%i The Dash Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The CRS Core Developers</source>
-        <translation>Copyright (C) 2015-%i The CRS Core Developers</translation>
+        <source>Copyright (C) 2015-%i The CRSX Core Developers</source>
+        <translation>Copyright (C) 2015-%i The CRSX Core Developers</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -5270,8 +5270,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Fel vid laddning av wallet.dat: Plånbok korrupterad</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of CRS Core</source>
-        <translation>Fel vid laddning av wallet.dat: Plånbok  kräver nyare CRS Kärna version</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of CRSX Core</source>
+        <translation>Fel vid laddning av wallet.dat: Plånbok  kräver nyare CRSX Kärna version</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -5326,8 +5326,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Misslyckades läsa block</translation>
     </message>
     <message>
-        <source>Fee (in CRS/kB) to add to transactions you send (default: %s)</source>
-        <translation>Avgift (i CRS/kB) för att lägga till transaktioner you skicka (standard: %s)</translation>
+        <source>Fee (in CRSX/kB) to add to transactions you send (default: %s)</source>
+        <translation>Avgift (i CRSX/kB) för att lägga till transaktioner you skicka (standard: %s)</translation>
     </message>
     <message>
         <source>Finalizing transaction.</source>
@@ -5386,8 +5386,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Information</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. CRS Core is shutting down.</source>
-        <translation>Initierings renlighetscheck misslyckades. CRS Kärna stängs ner.</translation>
+        <source>Initialization sanity check failed. CRSX Core is shutting down.</source>
+        <translation>Initierings renlighetscheck misslyckades. CRSX Kärna stängs ner.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -5458,8 +5458,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Procent automatiskt mintad Zerocoin (1-100, default: %u)</translation>
     </message>
     <message>
-        <source>Reindex the CRS and zCRS money supply statistics</source>
-        <translation>Indexera CRS och zCRS pengarna tillgång statistik på nytt</translation>
+        <source>Reindex the CRSX and zCRSX money supply statistics</source>
+        <translation>Indexera CRSX och zCRSX pengarna tillgång statistik på nytt</translation>
     </message>
     <message>
         <source>Reindexing zerocoin database...</source>
@@ -5498,8 +5498,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
 </translation>
     </message>
     <message>
-        <source>Disable all CRS specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
-        <translation>Avaktivera all CRS funktionalitet (Huvudnoder, Zerocoin, SwiftX, Budgeting) (0-1, standard: %u)</translation>
+        <source>Disable all CRSX specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
+        <translation>Avaktivera all CRSX funktionalitet (Huvudnoder, Zerocoin, SwiftX, Budgeting) (0-1, standard: %u)</translation>
     </message>
     <message>
         <source>Enable SwiftX, show confirmations for locked transactions (bool, default: %s)</source>
@@ -5534,8 +5534,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Valör aatt föredra för automatiskt mintad Zerocoin (1/5/10/50/100/500/1000/5000), 0 för ingen preface. standard: %u)</translation>
     </message>
     <message>
-        <source>Specify custom backup path to add a copy of any automatic zCRS backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup. If backuppath is set as well, 4 backups will happen</source>
-        <translation>Specifiera skräddarsydd backup väg att lägga till en kopia av alla automatisk zCRS backup. Om satt som dir, varje backup genererar en tidsstämplad fil. Om satt som fil, skriver över den filen vid varje backup. Om backupvägen också är satt, 4 backups kommer hända</translation>
+        <source>Specify custom backup path to add a copy of any automatic zCRSX backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup. If backuppath is set as well, 4 backups will happen</source>
+        <translation>Specifiera skräddarsydd backup väg att lägga till en kopia av alla automatisk zCRSX backup. Om satt som dir, varje backup genererar en tidsstämplad fil. Om satt som fil, skriver över den filen vid varje backup. Om backupvägen också är satt, 4 backups kommer hända</translation>
     </message>
     <message>
         <source>Specify custom backup path to add a copy of any wallet backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup.</source>
@@ -6034,8 +6034,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Synkroniserar sporks...</translation>
     </message>
     <message>
-        <source>Syncing zCRS wallet...</source>
-        <translation>Synkroniserar zCRS plånbok...</translation>
+        <source>Syncing zCRSX wallet...</source>
+        <translation>Synkroniserar zCRSX plånbok...</translation>
     </message>
     <message>
         <source>The coin spend has been used</source>
@@ -6182,8 +6182,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Användarnamn för JSON-RPC anslutningar</translation>
     </message>
     <message>
-        <source>Value is below the smallest available denomination (= 1) of zCRS</source>
-        <translation>Värde är under den minsta tillgängliga valören (=1) av zCRS</translation>
+        <source>Value is below the smallest available denomination (= 1) of zCRSX</source>
+        <translation>Värde är under den minsta tillgängliga valören (=1) av zCRSX</translation>
     </message>
     <message>
         <source>Value more than Obfuscation pool maximum allows.</source>
@@ -6198,8 +6198,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Verifierar plånbok</translation>
     </message>
     <message>
-        <source>Version 1 zCRS require a security level of 100 to successfully spend.</source>
-        <translation>Version 1 zCRS kräver en säkerhetsnivå på 100 för att kunna spenderas med framgång.</translation>
+        <source>Version 1 zCRSX require a security level of 100 to successfully spend.</source>
+        <translation>Version 1 zCRSX kräver en säkerhetsnivå på 100 för att kunna spenderas med framgång.</translation>
     </message>
     <message>
         <source>Wallet %s resides outside data directory %s</source>
@@ -6210,8 +6210,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Plånboken är låst.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart CRS Core to complete</source>
-        <translation>Plånbok behöver skrivas om: starta om CRS Kärna för att göra klart</translation>
+        <source>Wallet needed to be rewritten: restart CRSX Core to complete</source>
+        <translation>Plånbok behöver skrivas om: starta om CRSX Kärna för att göra klart</translation>
     </message>
     <message>
         <source>Wallet options:</source>

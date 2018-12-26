@@ -20,18 +20,18 @@ BitcoinUnits::BitcoinUnits(QObject* parent) : QAbstractListModel(parent),
 QList<BitcoinUnits::Unit> BitcoinUnits::availableUnits()
 {
     QList<BitcoinUnits::Unit> unitlist;
-    unitlist.append(CRS);
-    unitlist.append(mCRS);
-    unitlist.append(uCRS);
+    unitlist.append(CRSX);
+    unitlist.append(mCRSX);
+    unitlist.append(uCRSX);
     return unitlist;
 }
 
 bool BitcoinUnits::valid(int unit)
 {
     switch (unit) {
-    case CRS:
-    case mCRS:
-    case uCRS:
+    case CRSX:
+    case mCRSX:
+    case uCRSX:
         return true;
     default:
         return false;
@@ -41,12 +41,12 @@ bool BitcoinUnits::valid(int unit)
 QString BitcoinUnits::id(int unit)
 {
     switch (unit) {
-    case CRS:
-        return QString("crs");
-    case mCRS:
-        return QString("mcrs");
-    case uCRS:
-        return QString::fromUtf8("ucrs");
+    case CRSX:
+        return QString("crsx");
+    case mCRSX:
+        return QString("mcrsx");
+    case uCRSX:
+        return QString::fromUtf8("ucrsx");
     default:
         return QString("???");
     }
@@ -56,23 +56,23 @@ QString BitcoinUnits::name(int unit)
 {
     if (Params().NetworkID() == CBaseChainParams::MAIN) {
         switch (unit) {
-        case CRS:
-            return QString("CRS");
-        case mCRS:
-            return QString("mCRS");
-        case uCRS:
-            return QString::fromUtf8("μCRS");
+        case CRSX:
+            return QString("CRSX");
+        case mCRSX:
+            return QString("mCRSX");
+        case uCRSX:
+            return QString::fromUtf8("μCRSX");
         default:
             return QString("???");
         }
     } else {
         switch (unit) {
-        case CRS:
-            return QString("tCRS");
-        case mCRS:
-            return QString("mtCRS");
-        case uCRS:
-            return QString::fromUtf8("μtCRS");
+        case CRSX:
+            return QString("tCRSX");
+        case mCRSX:
+            return QString("mtCRSX");
+        case uCRSX:
+            return QString::fromUtf8("μtCRSX");
         default:
             return QString("???");
         }
@@ -83,23 +83,23 @@ QString BitcoinUnits::description(int unit)
 {
     if (Params().NetworkID() == CBaseChainParams::MAIN) {
         switch (unit) {
-        case CRS:
-            return QString("CRS");
-        case mCRS:
-            return QString("Milli-CRS (1 / 1" THIN_SP_UTF8 "000)");
-        case uCRS:
-            return QString("Micro-CRS (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
+        case CRSX:
+            return QString("CRSX");
+        case mCRSX:
+            return QString("Milli-CRSX (1 / 1" THIN_SP_UTF8 "000)");
+        case uCRSX:
+            return QString("Micro-CRSX (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
         default:
             return QString("???");
         }
     } else {
         switch (unit) {
-        case CRS:
-            return QString("TestCRSs");
-        case mCRS:
-            return QString("Milli-TestCRS (1 / 1" THIN_SP_UTF8 "000)");
-        case uCRS:
-            return QString("Micro-TestCRS (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
+        case CRSX:
+            return QString("TestCRSXs");
+        case mCRSX:
+            return QString("Milli-TestCRSX (1 / 1" THIN_SP_UTF8 "000)");
+        case uCRSX:
+            return QString("Micro-TestCRSX (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
         default:
             return QString("???");
         }
@@ -109,11 +109,11 @@ QString BitcoinUnits::description(int unit)
 qint64 BitcoinUnits::factor(int unit)
 {
     switch (unit) {
-    case CRS:
+    case CRSX:
         return 100000000;
-    case mCRS:
+    case mCRSX:
         return 100000;
-    case uCRS:
+    case uCRSX:
         return 100;
     default:
         return 100000000;
@@ -123,11 +123,11 @@ qint64 BitcoinUnits::factor(int unit)
 int BitcoinUnits::decimals(int unit)
 {
     switch (unit) {
-    case CRS:
+    case CRSX:
         return 8;
-    case mCRS:
+    case mCRSX:
         return 5;
-    case uCRS:
+    case uCRSX:
         return 2;
     default:
         return 0;

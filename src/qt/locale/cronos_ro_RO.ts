@@ -189,7 +189,7 @@
     </message>
     </context>
 <context>
-    <name>ZCRSControlDialog</name>
+    <name>ZCRSXControlDialog</name>
     </context>
 <context>
     <name>cronos-core</name>

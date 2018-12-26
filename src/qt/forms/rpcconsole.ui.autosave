@@ -1326,17 +1326,17 @@
         </widget>
        </item>
        <item row="4" column="0">
-        <widget class="QLabel" name="wallet_customzCRSbackuppath_label">
+        <widget class="QLabel" name="wallet_customzCRSXbackuppath_label">
          <property name="visible">
           <bool>false</bool>
          </property>
          <property name="text">
-          <string>Custom zCRS Backup Path:</string>
+          <string>Custom zCRSX Backup Path:</string>
          </property>
         </widget>
        </item>
        <item row="4" column="1" colspan="3">
-        <widget class="QLabel" name="wallet_customzCRSbackuppath">
+        <widget class="QLabel" name="wallet_customzCRSXbackuppath">
          <property name="cursor">
           <cursorShape>IBeamCursor</cursorShape>
          </property>

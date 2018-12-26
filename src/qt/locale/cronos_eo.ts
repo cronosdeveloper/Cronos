@@ -62,11 +62,11 @@
         <translation>Ricevanta adresojn</translation>
     </message>
     <message>
-        <source>These are your CRS addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Ĉi tiuj estas viaj CRS adreso por sendi pagojn. Ĉiam kontroku la kvanto kaj la ricevanta antaŭ ol sendi monerojn.</translation>
+        <source>These are your CRSX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Ĉi tiuj estas viaj CRSX adreso por sendi pagojn. Ĉiam kontroku la kvanto kaj la ricevanta antaŭ ol sendi monerojn.</translation>
     </message>
     <message>
-        <source>These are your CRS addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your CRSX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation>Ĉi tiuj estas vian adreson por ricevi pagojn. Ĝi rekomendas uzi novajn ricenvantan adreson por ĉiu nova transakcio.</translation>
     </message>
     <message>
@@ -176,15 +176,15 @@
         <translation>Konfirmi monerĉifrado</translation>
     </message>
     <message>
-        <source>CRS will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your CRSs from being stolen by malware infecting your computer.</source>
-        <translation>CRS fermos nun por fini ĉifran procezon. Memoru ke ĉifri vian monujon ne povas plene protekti viajn CRSs de esti ŝtelita per malware infektanta vian komputilon.</translation>
+        <source>CRSX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your CRSXs from being stolen by malware infecting your computer.</source>
+        <translation>CRSX fermos nun por fini ĉifran procezon. Memoru ke ĉifri vian monujon ne povas plene protekti viajn CRSXs de esti ŝtelita per malware infektanta vian komputilon.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Ĉu vi certas ke vi volas ĉifri vian monujon?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CRS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CRSX&lt;/b&gt;!</source>
         <translation>Averto: se vi ĉifras vian monujo kaj perdi vian pasfrazon, vi &lt;b&gt;PERDOS VIAN TUTAN MONON&lt;/b&gt;!</translation>
     </message>
     <message>
@@ -254,11 +254,11 @@
         <translation>Adreso:</translation>
     </message>
     <message>
-        <source>Enter a CRS Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Eniri unu CRS adreso ke vi volus ĉifri per BIP 38. Eniri unu pasfrazon meze skatolo. Klaku ĉifri por komputi la ĉifrita privata ŝlosilo.</translation>
+        <source>Enter a CRSX Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Eniri unu CRSX adreso ke vi volus ĉifri per BIP 38. Eniri unu pasfrazon meze skatolo. Klaku ĉifri por komputi la ĉifrita privata ŝlosilo.</translation>
     </message>
     <message>
-        <source>The CRS address to encrypt</source>
+        <source>The CRSX address to encrypt</source>
         <translation>Adreson por ĉifri</translation>
     </message>
     <message>
@@ -290,8 +290,8 @@
         <translation>Kopiu la aktualan subskribo al la sistemo-poŝo</translation>
     </message>
     <message>
-        <source>Encrypt the private key for this CRS address</source>
-        <translation>Ĉifri la privata ŝlosilo por ĉi tiu CRS adreso</translation>
+        <source>Encrypt the private key for this CRSX address</source>
+        <translation>Ĉifri la privata ŝlosilo por ĉi tiu CRSX adreso</translation>
     </message>
     <message>
         <source>Reset all fields</source>
@@ -433,8 +433,8 @@
         <translation>&amp;Foliumi transakcio historio</translation>
     </message>
     <message>
-        <source>Privacy Actions for zCRS</source>
-        <translation>Privataj agoj por zCRS</translation>
+        <source>Privacy Actions for zCRSX</source>
+        <translation>Privataj agoj por zCRSX</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
@@ -645,16 +645,16 @@
         <translation>Iloj langeto</translation>
     </message>
     <message>
-        <source>CRS Core</source>
-        <translation>CRS kerno</translation>
+        <source>CRSX Core</source>
+        <translation>CRSX kerno</translation>
     </message>
     <message>
-        <source>Send coins to a CRS address</source>
-        <translation>Sendu mono al CRS addreso</translation>
+        <source>Send coins to a CRSX address</source>
+        <translation>Sendu mono al CRSX addreso</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and crs: URIs)</source>
-        <translation>Peto pagojn (generas QR kodojn kaj crs: URIs)</translation>
+        <source>Request payments (generates QR codes and crsx: URIs)</source>
+        <translation>Peto pagojn (generas QR kodojn kaj crsx: URIs)</translation>
     </message>
     <message>
         <source>&amp;Privacy</source>
@@ -669,24 +669,24 @@
         <translation>Foliumi mastro-nodo</translation>
     </message>
     <message>
-        <source>&amp;About CRS Core</source>
-        <translation>&amp;Pri CRS Kerno</translation>
+        <source>&amp;About CRSX Core</source>
+        <translation>&amp;Pri CRSX Kerno</translation>
     </message>
     <message>
-        <source>Show information about CRS Core</source>
-        <translation>Montri informon pri CRS Kerno</translation>
+        <source>Show information about CRSX Core</source>
+        <translation>Montri informon pri CRSX Kerno</translation>
     </message>
     <message>
-        <source>Modify configuration options for CRS</source>
-        <translation>Modifi agordajn opciojn por CRS</translation>
+        <source>Modify configuration options for CRSX</source>
+        <translation>Modifi agordajn opciojn por CRSX</translation>
     </message>
     <message>
-        <source>Sign messages with your CRS addresses to prove you own them</source>
-        <translation>Subskribu mesaĝo per via CRS adreso por pruvi vi posedas ĝin</translation>
+        <source>Sign messages with your CRSX addresses to prove you own them</source>
+        <translation>Subskribu mesaĝo per via CRSX adreso por pruvi vi posedas ĝin</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified CRS addresses</source>
-        <translation>Kontrolu mesaĝojn por certigi ke ili estas subskribita kun specifita CRS adreso</translation>
+        <source>Verify messages to ensure they were signed with specified CRSX addresses</source>
+        <translation>Kontrolu mesaĝojn por certigi ke ili estas subskribita kun specifita CRSX adreso</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -717,8 +717,8 @@
         <translation>Malfermi mastro-nodo agord-dosieron</translation>
     </message>
     <message>
-        <source>Open a CRS: URI or payment request</source>
-        <translation>Malfermi unu CRS: URI aŭ pago peto</translation>
+        <source>Open a CRSX: URI or payment request</source>
+        <translation>Malfermi unu CRSX: URI aŭ pago peto</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -729,16 +729,16 @@
         <translation>Bloko esplorilo fenestro</translation>
     </message>
     <message>
-        <source>Show the CRS Core help message to get a list with possible CRS command-line options</source>
-        <translation>Montri la CRS Kore help-mesaĝo por havi liston de havebla CRS komandlinion opciojn</translation>
+        <source>Show the CRSX Core help message to get a list with possible CRSX command-line options</source>
+        <translation>Montri la CRSX Kore help-mesaĝo por havi liston de havebla CRSX komandlinion opciojn</translation>
     </message>
     <message>
-        <source>CRS Core client</source>
-        <translation>CRS Kerno kliento</translation>
+        <source>CRSX Core client</source>
+        <translation>CRSX Kerno kliento</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to CRS network</source>
-        <translation><numerusform>%n aktiva ligo(j) al la CRS reto</numerusform><numerusform>%n aktiva ligo(j) al la CRS reto</numerusform></translation>
+        <source>%n active connection(s) to CRSX network</source>
+        <translation><numerusform>%n aktiva ligo(j) al la CRSX reto</numerusform><numerusform>%n aktiva ligo(j) al la CRSX reto</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -892,8 +892,8 @@ Muktisendi: %1</translation>
         <translation>Tekstetikedo</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (crs.conf).</source>
-        <translation>Ĉiuj transakcio ne estos montri. Peor vidi ĉiuj transakcio bezonas agordi txindekso=1 en la agordo dosiero (crs.conf).</translation>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (crsx.conf).</source>
+        <translation>Ĉiuj transakcio ne estos montri. Peor vidi ĉiuj transakcio bezonas agordi txindekso=1 en la agordo dosiero (crsx.conf).</translation>
     </message>
 </context>
 <context>
@@ -1122,8 +1122,8 @@ Muktisendi: %1</translation>
         <translation>Ĉi tiun etikedo ruĝiĝas se iu ajna ricevanto ricevas totalo pli malgranda ol %1.</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 ucrs per input.</source>
-        <translation>Povas varii +/- %1 ucrs per enigo.</translation>
+        <source>Can vary +/- %1 ucrsx per input.</source>
+        <translation>Povas varii +/- %1 ucrsx per enigo.</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1177,8 +1177,8 @@ Muktisendi: %1</translation>
         <translation>Redaktu sendantan adreson</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid CRS address.</source>
-        <translation>La enirita "%1" adreso ne estas validan CRS adreson.</translation>
+        <source>The entered address "%1" is not a valid CRSX address.</source>
+        <translation>La enirita "%1" adreso ne estas validan CRSX adreson.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1223,16 +1223,16 @@ Muktisendi: %1</translation>
         <translation>versio</translation>
     </message>
     <message>
-        <source>CRS Core</source>
-        <translation>CRS kerno</translation>
+        <source>CRSX Core</source>
+        <translation>CRSX kerno</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bajto)</translation>
     </message>
     <message>
-        <source>About CRS Core</source>
-        <translation>Pri CRS Kerno</translation>
+        <source>About CRSX Core</source>
+        <translation>Pri CRSX Kerno</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1274,16 +1274,16 @@ Muktisendi: %1</translation>
         <translation>Bonvenon</translation>
     </message>
     <message>
-        <source>Welcome to CRS Core.</source>
-        <translation>Bonvenon al la CRS Kerno.</translation>
+        <source>Welcome to CRSX Core.</source>
+        <translation>Bonvenon al la CRSX Kerno.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where CRS Core will store its data.</source>
-        <translation>Ĉar estas la unuan fojon ke la programo estas lanĉita, vi povas elekti kie CRS kernk storigis sian datumojn. </translation>
+        <source>As this is the first time the program is launched, you can choose where CRSX Core will store its data.</source>
+        <translation>Ĉar estas la unuan fojon ke la programo estas lanĉita, vi povas elekti kie CRSX kernk storigis sian datumojn. </translation>
     </message>
     <message>
-        <source>CRS Core will download and store a copy of the CRS block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>CRS kerno elŝutos kaj konservi kopion de la CRS blokĉeno. Almenaŭ %1GB datumoj stokitos en ĉi tiun dosierujo, kaj ĝi kresko kun la tempo. Monujo stokitos en ĉi tiun dosierujo.</translation>
+        <source>CRSX Core will download and store a copy of the CRSX block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>CRSX kerno elŝutos kaj konservi kopion de la CRSX blokĉeno. Almenaŭ %1GB datumoj stokitos en ĉi tiun dosierujo, kaj ĝi kresko kun la tempo. Monujo stokitos en ĉi tiun dosierujo.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1294,8 +1294,8 @@ Muktisendi: %1</translation>
         <translation>Uzi kutimon datumojn dosierujo:</translation>
     </message>
     <message>
-        <source>CRS Core</source>
-        <translation>CRS kerno</translation>
+        <source>CRSX Core</source>
+        <translation>CRSX kerno</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1561,8 +1561,8 @@ Bonvolu kontroku la adreson kaj riprovu</translation>
         <translation>Adreso / Kvanto:</translation>
     </message>
     <message>
-        <source>Add destinations to send CRS to</source>
-        <translation>Aldonu destinoj por sendi CRS al</translation>
+        <source>Add destinations to send CRSX to</source>
+        <translation>Aldonu destinoj por sendi CRSX al</translation>
     </message>
     <message>
         <source>Add &amp;Destination</source>
@@ -1628,12 +1628,12 @@ Bonvolu kontroku la adreson kaj riprovu</translation>
         <translation>Bonvolu elekti privata nivelo.</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 CRS to anonymize 10000 CRS</source>
-        <translation>Tion opcion estas la plej rapida kaji kostos ~0.025 CRS por anonimigi 10000 CRS</translation>
+        <source>This option is the quickest and will cost about ~0.025 CRSX to anonymize 10000 CRSX</source>
+        <translation>Tion opcion estas la plej rapida kaji kostos ~0.025 CRSX por anonimigi 10000 CRSX</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 CRS to anonymize 10000 CRS</source>
-        <translation>Tion opcion estas moderebla rapide kaj kostos ĉirkaŭ 0.05 CRS por anonimigi 10000 CRS</translation>
+        <source>This option is moderately fast and will cost about 0.05 CRSX to anonymize 10000 CRSX</source>
+        <translation>Tion opcion estas moderebla rapide kaj kostos ĉirkaŭ 0.05 CRSX por anonimigi 10000 CRSX</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
@@ -1682,8 +1682,8 @@ Bonvolu kontroku la adreson kaj riprovu</translation>
         <translation>&amp;Monujo</translation>
     </message>
     <message>
-        <source>Automatically open the CRS client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Aŭtomate malfermi CRS klienton havenon en la enkursigilo. Tio nur laboras kiam via enkursigilo subtenas UPnP kaj estas ebligita.</translation>
+        <source>Automatically open the CRSX client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Aŭtomate malfermi CRSX klienton havenon en la enkursigilo. Tio nur laboras kiam via enkursigilo subtenas UPnP kaj estas ebligita.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1694,8 +1694,8 @@ Bonvolu kontroku la adreson kaj riprovu</translation>
         <translation>Sperta</translation>
     </message>
     <message>
-        <source>&amp;Start CRS on system login</source>
-        <translation>&amp;Komencu CRS en sistem-ensaluto</translation>
+        <source>&amp;Start CRSX on system login</source>
+        <translation>&amp;Komencu CRSX en sistem-ensaluto</translation>
     </message>
     <message>
         <source>&amp;Spend unconfirmed change</source>
@@ -1706,18 +1706,18 @@ Bonvolu kontroku la adreson kaj riprovu</translation>
         <translation>&amp;Reto</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting CRS.</source>
-        <translation>La uzanta interfaco lingvo povas esti agordi ĉi tie. Tio agordo efektivigos post rekomenci CRS.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting CRSX.</source>
+        <translation>La uzanta interfaco lingvo povas esti agordi ĉi tie. Tio agordo efektivigos post rekomenci CRSX.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/crs-project/crs-project-translations</source>
+https://www.transifex.com/crsx-project/crsx-project-translations</source>
         <translation>Ĉu mankas lingvon aŭ nekompleta tradukado? Helpu la  tradukcio ĉi tie:
-https://www.transifex.com/crs-project/crs-project-translations</translation>
+https://www.transifex.com/crsx-project/crsx-project-translations</translation>
     </message>
     <message>
-        <source>Connect to the CRS network through a SOCKS5 proxy.</source>
-        <translation>Konekti al la CRS reto per SOCKS5 prokurilo.</translation>
+        <source>Connect to the CRSX network through a SOCKS5 proxy.</source>
+        <translation>Konekti al la CRSX reto per SOCKS5 prokurilo.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1787,20 +1787,20 @@ https://www.transifex.com/crs-project/crs-project-translations</translation>
         <translation>Via aktuala elspezebla saldo</translation>
     </message>
     <message>
-        <source>CRS Balance</source>
-        <translation>CRS kvanto</translation>
+        <source>CRSX Balance</source>
+        <translation>CRSX kvanto</translation>
     </message>
     <message>
         <source>Immature:</source>
         <translation>Nematura:</translation>
     </message>
     <message>
-        <source>Your current CRS balance, unconfirmed and immature transactions included</source>
-        <translation>Via aktuala CRS totalo, nekonformita kaj nematurita transakcioj inkluzivita</translation>
+        <source>Your current CRSX balance, unconfirmed and immature transactions included</source>
+        <translation>Via aktuala CRSX totalo, nekonformita kaj nematurita transakcioj inkluzivita</translation>
     </message>
     <message>
-        <source>zCRS Balance</source>
-        <translation>zCRS kvanto</translation>
+        <source>zCRSX Balance</source>
+        <translation>zCRSX kvanto</translation>
     </message>
     <message>
         <source>Unconfirmed: less than 20 confirmations
@@ -1809,8 +1809,8 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mintita</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRS network after a connection is established, but this process has not completed yet.</source>
-        <translation>Montrata informon povas esti malmoderna. Via monujo automate sinkronigis kun la CRS reto post konekcio establas, sed ĉi tio procezo ankoraŭ ne kompletigis.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRSX network after a connection is established, but this process has not completed yet.</source>
+        <translation>Montrata informon povas esti malmoderna. Via monujo automate sinkronigis kun la CRSX reto post konekcio establas, sed ĉi tio procezo ankoraŭ ne kompletigis.</translation>
     </message>
     <message>
         <source>OVERVIEW</source>
@@ -1849,7 +1849,7 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
-        <translation>Pago peto dosiero ne povas estas legi! Ĉi tio crsas esti kauzita por nevalida pago peto dosiero.</translation>
+        <translation>Pago peto dosiero ne povas estas legi! Ĉi tio crsxas esti kauzita por nevalida pago peto dosiero.</translation>
     </message>
     <message>
         <source>Payment request rejected</source>
@@ -1862,20 +1862,20 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
 <context>
     <name>PrivacyDialog</name>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRS network after a connection is established, but this process has not completed yet.</source>
-        <translation>Montrata informon povas esti malmoderna. Via monujo automate sinkronigis kun la CRS reto post konekcio establas, sed ĉi tio procezo ankoraŭ ne kompletigis.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRSX network after a connection is established, but this process has not completed yet.</source>
+        <translation>Montrata informon povas esti malmoderna. Via monujo automate sinkronigis kun la CRSX reto post konekcio establas, sed ĉi tio procezo ankoraŭ ne kompletigis.</translation>
     </message>
     <message>
         <source>0</source>
         <translation>0</translation>
     </message>
     <message>
-        <source>zCRS</source>
-        <translation>zCRS</translation>
+        <source>zCRSX</source>
+        <translation>zCRSX</translation>
     </message>
     <message>
-        <source>0.000 000 00 CRS</source>
-        <translation>0.000 000 00 CRS</translation>
+        <source>0.000 000 00 CRSX</source>
+        <translation>0.000 000 00 CRSX</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -1890,12 +1890,12 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>Kvanto</translation>
     </message>
     <message>
-        <source>zCRS Control</source>
-        <translation>zCRS kontrolu</translation>
+        <source>zCRSX Control</source>
+        <translation>zCRSX kontrolu</translation>
     </message>
     <message>
-        <source>zCRS Selected:</source>
-        <translation>Elektita zCRS</translation>
+        <source>zCRSX Selected:</source>
+        <translation>Elektita zCRSX</translation>
     </message>
     <message>
         <source>Quantity Selected:</source>
@@ -1906,20 +1906,20 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>Elspezi zerocoin</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zCRS for spending</source>
-        <translation>Havebla (matura kaj elspezebla) zCRS por elspezi</translation>
+        <source>Available (mature and spendable) zCRSX for spending</source>
+        <translation>Havebla (matura kaj elspezebla) zCRSX por elspezi</translation>
     </message>
     <message>
-        <source>0 zCRS</source>
-        <translation>0 zCRS</translation>
+        <source>0 zCRSX</source>
+        <translation>0 zCRSX</translation>
     </message>
     <message>
         <source>Pay &amp;To:</source>
         <translation>Pagu &amp;Al:</translation>
     </message>
     <message>
-        <source>The CRS address to send the payment to. Creates local payment to yourself when empty.</source>
-        <translation>CRS adreso por alsendi la pago. Kreas lokala pago al vi mem kiam malplenija.</translation>
+        <source>The CRSX address to send the payment to. Creates local payment to yourself when empty.</source>
+        <translation>CRSX adreso por alsendi la pago. Kreas lokala pago al vi mem kiam malplenija.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2004,8 +2004,8 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>Mesaĝo: eniri kvanto &gt; 0.</translation>
     </message>
     <message>
-        <source>Invalid CRS Address</source>
-        <translation>Nevalida CRS adreso</translation>
+        <source>Invalid CRSX Address</source>
+        <translation>Nevalida CRSX adreso</translation>
     </message>
     <message>
         <source>Confirm send coins</source>
@@ -2101,8 +2101,8 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>Rekonstrui indekson</translation>
     </message>
     <message>
-        <source>Welcome to the CRS RPC console.</source>
-        <translation>Bonvenon al la CRS RPC konzolo.</translation>
+        <source>Welcome to the CRSX RPC console.</source>
+        <translation>Bonvenon al la CRSX RPC konzolo.</translation>
     </message>
     <message>
         <source>1 &amp;hour</source>
@@ -2297,8 +2297,8 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>Se estas aktiva sed ŝanĝo-adreso estas malpleniĝa au nevalida, ŝanĝo sendos al nova generita adreson.</translation>
     </message>
     <message>
-        <source>0 CRS</source>
-        <translation>0 CRS</translation>
+        <source>0 CRSX</source>
+        <translation>0 CRSX</translation>
     </message>
     <message>
         <source>Open Coin Control...</source>
@@ -2345,8 +2345,8 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>Kopi ŝanĝo</translation>
     </message>
     <message>
-        <source>Warning: Invalid CRS address</source>
-        <translation>Averto: nevalida CRS adreson</translation>
+        <source>Warning: Invalid CRSX address</source>
+        <translation>Averto: nevalida CRSX adreson</translation>
     </message>
     <message>
         <source>Are you sure you want to send?</source>
@@ -2372,8 +2372,8 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>Pagu &amp;Al:</translation>
     </message>
     <message>
-        <source>The CRS address to send the payment to</source>
-        <translation>CRSC adreso por sendi la pago al</translation>
+        <source>The CRSX address to send the payment to</source>
+        <translation>CRSXC adreso por sendi la pago al</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2407,8 +2407,8 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>CRS Core is shutting down...</source>
-        <translation>CRS kerno fermanta...</translation>
+        <source>CRSX Core is shutting down...</source>
+        <translation>CRSX kerno fermanta...</translation>
     </message>
     </context>
 <context>
@@ -2461,8 +2461,8 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>CRS Core</source>
-        <translation>CRS kerno</translation>
+        <source>CRSX Core</source>
+        <translation>CRSX kerno</translation>
     </message>
     <message>
         <source>The Bitcoin Core developers</source>
@@ -2473,8 +2473,8 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>La Dash kerno programistoj</translation>
     </message>
     <message>
-        <source>The CRS Core developers</source>
-        <translation>La CRS kerno programistoj</translation>
+        <source>The CRSX Core developers</source>
+        <translation>La CRSX kerno programistoj</translation>
     </message>
     </context>
 <context>
@@ -2649,14 +2649,14 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
     </message>
     </context>
 <context>
-    <name>ZCRSControlDialog</name>
+    <name>ZCRSXControlDialog</name>
     <message>
         <source>0</source>
         <translation>0</translation>
     </message>
     <message>
-        <source>zCRS</source>
-        <translation>zCRS</translation>
+        <source>zCRSX</source>
+        <translation>zCRSX</translation>
     </message>
     <message>
         <source>Is Spendable</source>

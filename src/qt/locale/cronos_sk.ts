@@ -62,12 +62,12 @@
         <translation>Prijímacia adresa</translation>
     </message>
     <message>
-        <source>These are your CRS addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Toto sú vaše CRS adresy na odosielanie platieb. Pred odoslaním vždy skontrolujte výšku a adresu prijemcu.</translation>
+        <source>These are your CRSX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Toto sú vaše CRSX adresy na odosielanie platieb. Pred odoslaním vždy skontrolujte výšku a adresu prijemcu.</translation>
     </message>
     <message>
-        <source>These are your CRS addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Toto sú vaše CRS adresy na prijímanie platieb. Pre každú transakciu sa odporúča použiť novú prijímaciu adresu.</translation>
+        <source>These are your CRSX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Toto sú vaše CRSX adresy na prijímanie platieb. Pre každú transakciu sa odporúča použiť novú prijímaciu adresu.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -172,16 +172,16 @@
         <translation>Potvrďte šifrovanie peňaženky</translation>
     </message>
     <message>
-        <source>CRS will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your CRSs from being stolen by malware infecting your computer.</source>
-        <translation>CRS sa teraz ukončí, aby dokončil proces šifrovania. Nezabudnite, že šifrovanie peňaženky nemôže úplne ochrániť vaše CRS pred odcudzením škodlivým softvérom, ktorý infikuje váš počítač.</translation>
+        <source>CRSX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your CRSXs from being stolen by malware infecting your computer.</source>
+        <translation>CRSX sa teraz ukončí, aby dokončil proces šifrovania. Nezabudnite, že šifrovanie peňaženky nemôže úplne ochrániť vaše CRSX pred odcudzením škodlivým softvérom, ktorý infikuje váš počítač.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Naozaj chcete zašifrovať svoju peňaženku?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CRS&lt;/b&gt;!</source>
-        <translation>Upozornenie: Ak zašifrujete svoju peňaženku a stratíte svoju prístupovú frázu, &lt;b&gt; PRÍDETE O VŠETKY CRS &lt;/ b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CRSX&lt;/b&gt;!</source>
+        <translation>Upozornenie: Ak zašifrujete svoju peňaženku a stratíte svoju prístupovú frázu, &lt;b&gt; PRÍDETE O VŠETKY CRSX &lt;/ b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -569,16 +569,16 @@
         <translation>Panel nástrojov Záložky</translation>
     </message>
     <message>
-        <source>CRS Core</source>
-        <translation>CRS Core</translation>
+        <source>CRSX Core</source>
+        <translation>CRSX Core</translation>
     </message>
     <message>
-        <source>Send coins to a CRS address</source>
-        <translation>Odoslať mince na adresu CRS</translation>
+        <source>Send coins to a CRSX address</source>
+        <translation>Odoslať mince na adresu CRSX</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and crs: URIs)</source>
-        <translation>Vyžiadať platby (generuje QR kódy a crs: identifikátory URI)</translation>
+        <source>Request payments (generates QR codes and crsx: URIs)</source>
+        <translation>Vyžiadať platby (generuje QR kódy a crsx: identifikátory URI)</translation>
     </message>
     <message>
         <source>&amp;Masternodes</source>
@@ -589,24 +589,24 @@
         <translation>Prezrieť masternody</translation>
     </message>
     <message>
-        <source>&amp;About CRS Core</source>
-        <translation>O CRS Core</translation>
+        <source>&amp;About CRSX Core</source>
+        <translation>O CRSX Core</translation>
     </message>
     <message>
-        <source>Show information about CRS Core</source>
-        <translation>Zobraziť informácie o CRS Core</translation>
+        <source>Show information about CRSX Core</source>
+        <translation>Zobraziť informácie o CRSX Core</translation>
     </message>
     <message>
-        <source>Modify configuration options for CRS</source>
-        <translation>Zmeňte možnosti konfigurácie pre CRS</translation>
+        <source>Modify configuration options for CRSX</source>
+        <translation>Zmeňte možnosti konfigurácie pre CRSX</translation>
     </message>
     <message>
-        <source>Sign messages with your CRS addresses to prove you own them</source>
-        <translation>Podpíšte správy pomocou adresy CRS, aby ste preukázali, že ich vlastníte</translation>
+        <source>Sign messages with your CRSX addresses to prove you own them</source>
+        <translation>Podpíšte správy pomocou adresy CRSX, aby ste preukázali, že ich vlastníte</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified CRS addresses</source>
-        <translation>Overte správy, aby sa zabezpečilo, že boli podpísané zadanými CRS adresami</translation>
+        <source>Verify messages to ensure they were signed with specified CRSX addresses</source>
+        <translation>Overte správy, aby sa zabezpečilo, že boli podpísané zadanými CRSX adresami</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -637,8 +637,8 @@
         <translation>Otvoriť konfiguračný súbor masternodu</translation>
     </message>
     <message>
-        <source>Open a CRS: URI or payment request</source>
-        <translation>Otvorte CRS: URI alebo žiadosť o platbu</translation>
+        <source>Open a CRSX: URI or payment request</source>
+        <translation>Otvorte CRSX: URI alebo žiadosť o platbu</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -649,12 +649,12 @@
         <translation>Okno blockchain prehliadača</translation>
     </message>
     <message>
-        <source>Show the CRS Core help message to get a list with possible CRS command-line options</source>
-        <translation>Zobraziť pomocnú správu programu CRS Core a získajte zoznam možností príkazového riadka CRS</translation>
+        <source>Show the CRSX Core help message to get a list with possible CRSX command-line options</source>
+        <translation>Zobraziť pomocnú správu programu CRSX Core a získajte zoznam možností príkazového riadka CRSX</translation>
     </message>
     <message>
-        <source>CRS Core client</source>
-        <translation>CRS Core klient</translation>
+        <source>CRSX Core client</source>
+        <translation>CRSX Core klient</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -776,8 +776,8 @@ MultiSend: %1</translation>
         <translation>TextLabel</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (crs.conf).</source>
-        <translation>Nie všetky transakcie sa zobrazia. Ak chcete zobraziť všetky transakcie, musíte v konfiguračnom súbore (crs.conf) nastaviť txindex = 1.</translation>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (crsx.conf).</source>
+        <translation>Nie všetky transakcie sa zobrazia. Ak chcete zobraziť všetky transakcie, musíte v konfiguračnom súbore (crsx.conf) nastaviť txindex = 1.</translation>
     </message>
 </context>
 <context>
@@ -867,15 +867,15 @@ MultiSend: %1</translation>
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>CRS Core</source>
-        <translation>CRS Core</translation>
+        <source>CRSX Core</source>
+        <translation>CRSX Core</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>CRS Core</source>
-        <translation>CRS Core</translation>
+        <source>CRSX Core</source>
+        <translation>CRSX Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1114,8 +1114,8 @@ MultiSend: %1</translation>
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The CRS address to sign the message with</source>
-        <translation>Adresa CRS, ktorou chcete správu podpísať</translation>
+        <source>The CRSX address to sign the message with</source>
+        <translation>Adresa CRSX, ktorou chcete správu podpísať</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1138,16 +1138,16 @@ MultiSend: %1</translation>
         <translation>Skopírujte aktuálny podpis do schránky</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this CRS address</source>
-        <translation>Podpíšte správu, aby ste preukázali, že ste vlastníkom tejto CRS adresy</translation>
+        <source>Sign the message to prove you own this CRSX address</source>
+        <translation>Podpíšte správu, aby ste preukázali, že ste vlastníkom tejto CRSX adresy</translation>
     </message>
     <message>
-        <source>The CRS address the message was signed with</source>
-        <translation>CRS adresa, ktorou bola správa podpísaná</translation>
+        <source>The CRSX address the message was signed with</source>
+        <translation>CRSX adresa, ktorou bola správa podpísaná</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified CRS address</source>
-        <translation>Skontrolujte správu, aby ste sa uistili, že bola podpísaná zadanou CRS adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified CRSX address</source>
+        <translation>Skontrolujte správu, aby ste sa uistili, že bola podpísaná zadanou CRSX adresou</translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
@@ -1185,8 +1185,8 @@ MultiSend: %1</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>CRS Core</source>
-        <translation>CRS Core</translation>
+        <source>CRSX Core</source>
+        <translation>CRSX Core</translation>
     </message>
     </context>
 <context>
@@ -1281,7 +1281,7 @@ MultiSend: %1</translation>
     </message>
     </context>
 <context>
-    <name>ZCRSControlDialog</name>
+    <name>ZCRSXControlDialog</name>
     </context>
 <context>
     <name>cronos-core</name>

@@ -3,8 +3,8 @@
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef CRS_MINTPOOL_H
-#define CRS_MINTPOOL_H
+#ifndef CRSX_MINTPOOL_H
+#define CRSX_MINTPOOL_H
 
 #include <map>
 #include <list>
@@ -51,4 +51,4 @@ public:
 };
 
 
-#endif //CRS_MINTPOOL_H
+#endif //CRSX_MINTPOOL_H

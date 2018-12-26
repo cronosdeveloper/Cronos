@@ -144,8 +144,8 @@
         <translation>Czy na pewno chcesz zakodować portfel?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CRS&lt;/b&gt;!</source>
-        <translation>Ostrzeżenie: Jeżeli zakodujesz portfel i stracisz do niego hasło , UTRACISZ WSZYSTKIE CRS!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CRSX&lt;/b&gt;!</source>
+        <translation>Ostrzeżenie: Jeżeli zakodujesz portfel i stracisz do niego hasło , UTRACISZ WSZYSTKIE CRSX!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -509,16 +509,16 @@
         <translation>&amp;Pomoc</translation>
     </message>
     <message>
-        <source>CRS Core</source>
-        <translation>&amp;Rdzeń CRS</translation>
+        <source>CRSX Core</source>
+        <translation>&amp;Rdzeń CRSX</translation>
     </message>
     <message>
-        <source>Send coins to a CRS address</source>
-        <translation>Wyślij monety do adresu CRS</translation>
+        <source>Send coins to a CRSX address</source>
+        <translation>Wyślij monety do adresu CRSX</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and crs: URIs)</source>
-        <translation>Zarządaj płatności (generuje kod QR i crs:URI)</translation>
+        <source>Request payments (generates QR codes and crsx: URIs)</source>
+        <translation>Zarządaj płatności (generuje kod QR i crsx:URI)</translation>
     </message>
     <message>
         <source>&amp;Masternodes</source>
@@ -529,24 +529,24 @@
         <translation>Przeglądaj masternodes</translation>
     </message>
     <message>
-        <source>&amp;About CRS Core</source>
+        <source>&amp;About CRSX Core</source>
         <translation>&amp;O rdzeniu bitcoina</translation>
     </message>
     <message>
-        <source>Show information about CRS Core</source>
+        <source>Show information about CRSX Core</source>
         <translation>Pokaż informacje o rdzeniu bitcoina</translation>
     </message>
     <message>
-        <source>Modify configuration options for CRS</source>
-        <translation>Modyfikuj opcje konfiguracji CRS</translation>
+        <source>Modify configuration options for CRSX</source>
+        <translation>Modyfikuj opcje konfiguracji CRSX</translation>
     </message>
     <message>
-        <source>Sign messages with your CRS addresses to prove you own them</source>
-        <translation>Zatwierdź wiadomość z twoimi adresami CRS, by udowodnić, że jesteś w ich posiadaniu</translation>
+        <source>Sign messages with your CRSX addresses to prove you own them</source>
+        <translation>Zatwierdź wiadomość z twoimi adresami CRSX, by udowodnić, że jesteś w ich posiadaniu</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified CRS addresses</source>
-        <translation>Zweryfikuj wiadomości by upewnić się, że zostały zatwierdzone z podanego adresu CRS</translation>
+        <source>Verify messages to ensure they were signed with specified CRSX addresses</source>
+        <translation>Zweryfikuj wiadomości by upewnić się, że zostały zatwierdzone z podanego adresu CRSX</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -573,8 +573,8 @@
         <translation>Otwórz &amp;Plik konfiguracji Masternode</translation>
     </message>
     <message>
-        <source>Open a CRS: URI or payment request</source>
-        <translation>Otwórz CRS: URI i żądanie zapłaty</translation>
+        <source>Open a CRSX: URI or payment request</source>
+        <translation>Otwórz CRSX: URI i żądanie zapłaty</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -585,12 +585,12 @@
         <translation>Okno eksplorera bloków</translation>
     </message>
     <message>
-        <source>Show the CRS Core help message to get a list with possible CRS command-line options</source>
-        <translation>Pokaż wiadomość pomocy rdzenia CRS, aby dostać listę możliwych opcji CRS command-line</translation>
+        <source>Show the CRSX Core help message to get a list with possible CRSX command-line options</source>
+        <translation>Pokaż wiadomość pomocy rdzenia CRSX, aby dostać listę możliwych opcji CRSX command-line</translation>
     </message>
     <message>
-        <source>CRS Core client</source>
-        <translation>Rdzeń CRS klient</translation>
+        <source>CRSX Core client</source>
+        <translation>Rdzeń CRSX klient</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -899,8 +899,8 @@ MultiWysyłlka: %1</translation>
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>CRS Core</source>
-        <translation>&amp;Rdzeń CRS</translation>
+        <source>CRSX Core</source>
+        <translation>&amp;Rdzeń CRSX</translation>
     </message>
     </context>
 <context>
@@ -914,8 +914,8 @@ MultiWysyłlka: %1</translation>
         <translation>Użyj niestandardowej ścieżki danych</translation>
     </message>
     <message>
-        <source>CRS Core</source>
-        <translation>&amp;Rdzeń CRS</translation>
+        <source>CRSX Core</source>
+        <translation>&amp;Rdzeń CRSX</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1190,12 +1190,12 @@ Proszę sprawdzić adres i spróbować ponownie</translation>
         <translation>Zezwól na przychodzące połączenia</translation>
     </message>
     <message>
-        <source>Automatically start CRS after logging in to the system.</source>
-        <translation>Automatycznie uruchom CRS po zalogowaniu do systemu</translation>
+        <source>Automatically start CRSX after logging in to the system.</source>
+        <translation>Automatycznie uruchom CRSX po zalogowaniu do systemu</translation>
     </message>
     <message>
-        <source>&amp;Start CRS on system login</source>
-        <translation>&amp;Uruchom CRS podczas logowania do systemu</translation>
+        <source>&amp;Start CRSX on system login</source>
+        <translation>&amp;Uruchom CRSX podczas logowania do systemu</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1214,18 +1214,18 @@ Proszę sprawdzić adres i spróbować ponownie</translation>
         <translation>&amp;Sieć</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting CRS.</source>
-        <translation>Język interfejsu użytkownika może być wybrany tutaj. Ustawienia ulegną zmianie po restarcie CRS</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting CRSX.</source>
+        <translation>Język interfejsu użytkownika może być wybrany tutaj. Ustawienia ulegną zmianie po restarcie CRSX</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/crs-project/crs-project-translations</source>
+https://www.transifex.com/crsx-project/crsx-project-translations</source>
         <translation>Brakuje języka bądź nieukończona pełnego tłumaczenia? Pomóż w tłumaczeniu tutaj:
-https://www.transifex.com/crs-project/crs-project-translations </translation>
+https://www.transifex.com/crsx-project/crsx-project-translations </translation>
     </message>
     <message>
-        <source>Connect to the CRS network through a SOCKS5 proxy.</source>
-        <translation>Połącz z siecią CRS poprzez SOCKS5 proxy.</translation>
+        <source>Connect to the CRSX network through a SOCKS5 proxy.</source>
+        <translation>Połącz z siecią CRSX poprzez SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1463,8 +1463,8 @@ https://www.transifex.com/crs-project/crs-project-translations </translation>
         <translation>Liczba</translation>
     </message>
     <message>
-        <source>Enter a CRS address (e.g. %1)</source>
-        <translation>Wprowadź adres CRS (np. %1)</translation>
+        <source>Enter a CRSX address (e.g. %1)</source>
+        <translation>Wprowadź adres CRSX (np. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1894,8 +1894,8 @@ https://www.transifex.com/crs-project/crs-project-translations </translation>
         <translation>Alt+P</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this CRS address</source>
-        <translation>Zatwierdź wiadomość, aby udowodnić, że podany adres CRS jest w twoim posiadaniu</translation>
+        <source>Sign the message to prove you own this CRSX address</source>
+        <translation>Zatwierdź wiadomość, aby udowodnić, że podany adres CRSX jest w twoim posiadaniu</translation>
     </message>
     <message>
         <source>Clear &amp;All</source>
@@ -1929,8 +1929,8 @@ https://www.transifex.com/crs-project/crs-project-translations </translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>CRS Core</source>
-        <translation>&amp;Rdzeń CRS</translation>
+        <source>CRSX Core</source>
+        <translation>&amp;Rdzeń CRSX</translation>
     </message>
     </context>
 <context>
@@ -2021,7 +2021,7 @@ https://www.transifex.com/crs-project/crs-project-translations </translation>
     </message>
     </context>
 <context>
-    <name>ZCRSControlDialog</name>
+    <name>ZCRSXControlDialog</name>
     <message>
         <source>0</source>
         <translation>0</translation>

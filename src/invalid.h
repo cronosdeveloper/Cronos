@@ -2,10 +2,10 @@
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef CRS_INVALID_H
-#define CRS_INVALID_H
+#ifndef CRSX_INVALID_H
+#define CRSX_INVALID_H
 
-#endif //CRS_INVALID_H
+#endif //CRSX_INVALID_H
 
 #include <libzerocoin/bignum.h>
 #include <univalue/include/univalue.h>

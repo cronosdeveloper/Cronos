@@ -3,8 +3,8 @@
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef CRS_ACCUMULATORCHECKPOINTS_H
-#define CRS_ACCUMULATORCHECKPOINTS_H
+#ifndef CRSX_ACCUMULATORCHECKPOINTS_H
+#define CRSX_ACCUMULATORCHECKPOINTS_H
 
 #include <libzerocoin/bignum.h>
 #include <univalue/include/univalue.h>
@@ -19,4 +19,4 @@ namespace AccumulatorCheckpoints
     Checkpoint GetClosestCheckpoint(const int& nHeight, int& nHeightCheckpoint);
 }
 
-#endif //CRS_ACCUMULATORCHECKPOINTS_H
+#endif //CRSX_ACCUMULATORCHECKPOINTS_H

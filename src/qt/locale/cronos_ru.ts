@@ -62,12 +62,12 @@
         <translation>Адреса получения</translation>
     </message>
     <message>
-        <source>These are your CRS addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Это ваши CRS-адреса для отправки платежей. Перед отправкой монет всегда проверяйте сумму и адрес получателя.</translation>
+        <source>These are your CRSX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Это ваши CRSX-адреса для отправки платежей. Перед отправкой монет всегда проверяйте сумму и адрес получателя.</translation>
     </message>
     <message>
-        <source>These are your CRS addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Это ваши CRS-адреса для получения платежей. Для каждой транзакции рекомендуется использовать новый адрес получения.</translation>
+        <source>These are your CRSX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Это ваши CRSX-адреса для получения платежей. Для каждой транзакции рекомендуется использовать новый адрес получения.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,16 +176,16 @@
         <translation>Подтверждение шифрования кошелька</translation>
     </message>
     <message>
-        <source>CRS will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your CRSs from being stolen by malware infecting your computer.</source>
-        <translation>CRS сейчас закроется, чтобы завершить процесс шифрования. Помните, что шифрование вашего кошелька не может полностью защитить ваши CRS от кражи с использованием вредоносного ПО.</translation>
+        <source>CRSX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your CRSXs from being stolen by malware infecting your computer.</source>
+        <translation>CRSX сейчас закроется, чтобы завершить процесс шифрования. Помните, что шифрование вашего кошелька не может полностью защитить ваши CRSX от кражи с использованием вредоносного ПО.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Вы действительно хотите зашифровать свой кошелек?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CRS&lt;/b&gt;!</source>
-        <translation>Внимание: если вы зашифруете свой кошелёк и потеряете от него пароль, то вы &lt;b&gt;ПОТЕРЯЕТЕ ВСЕ СВОИ CRS&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CRSX&lt;/b&gt;!</source>
+        <translation>Внимание: если вы зашифруете свой кошелёк и потеряете от него пароль, то вы &lt;b&gt;ПОТЕРЯЕТЕ ВСЕ СВОИ CRSX&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -254,12 +254,12 @@
         <translation>Адрес:</translation>
     </message>
     <message>
-        <source>Enter a CRS Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Введите CRS адрес, которым вы хотите зашифровать, используя BIP 38. Введите пароль в среднем поле. Нажмите "Зашифровать", чтобы создать зашиврованный секретный ключ.</translation>
+        <source>Enter a CRSX Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Введите CRSX адрес, которым вы хотите зашифровать, используя BIP 38. Введите пароль в среднем поле. Нажмите "Зашифровать", чтобы создать зашиврованный секретный ключ.</translation>
     </message>
     <message>
-        <source>The CRS address to encrypt</source>
-        <translation>Адрес CRS для зашифровки</translation>
+        <source>The CRSX address to encrypt</source>
+        <translation>Адрес CRSX для зашифровки</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -290,8 +290,8 @@
         <translation>Копировать текущую подпись в системный буфер обмена</translation>
     </message>
     <message>
-        <source>Encrypt the private key for this CRS address</source>
-        <translation>Зашифровать личные ключи для этого CRS адреса </translation>
+        <source>Encrypt the private key for this CRSX address</source>
+        <translation>Зашифровать личные ключи для этого CRSX адреса </translation>
     </message>
     <message>
         <source>Reset all fields</source>
@@ -433,7 +433,7 @@
         <translation>Просмотр истории транзакций</translation>
     </message>
     <message>
-        <source>Privacy Actions for zCRS</source>
+        <source>Privacy Actions for zCRSX</source>
         <translation>Действия конфиденциальности для зпив</translation>
     </message>
     <message>
@@ -645,16 +645,16 @@
         <translation>Панель вкладок</translation>
     </message>
     <message>
-        <source>CRS Core</source>
-        <translation>CRS Core</translation>
+        <source>CRSX Core</source>
+        <translation>CRSX Core</translation>
     </message>
     <message>
-        <source>Send coins to a CRS address</source>
-        <translation>Отправить монеты на CRS адрес</translation>
+        <source>Send coins to a CRSX address</source>
+        <translation>Отправить монеты на CRSX адрес</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and crs: URIs)</source>
-        <translation>Запросить платежи (генерирует QR-код и CRS: URI)</translation>
+        <source>Request payments (generates QR codes and crsx: URIs)</source>
+        <translation>Запросить платежи (генерирует QR-код и CRSX: URI)</translation>
     </message>
     <message>
         <source>&amp;Privacy</source>
@@ -669,24 +669,24 @@
         <translation>Обзор мастернод</translation>
     </message>
     <message>
-        <source>&amp;About CRS Core</source>
-        <translation>&amp;О CRS Core</translation>
+        <source>&amp;About CRSX Core</source>
+        <translation>&amp;О CRSX Core</translation>
     </message>
     <message>
-        <source>Show information about CRS Core</source>
-        <translation>Показать информацию о CRS Core</translation>
+        <source>Show information about CRSX Core</source>
+        <translation>Показать информацию о CRSX Core</translation>
     </message>
     <message>
-        <source>Modify configuration options for CRS</source>
-        <translation>Изменение параметров конфигурации CRS</translation>
+        <source>Modify configuration options for CRSX</source>
+        <translation>Изменение параметров конфигурации CRSX</translation>
     </message>
     <message>
-        <source>Sign messages with your CRS addresses to prove you own them</source>
-        <translation>Подписывайте сообщения вашими CRS адресами, чтобы доказать, что вы их владелец</translation>
+        <source>Sign messages with your CRSX addresses to prove you own them</source>
+        <translation>Подписывайте сообщения вашими CRSX адресами, чтобы доказать, что вы их владелец</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified CRS addresses</source>
-        <translation>Проверте сообщения, чтобы убедиться, что они были подписаны указанным CRS адресом </translation>
+        <source>Verify messages to ensure they were signed with specified CRSX addresses</source>
+        <translation>Проверте сообщения, чтобы убедиться, что они были подписаны указанным CRSX адресом </translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -717,8 +717,8 @@
         <translation>Открыть файл настроек мастернод</translation>
     </message>
     <message>
-        <source>Open a CRS: URI or payment request</source>
-        <translation>Открыть CRS: URI или запрос платежа</translation>
+        <source>Open a CRSX: URI or payment request</source>
+        <translation>Открыть CRSX: URI или запрос платежа</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -729,16 +729,16 @@
         <translation>Окно обзора блока</translation>
     </message>
     <message>
-        <source>Show the CRS Core help message to get a list with possible CRS command-line options</source>
-        <translation>Смотрите помощь к программе, чтобы получить документацию ко всем возможным опциям комманды CRS</translation>
+        <source>Show the CRSX Core help message to get a list with possible CRSX command-line options</source>
+        <translation>Смотрите помощь к программе, чтобы получить документацию ко всем возможным опциям комманды CRSX</translation>
     </message>
     <message>
-        <source>CRS Core client</source>
-        <translation>Клиент CRS Core</translation>
+        <source>CRSX Core client</source>
+        <translation>Клиент CRSX Core</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to CRS network</source>
-        <translation><numerusform>%n активных подключений к сети CRS</numerusform><numerusform>%n активных подключений к сети CRS</numerusform><numerusform>%n активных подключений к сети CRS</numerusform><numerusform>%n активных подключений к сети CRS</numerusform></translation>
+        <source>%n active connection(s) to CRSX network</source>
+        <translation><numerusform>%n активных подключений к сети CRSX</numerusform><numerusform>%n активных подключений к сети CRSX</numerusform><numerusform>%n активных подключений к сети CRSX</numerusform><numerusform>%n активных подключений к сети CRSX</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -892,8 +892,8 @@ MultiSend: %1</translation>
         <translation>Текстовая метка</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (crs.conf).</source>
-        <translation>Будут показаны не все транзакции. Для отображения всех транзакций необходимо выставить txindex=1 в конфигурационном файле (crs.conf).</translation>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (crsx.conf).</source>
+        <translation>Будут показаны не все транзакции. Для отображения всех транзакций необходимо выставить txindex=1 в конфигурационном файле (crsx.conf).</translation>
     </message>
 </context>
 <context>
@@ -1130,8 +1130,8 @@ MultiSend: %1</translation>
         <translation>Этот маркер становится красным если получаемая адресатом сумма меньше, чем %1</translation>
     </message>
     <message>
-        <source>Can vary +/- %1 ucrs per input.</source>
-        <translation>Может вариироваться +/- %1 ucrs при вводе</translation>
+        <source>Can vary +/- %1 ucrsx per input.</source>
+        <translation>Может вариироваться +/- %1 ucrsx при вводе</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1185,8 +1185,8 @@ MultiSend: %1</translation>
         <translation>Изменить адрес отправки</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid CRS address.</source>
-        <translation>Введенный адрес "%1" не является CRS адресом.</translation>
+        <source>The entered address "%1" is not a valid CRSX address.</source>
+        <translation>Введенный адрес "%1" не является CRSX адресом.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1231,16 +1231,16 @@ MultiSend: %1</translation>
         <translation>версия</translation>
     </message>
     <message>
-        <source>CRS Core</source>
-        <translation>CRS Core</translation>
+        <source>CRSX Core</source>
+        <translation>CRSX Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-бит)</translation>
     </message>
     <message>
-        <source>About CRS Core</source>
-        <translation>О CRS Core</translation>
+        <source>About CRSX Core</source>
+        <translation>О CRSX Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1286,16 +1286,16 @@ MultiSend: %1</translation>
         <translation>Добро пожаловать</translation>
     </message>
     <message>
-        <source>Welcome to CRS Core.</source>
-        <translation>Добро пожаловать в CRS Core.</translation>
+        <source>Welcome to CRSX Core.</source>
+        <translation>Добро пожаловать в CRSX Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where CRS Core will store its data.</source>
-        <translation>Поскольку это первый запуск программы, вы можете выбрать, где будут храниться данные CRS Core.</translation>
+        <source>As this is the first time the program is launched, you can choose where CRSX Core will store its data.</source>
+        <translation>Поскольку это первый запуск программы, вы можете выбрать, где будут храниться данные CRSX Core.</translation>
     </message>
     <message>
-        <source>CRS Core will download and store a copy of the CRS block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>CRS Core загрузит и сохранит копию цепочки блоков CRS. Каталог будет занимать около %1GB и со временем размер будет увеличиваться. Кроме того, в этом каталоге будет храниться кошелек.</translation>
+        <source>CRSX Core will download and store a copy of the CRSX block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>CRSX Core загрузит и сохранит копию цепочки блоков CRSX. Каталог будет занимать около %1GB и со временем размер будет увеличиваться. Кроме того, в этом каталоге будет храниться кошелек.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1306,8 +1306,8 @@ MultiSend: %1</translation>
         <translation>Использовать другой каталог данных:</translation>
     </message>
     <message>
-        <source>CRS Core</source>
-        <translation>CRS Core</translation>
+        <source>CRSX Core</source>
+        <translation>CRSX Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1448,12 +1448,12 @@ MultiSend: %1</translation>
         <translation>Введите адрес для отправки</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other CRS addresses after it matures.
-To Add: enter percentage to give and CRS address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other CRSX addresses after it matures.
+To Add: enter percentage to give and CRSX address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>MultiSend позволяет вам автоматически отправлять до 100% вознаграждения за мастерноды и хранение, после их созревания, на другие CRS адреса.
-Для добавления: введите передаваемый процент и CRS адрес для добавления к вектору MultiSend.
+        <translation>MultiSend позволяет вам автоматически отправлять до 100% вознаграждения за мастерноды и хранение, после их созревания, на другие CRSX адреса.
+Для добавления: введите передаваемый процент и CRSX адрес для добавления к вектору MultiSend.
 Для удаления: введите удаляемый адрес и нажмите удалить.
 MultiSend будет неактивен до тех пор, пока вы не нажмете Включить</translation>
     </message>
@@ -1681,8 +1681,8 @@ Please be patient after clicking import.</source>
         <translation>Адрес/ Сумма:</translation>
     </message>
     <message>
-        <source>Add destinations to send CRS to</source>
-        <translation>Добавить назначение куда отправить CRS</translation>
+        <source>Add destinations to send CRSX to</source>
+        <translation>Добавить назначение куда отправить CRSX</translation>
     </message>
     <message>
         <source>Add &amp;Destination</source>
@@ -1780,48 +1780,48 @@ Please be patient after clicking import.</source>
         <translation>Выберите уровень конфиденциальности.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 CRS</source>
-        <translation>Используйте 2 разные мастерноды для смешивания средств до 10000 CRS</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 CRSX</source>
+        <translation>Используйте 2 разные мастерноды для смешивания средств до 10000 CRSX</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 CRS</source>
-        <translation>Используйте 8 разных мастернод для смешивания средств до 10000 CRS</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 CRSX</source>
+        <translation>Используйте 8 разных мастернод для смешивания средств до 10000 CRSX</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Используйте 16 разных мастернод</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 CRS to anonymize 10000 CRS</source>
-        <translation>Этот вариант является самым быстрым и будет стоить порядка ~0.025 CRS для анонимизации 10000 CRS</translation>
+        <source>This option is the quickest and will cost about ~0.025 CRSX to anonymize 10000 CRSX</source>
+        <translation>Этот вариант является самым быстрым и будет стоить порядка ~0.025 CRSX для анонимизации 10000 CRSX</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 CRS to anonymize 10000 CRS</source>
-        <translation>Это средний по скорости вариант и он будет стоить около 0.05 CRS для анонимизации 10000 CRS</translation>
+        <source>This option is moderately fast and will cost about 0.05 CRSX to anonymize 10000 CRSX</source>
+        <translation>Это средний по скорости вариант и он будет стоить около 0.05 CRSX для анонимизации 10000 CRSX</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Это самый медленный и безопасный вариант. Максимальная анонимность стоит</translation>
     </message>
     <message>
-        <source>0.1 CRS per 10000 CRS you anonymize.</source>
-        <translation>0.1 CRS за 10000 CRS которые вы собираетесь анонимизировать.</translation>
+        <source>0.1 CRSX per 10000 CRSX you anonymize.</source>
+        <translation>0.1 CRSX за 10000 CRSX которые вы собираетесь анонимизировать.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
         <translation>Настройка Перемешивания</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening CRS's configuration screen.</source>
-        <translation>Перемешивание было успешно выставлено на стандартные значения (%1 и 2 цикла). Вы в любой момент можете это изменить, открыв окно настройки CRS.</translation>
+        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening CRSX's configuration screen.</source>
+        <translation>Перемешивание было успешно выставлено на стандартные значения (%1 и 2 цикла). Вы в любой момент можете это изменить, открыв окно настройки CRSX.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening CRS's configuration screen.</source>
-        <translation>Перемешивание было успешно выбрано как высокое (%1 и 8 циклов). Вы в любой момент можете это изменить, открыв окно настройки CRS.</translation>
+        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening CRSX's configuration screen.</source>
+        <translation>Перемешивание было успешно выбрано как высокое (%1 и 8 циклов). Вы в любой момент можете это изменить, открыв окно настройки CRSX.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening CRS's configuration screen.</source>
-        <translation>Перемешивание было успешно выставлено на максимальное (%1 и 16 циклов). Вы в любой момент можете это изменить, открыв окно настройки CRS.</translation>
+        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening CRSX's configuration screen.</source>
+        <translation>Перемешивание было успешно выставлено на максимальное (%1 и 16 циклов). Вы в любой момент можете это изменить, открыв окно настройки CRSX.</translation>
     </message>
 </context>
 <context>
@@ -1882,8 +1882,8 @@ Please be patient after clicking import.</source>
         <translation>Отключив проведение неподтвержденных изменений все изменения о транзакции &lt;br/&gt;не будут использованы пока транзакция не получит хотя бы одно подтверждение.&lt;br/&gt;Также это влияет на расчет вашего баланса.</translation>
     </message>
     <message>
-        <source>Automatically open the CRS client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Автоматически открыть клиентский порт CRS через роутер. Ваш роутер должен поддерживать UPnP, а сам сервис должен быть включен.</translation>
+        <source>Automatically open the CRSX client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Автоматически открыть клиентский порт CRSX через роутер. Ваш роутер должен поддерживать UPnP, а сам сервис должен быть включен.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1902,12 +1902,12 @@ Please be patient after clicking import.</source>
         <translation>Эксперт</translation>
     </message>
     <message>
-        <source>Automatically start CRS after logging in to the system.</source>
-        <translation>Автоматически запускать CRS после входа в систему.</translation>
+        <source>Automatically start CRSX after logging in to the system.</source>
+        <translation>Автоматически запускать CRSX после входа в систему.</translation>
     </message>
     <message>
-        <source>&amp;Start CRS on system login</source>
-        <translation>&amp;Запускать CRS при входе в систему</translation>
+        <source>&amp;Start CRSX on system login</source>
+        <translation>&amp;Запускать CRSX при входе в систему</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1934,50 +1934,50 @@ Please be patient after clicking import.</source>
         <translation>&amp;Сеть</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting CRS.</source>
-        <translation>Здесь можно выставить язык интерфейса. Изменения вступят в силу после перезапуска CRS.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting CRSX.</source>
+        <translation>Здесь можно выставить язык интерфейса. Изменения вступят в силу после перезапуска CRSX.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/crs-project/crs-project-translations</source>
+https://www.transifex.com/crsx-project/crsx-project-translations</source>
         <translation>Отсутствует ваш язык или заметили незавершенный перевод? Вы можете помочь нам стать лучше:
-https://www.transifex.com/crs-project/crs-project-translations</translation>
+https://www.transifex.com/crsx-project/crsx-project-translations</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>Карта порта, использующего &amp;UPnP</translation>
     </message>
     <message>
-        <source>Enable automatic minting of CRS units to zCRS</source>
-        <translation>Невозможно автоматически отчеканить единицы CRS для zCRS</translation>
+        <source>Enable automatic minting of CRSX units to zCRSX</source>
+        <translation>Невозможно автоматически отчеканить единицы CRSX для zCRSX</translation>
     </message>
     <message>
-        <source>Enable zCRS Automint</source>
-        <translation>Невозможно авточеканка  zCRS</translation>
+        <source>Enable zCRSX Automint</source>
+        <translation>Невозможно авточеканка  zCRSX</translation>
     </message>
     <message>
-        <source>Percentage of incoming CRS which get automatically converted to zCRS via Zerocoin Protocol (min: 10%)</source>
-        <translation>Процент приходящих CRS, которые автоматически конвертируются в zCRS благодаря Zerocoin протоколу (min: 10%)</translation>
+        <source>Percentage of incoming CRSX which get automatically converted to zCRSX via Zerocoin Protocol (min: 10%)</source>
+        <translation>Процент приходящих CRSX, которые автоматически конвертируются в zCRSX благодаря Zerocoin протоколу (min: 10%)</translation>
     </message>
     <message>
-        <source>Percentage of autominted zCRS</source>
-        <translation>Процент  авточеканненых zCRS</translation>
+        <source>Percentage of autominted zCRSX</source>
+        <translation>Процент  авточеканненых zCRSX</translation>
     </message>
     <message>
-        <source>Wait with automatic conversion to Zerocoin until enough CRS for this denomination is available</source>
-        <translation>Подождите с автоматическим преобразованием в Zerocoin, пока не будет достаточно CRS для этой номинации.</translation>
+        <source>Wait with automatic conversion to Zerocoin until enough CRSX for this denomination is available</source>
+        <translation>Подождите с автоматическим преобразованием в Zerocoin, пока не будет достаточно CRSX для этой номинации.</translation>
     </message>
     <message>
-        <source>Preferred Automint zCRS Denomination</source>
-        <translation>Предпочитаемый номинал авточеканной  монеты  zCRS</translation>
+        <source>Preferred Automint zCRSX Denomination</source>
+        <translation>Предпочитаемый номинал авточеканной  монеты  zCRSX</translation>
     </message>
     <message>
         <source>Stake split threshold:</source>
         <translation>Порог разделения доли:</translation>
     </message>
     <message>
-        <source>Connect to the CRS network through a SOCKS5 proxy.</source>
-        <translation>Подключиться к сети CRS через SOCKS5 прокси.</translation>
+        <source>Connect to the CRSX network through a SOCKS5 proxy.</source>
+        <translation>Подключиться к сети CRSX через SOCKS5 прокси.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -2131,8 +2131,8 @@ https://www.transifex.com/crs-project/crs-project-translations</translation>
         <translation>Общий баланс включая все не доступные монеты</translation>
     </message>
     <message>
-        <source>CRS Balance</source>
-        <translation>Баланс CRS</translation>
+        <source>CRSX Balance</source>
+        <translation>Баланс CRSX</translation>
     </message>
     <message>
         <source>Pending:</source>
@@ -2155,17 +2155,17 @@ https://www.transifex.com/crs-project/crs-project-translations</translation>
         <translation>Текущий заблокированый баланс всех наблюдаемых адресов</translation>
     </message>
     <message>
-        <source>Your current CRS balance, unconfirmed and immature transactions included</source>
-        <translation>Ваш текущий CRS  баланс, включая неподтвержденные и незрелые транзакции</translation>
+        <source>Your current CRSX balance, unconfirmed and immature transactions included</source>
+        <translation>Ваш текущий CRSX  баланс, включая неподтвержденные и незрелые транзакции</translation>
     </message>
     <message>
-        <source>zCRS Balance</source>
-        <translation>Баланс zCRS</translation>
+        <source>zCRSX Balance</source>
+        <translation>Баланс zCRSX</translation>
     </message>
     <message>
         <source>Mature: more than 20 confirmation and more than 1 mint of the same denomination after it was minted.
-These zCRS are spendable.</source>
-        <translation>Зрелые: более 20 подтверждений и более 1 чеканки одного и того же наименования после того, как оно было отчеканено. Эти zCRS можно потратить.</translation>
+These zCRSX are spendable.</source>
+        <translation>Зрелые: более 20 подтверждений и более 1 чеканки одного и того же наименования после того, как оно было отчеканено. Эти zCRSX можно потратить.</translation>
     </message>
     <message>
         <source>Unconfirmed: less than 20 confirmations
@@ -2174,8 +2174,8 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 Незрелый: подтвержден, но менее 1 чеканок того же наименования после того, как он был отчеканен</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRS network after a connection is established, but this process has not completed yet.</source>
-        <translation>Возможно отображаемая информация устарела. Ваш кошелек автоматически синхронизируется с сетью CRS после установки соединения, но этот процесс еще не завершен. </translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRSX network after a connection is established, but this process has not completed yet.</source>
+        <translation>Возможно отображаемая информация устарела. Ваш кошелек автоматически синхронизируется с сетью CRSX после установки соединения, но этот процесс еще не завершен. </translation>
     </message>
     <message>
         <source>OVERVIEW</source>
@@ -2218,8 +2218,8 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
         <translation>Расходуемый:</translation>
     </message>
     <message>
-        <source>Locked CRS or Masternode collaterals. These are excluded from zCRS minting.</source>
-        <translation>Заблокированно дополнительное обеспечение CRS или Masternode. Они исключены из чеканки zCRS.</translation>
+        <source>Locked CRSX or Masternode collaterals. These are excluded from zCRSX minting.</source>
+        <translation>Заблокированно дополнительное обеспечение CRSX или Masternode. Они исключены из чеканки zCRSX.</translation>
     </message>
     <message>
         <source>Locked:</source>
@@ -2230,8 +2230,8 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
         <translation>Неподтвержденный:</translation>
     </message>
     <message>
-        <source>Your current zCRS balance, unconfirmed and immature zCRS included.</source>
-        <translation>Ваш текущий zCRS баланс, включая неподтвержденные и незрелые транзакции</translation>
+        <source>Your current zCRSX balance, unconfirmed and immature zCRSX included.</source>
+        <translation>Ваш текущий zCRSX баланс, включая неподтвержденные и незрелые транзакции</translation>
     </message>
     <message>
         <source>Recent transactions</source>
@@ -2242,10 +2242,10 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
         <translation>несинронизировано</translation>
     </message>
     <message>
-        <source>Current percentage of zCRS.
+        <source>Current percentage of zCRSX.
 If AutoMint is enabled this percentage will settle around the configured AutoMint percentage (default = 10%).
 </source>
-        <translation>Текущий процент от zCRS.
+        <translation>Текущий процент от zCRSX.
 Если АвтоЧеканка включена, этот процент будет располагаться на настроенном проценте АвтоЧеканка  (по умолчанию = 10%).
 </translation>
     </message>
@@ -2254,14 +2254,14 @@ If AutoMint is enabled this percentage will settle around the configured AutoMin
         <translation>Авточеканка в данный момен включена и установлена в</translation>
     </message>
     <message>
-        <source>To disable AutoMint add 'enablezeromint=0' in crs.conf.</source>
-        <translation>To disable AutoMint add 'enablezeromint=0' in crs.conf.</translation>
+        <source>To disable AutoMint add 'enablezeromint=0' in crsx.conf.</source>
+        <translation>To disable AutoMint add 'enablezeromint=0' in crsx.conf.</translation>
     </message>
     <message>
         <source>AutoMint is currently disabled.
-To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in crs.conf</source>
+To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in crsx.conf</source>
         <translation>Авточеканка  в настоящее время отключена.
-Чтобы включить Авточеканку, измените 'enablezeromint = 0' на 'enablezeromint = 1' в файле crs.conf</translation>
+Чтобы включить Авточеканку, измените 'enablezeromint = 0' на 'enablezeromint = 1' в файле crsx.conf</translation>
     </message>
 </context>
 <context>
@@ -2287,12 +2287,12 @@ To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in crs.conf</
         <translation>Неверный адрес оплаты %1</translation>
     </message>
     <message>
-        <source>Cannot start crs: click-to-pay handler</source>
-        <translation>Не удалось запустить crs: обработчик click-to-pay </translation>
+        <source>Cannot start crsx: click-to-pay handler</source>
+        <translation>Не удалось запустить crsx: обработчик click-to-pay </translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid CRS address or malformed URI parameters.</source>
-        <translation>URI не интерпретируется! Причиной этому может быть неверный CRS адрес или неверные параметеры URI.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid CRSX address or malformed URI parameters.</source>
+        <translation>URI не интерпретируется! Причиной этому может быть неверный CRSX адрес или неверные параметеры URI.</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -2377,8 +2377,8 @@ To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in crs.conf</
         <translation>Действия Zerocoin </translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRS network after a connection is established, but this process has not completed yet.</source>
-        <translation>Возможно отображаемая информация устарела. Ваш кошелек автоматически синхронизируется с сетью CRS после установки соединения, но этот процесс еще не завершен. </translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CRSX network after a connection is established, but this process has not completed yet.</source>
+        <translation>Возможно отображаемая информация устарела. Ваш кошелек автоматически синхронизируется с сетью CRSX после установки соединения, но этот процесс еще не завершен. </translation>
     </message>
     <message>
         <source>Mint Zerocoin</source>
@@ -2389,8 +2389,8 @@ To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in crs.conf</
         <translation>0</translation>
     </message>
     <message>
-        <source>zCRS</source>
-        <translation>zCRS</translation>
+        <source>zCRSX</source>
+        <translation>zCRSX</translation>
     </message>
     <message>
         <source>Available for minting are coins which are confirmed and not locked or Masternode collaterals.</source>
@@ -2401,8 +2401,8 @@ To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in crs.conf</
         <translation>Доступный для чеканки</translation>
     </message>
     <message>
-        <source>0.000 000 00 CRS</source>
-        <translation>0.000 000 00 CRS</translation>
+        <source>0.000 000 00 CRSX</source>
+        <translation>0.000 000 00 CRSX</translation>
     </message>
     <message>
         <source>Reset Zerocoin Wallet DB. Deletes transactions that did not make it into the blockchain.</source>
@@ -2441,16 +2441,16 @@ To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in crs.conf</
         <translation>КОНФИДЕНЦИАЛЬНОСТЬ</translation>
     </message>
     <message>
-        <source>Enter an amount of CRS to convert to zCRS</source>
-        <translation>Введите сумму в CRS для  конвертации в zCRS</translation>
+        <source>Enter an amount of CRSX to convert to zCRSX</source>
+        <translation>Введите сумму в CRSX для  конвертации в zCRSX</translation>
     </message>
     <message>
-        <source>zCRS Control</source>
-        <translation>Контроль zCRS</translation>
+        <source>zCRSX Control</source>
+        <translation>Контроль zCRSX</translation>
     </message>
     <message>
-        <source>zCRS Selected:</source>
-        <translation>Выбрано zCRS:</translation>
+        <source>zCRSX Selected:</source>
+        <translation>Выбрано zCRSX:</translation>
     </message>
     <message>
         <source>Quantity Selected:</source>
@@ -2465,24 +2465,24 @@ To enable AutoMint change 'enablezeromint=0' to 'enablezeromint=1' in crs.conf</
         <translation>Потратить Zerocoin</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zCRS for spending</source>
-        <translation>Доступный (зрелый и расходуемый) zCRS для расходов</translation>
+        <source>Available (mature and spendable) zCRSX for spending</source>
+        <translation>Доступный (зрелый и расходуемый) zCRSX для расходов</translation>
     </message>
     <message>
         <source>Available Balance:</source>
         <translation>Доступный Баланс :</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zCRS for spending
+        <source>Available (mature and spendable) zCRSX for spending
 
-zCRS are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
-        <translation>Доступный (зрелый и затратный) zCRS для расходов
+zCRSX are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
+        <translation>Доступный (зрелый и затратный) zCRSX для расходов
 
-zCRS are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</translation>
+zCRSX are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</translation>
     </message>
     <message>
-        <source>0 zCRS</source>
-        <translation>0 zCRS</translation>
+        <source>0 zCRSX</source>
+        <translation>0 zCRSX</translation>
     </message>
     <message>
         <source>Security Level for Zerocoin Transactions. More is better, but needs more time and resources.</source>
@@ -2501,8 +2501,8 @@ zCRS are mature when they have more than 20 confirmations AND more than 2 mints 
         <translation>Оплатить &amp;кому:</translation>
     </message>
     <message>
-        <source>The CRS address to send the payment to. Creates local payment to yourself when empty.</source>
-        <translation>Адрес CRS для отправки платежа. Создает локальный платеж себе, когда он пуст.</translation>
+        <source>The CRSX address to send the payment to. Creates local payment to yourself when empty.</source>
+        <translation>Адрес CRSX для отправки платежа. Создает локальный платеж себе, когда он пуст.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2553,8 +2553,8 @@ zCRS are mature when they have more than 20 confirmations AND more than 2 mints 
         <translation>Zerocoin Stats:</translation>
     </message>
     <message>
-        <source>Total Balance including unconfirmed and immature zCRS</source>
-        <translation>Общий баланс, включая неподтвержденные и незрелые zCRS</translation>
+        <source>Total Balance including unconfirmed and immature zCRSX</source>
+        <translation>Общий баланс, включая неподтвержденные и незрелые zCRSX</translation>
     </message>
     <message>
         <source>Total Zerocoin  Balance:</source>
@@ -2575,24 +2575,24 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 Незрелый: подтвержден, но менее 1 чеканок того же наименования после того, как он был отчеканен</translation>
     </message>
     <message>
-        <source>Show the current status of automatic zCRS minting.
+        <source>Show the current status of automatic zCRSX minting.
 
 To change the status (restart required):
-- enable: add 'enablezeromint=1' to crs.conf
-- disable: add 'enablezeromint=0' to crs.conf
+- enable: add 'enablezeromint=1' to crsx.conf
+- disable: add 'enablezeromint=0' to crsx.conf
 
 To change the percentage (no restart required):
-- menu Settings-&gt;Options-&gt;Percentage of autominted zCRS
+- menu Settings-&gt;Options-&gt;Percentage of autominted zCRSX
 
 </source>
-        <translation>Показать текущий статус автоматической чеканки zCRS.
+        <translation>Показать текущий статус автоматической чеканки zCRSX.
 
 Чтобы изменить статус (требуется перезагрузка):
-- включить: добавить 'enablezeromint = 1' в crs.conf
-- отключить: добавить 'enablezeromint = 0' в crs.conf
+- включить: добавить 'enablezeromint = 1' в crsx.conf
+- отключить: добавить 'enablezeromint = 0' в crsx.conf
 
 Чтобы изменить процент (не требуется перезагрузка):
-- меню Настройки-&gt; Параметры-&gt; Процент авторизованного zCRS</translation>
+- меню Настройки-&gt; Параметры-&gt; Процент авторизованного zCRSX</translation>
     </message>
     <message>
         <source>AutoMint Status</source>
@@ -2787,12 +2787,12 @@ Maximum allowed: </source>
 Максимально допустимое:</translation>
     </message>
     <message>
-        <source>zCRS Spend #: </source>
-        <translation>zCRS Тратить #: </translation>
+        <source>zCRSX Spend #: </source>
+        <translation>zCRSX Тратить #: </translation>
     </message>
     <message>
-        <source>zCRS Mint</source>
-        <translation>чеканка zCRS</translation>
+        <source>zCRSX Mint</source>
+        <translation>чеканка zCRSX</translation>
     </message>
     <message>
         <source> &lt;b&gt;enabled&lt;/b&gt;.</source>
@@ -2807,12 +2807,12 @@ Maximum allowed: </source>
         <translation> Настроенный целевой процент: &lt;b&gt;</translation>
     </message>
     <message>
-        <source>zCRS is currently disabled due to maintenance.</source>
-        <translation>zCRS в настоящее время отключен от обслуживания.</translation>
+        <source>zCRSX is currently disabled due to maintenance.</source>
+        <translation>zCRSX в настоящее время отключен от обслуживания.</translation>
     </message>
     <message>
-        <source>zCRS is currently undergoing maintenance.</source>
-        <translation>В настоящее время zCRS проходит техническое обслуживание.</translation>
+        <source>zCRSX is currently undergoing maintenance.</source>
+        <translation>В настоящее время zCRSX проходит техническое обслуживание.</translation>
     </message>
     <message>
         <source>Denom. with value &lt;b&gt;1&lt;/b&gt;:</source>
@@ -2899,8 +2899,8 @@ Maximum allowed: </source>
         <translation>Создан успешно</translation>
     </message>
     <message>
-        <source> zCRS in </source>
-        <translation> zCRS в</translation>
+        <source> zCRSX in </source>
+        <translation> zCRSX в</translation>
     </message>
     <message>
         <source> sec. Used denominations:
@@ -2927,8 +2927,8 @@ Maximum allowed: </source>
         <translation>Не предоставляется адрес «Pay To», создающий местный платеж</translation>
     </message>
     <message>
-        <source>Invalid CRS Address</source>
-        <translation>неправильный CRS адрес</translation>
+        <source>Invalid CRSX Address</source>
+        <translation>неправильный CRSX адрес</translation>
     </message>
     <message>
         <source>Invalid Send Amount</source>
@@ -2959,12 +2959,12 @@ Maximum allowed: </source>
         <translation>Подтвердить отправку монет</translation>
     </message>
     <message>
-        <source>Version 1 zCRS require a security level of 100 to successfully spend.</source>
-        <translation>Для версии 1 zCRS требуется уровень безопасности 100, который можно успешно тратить.</translation>
+        <source>Version 1 zCRSX require a security level of 100 to successfully spend.</source>
+        <translation>Для версии 1 zCRSX требуется уровень безопасности 100, который можно успешно тратить.</translation>
     </message>
     <message>
-        <source>Failed to spend zCRS</source>
-        <translation>Не удалось провести zCRS</translation>
+        <source>Failed to spend zCRSX</source>
+        <translation>Не удалось провести zCRSX</translation>
     </message>
     <message>
         <source>Failed to fetch mint associated with serial hash</source>
@@ -2986,7 +2986,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message numerus="yes">
         <source>PrivacyDialog</source>
-        <comment>Enter an amount of CRS to convert to zCRS</comment>
+        <comment>Enter an amount of CRSX to convert to zCRSX</comment>
         <translation><numerusform>PrivacyDialog</numerusform><numerusform>PrivacyDialog</numerusform><numerusform>PrivacyDialog</numerusform><numerusform>PrivacyDialog</numerusform></translation>
     </message>
     <message>
@@ -3029,8 +3029,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Сумма</translation>
     </message>
     <message>
-        <source>Enter a CRS address (e.g. %1)</source>
-        <translation>Введите адрес CRS (например %1)</translation>
+        <source>Enter a CRSX address (e.g. %1)</source>
+        <translation>Введите адрес CRSX (например %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -3167,8 +3167,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Блокчейн</translation>
     </message>
     <message>
-        <source>Open the CRS debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Открыть протокол отладки CRS. Это может занять некоторе время, если файл протокола очень большой.</translation>
+        <source>Open the CRSX debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Открыть протокол отладки CRSX. Это может занять некоторе время, если файл протокола очень большой.</translation>
     </message>
     <message>
         <source>Number of Masternodes</source>
@@ -3303,8 +3303,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Пользовательский путь резервного копирования:</translation>
     </message>
     <message>
-        <source>Custom zCRS Backup Path:</source>
-        <translation>Пользовательский путь резервного копирования zCRS:</translation>
+        <source>Custom zCRSX Backup Path:</source>
+        <translation>Пользовательский путь резервного копирования zCRSX:</translation>
     </message>
     <message>
         <source>Custom Backups Threshold:</source>
@@ -3384,8 +3384,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Вывод:</translation>
     </message>
     <message>
-        <source>Welcome to the CRS RPC console.</source>
-        <translation>Добро пожаловать в окружение CRS RPC.</translation>
+        <source>Welcome to the CRSX RPC console.</source>
+        <translation>Добро пожаловать в окружение CRSX RPC.</translation>
     </message>
     <message>
         <source>&amp;Disconnect Node</source>
@@ -3511,16 +3511,16 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Дополнительный ярлык для связи с новым адресом приема.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the CRS network.</source>
-        <translation>Необязательное сообщение для присоединения к платежному запросу, которое будет отображаться при открытии запроса. Примечание. Сообщение не будет отправлено с оплатой через сеть CRS.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the CRSX network.</source>
+        <translation>Необязательное сообщение для присоединения к платежному запросу, которое будет отображаться при открытии запроса. Примечание. Сообщение не будет отправлено с оплатой через сеть CRSX.</translation>
     </message>
     <message>
         <source>RECEIVE</source>
         <translation>ПОЛУЧАТЬ</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the CRS network.</source>
-        <translation>Необязательное сообщение для присоединения к платежному запросу, которое будет отображаться при открытии запроса. &lt;br&gt;Примечание. Сообщение не будет отправлено с оплатой через сеть CRS.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the CRSX network.</source>
+        <translation>Необязательное сообщение для присоединения к платежному запросу, которое будет отображаться при открытии запроса. &lt;br&gt;Примечание. Сообщение не будет отправлено с оплатой через сеть CRSX.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -3748,8 +3748,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>UTXO Размер:</translation>
     </message>
     <message>
-        <source>0 CRS</source>
-        <translation>0 CRS</translation>
+        <source>0 CRSX</source>
+        <translation>0 CRSX</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -3804,16 +3804,16 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Монеты автоматически выбираются</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uCRSs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uCRSs in fee,&lt;br /&gt;while "at least" pays 1000 uCRSs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Если пользовательская плата установлена в 1000 uCRSs, а транзакция составляет всего 250 байт, тогда «за килобайт» платит только 250 uCRSs,&lt;br /&gt;а «по крайней мере» платит 1000 uCRS. Для транзакций, превышающих килобайт, оплата за килобайт</translation>
+        <source>If the custom fee is set to 1000 uCRSXs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uCRSXs in fee,&lt;br /&gt;while "at least" pays 1000 uCRSXs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Если пользовательская плата установлена в 1000 uCRSXs, а транзакция составляет всего 250 байт, тогда «за килобайт» платит только 250 uCRSXs,&lt;br /&gt;а «по крайней мере» платит 1000 uCRSX. Для транзакций, превышающих килобайт, оплата за килобайт</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uCRSs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uCRSs in fee,&lt;br /&gt;while "total at least" pays 1000 uCRSs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Если пользовательская плата установлена в 1000 uCRSs, а транзакция составляет всего 250 байт, тогда «за килобайт» платит только 250 uCRSs,&lt;br /&gt;а «по крайней мере» платит 1000 uCRS. Для транзакций, превышающих килобайт, оплата за килобайт</translation>
+        <source>If the custom fee is set to 1000 uCRSXs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uCRSXs in fee,&lt;br /&gt;while "total at least" pays 1000 uCRSXs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Если пользовательская плата установлена в 1000 uCRSXs, а транзакция составляет всего 250 байт, тогда «за килобайт» платит только 250 uCRSXs,&lt;br /&gt;а «по крайней мере» платит 1000 uCRSX. Для транзакций, превышающих килобайт, оплата за килобайт</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for CRS transactions than the network can process.</source>
-        <translation>Платить только минимальную плату просто отлично, если в блоке меньше объема транзакции, чем места в блоке.&lt;br /&gt; Но имейте в виду, что это может закончиться никогда не подтверждающей транзакцией, если будет больше спроса на транзакции CRS, чем сеть может обрабатывать.</translation>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for CRSX transactions than the network can process.</source>
+        <translation>Платить только минимальную плату просто отлично, если в блоке меньше объема транзакции, чем места в блоке.&lt;br /&gt; Но имейте в виду, что это может закончиться никогда не подтверждающей транзакцией, если будет больше спроса на транзакции CRSX, чем сеть может обрабатывать.</translation>
     </message>
     <message>
         <source>normal</source>
@@ -3860,8 +3860,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Добавить &amp;Получателя</translation>
     </message>
     <message>
-        <source>Anonymized CRS</source>
-        <translation>Анонимный CRS</translation>
+        <source>Anonymized CRSX</source>
+        <translation>Анонимный CRSX</translation>
     </message>
     <message>
         <source>Balance:</source>
@@ -3908,8 +3908,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Инструмент разделения блоков не работает с несколькими адресами. Попробуй еще раз.</translation>
     </message>
     <message>
-        <source>Warning: Invalid CRS address</source>
-        <translation>Предупреждение: неправильный CRS адрес</translation>
+        <source>Warning: Invalid CRSX address</source>
+        <translation>Предупреждение: неправильный CRSX адрес</translation>
     </message>
     <message>
         <source>%1 to %2</source>
@@ -4011,8 +4011,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Оплатить &amp;кому:</translation>
     </message>
     <message>
-        <source>The CRS address to send the payment to</source>
-        <translation>Адрес CRS для отправки платежа</translation>
+        <source>The CRSX address to send the payment to</source>
+        <translation>Адрес CRSX для отправки платежа</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -4051,8 +4051,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Сообщение:</translation>
     </message>
     <message>
-        <source>A message that was attached to the CRS: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the CRS network.</source>
-        <translation>Сообщение, которое было прикреплено к URI CRS: URI, который будет сохранен с транзакцией для вашей справки. Примечание. Это сообщение не будет отправлено через сеть CRS.</translation>
+        <source>A message that was attached to the CRSX: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the CRSX network.</source>
+        <translation>Сообщение, которое было прикреплено к URI CRSX: URI, который будет сохранен с транзакцией для вашей справки. Примечание. Это сообщение не будет отправлено через сеть CRSX.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -4078,8 +4078,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>CRS Core is shutting down...</source>
-        <translation>CRS Core выключается...</translation>
+        <source>CRSX Core is shutting down...</source>
+        <translation>CRSX Core выключается...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -4101,8 +4101,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Вы можете подписывать сообщения с вашими адресами, чтобы доказать, что вы ими владеете. Будьте осторожны, чтобы не подписывать ничего неопределенного, поскольку фишинг-атаки могут попытаться обмануть вас, подписав вашу личность на них. Подпишите только полные подробные заявления, с которыми вы согласны.</translation>
     </message>
     <message>
-        <source>The CRS address to sign the message with</source>
-        <translation>Адрес CRS для подписи сообщения с помощью</translation>
+        <source>The CRSX address to sign the message with</source>
+        <translation>Адрес CRSX для подписи сообщения с помощью</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -4133,16 +4133,16 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Копировать текущую подпись в системный буфер обмена</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this CRS address</source>
-        <translation>Подпишите сообщение, чтобы подтвердить свой адрес CRS</translation>
+        <source>Sign the message to prove you own this CRSX address</source>
+        <translation>Подпишите сообщение, чтобы подтвердить свой адрес CRSX</translation>
     </message>
     <message>
-        <source>The CRS address the message was signed with</source>
-        <translation>Адрес CRS, которым подписано сообщение</translation>
+        <source>The CRSX address the message was signed with</source>
+        <translation>Адрес CRSX, которым подписано сообщение</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified CRS address</source>
-        <translation>Проверте сообщение, чтобы убедиться, что оно было подписано указанным CRS адресом </translation>
+        <source>Verify the message to ensure it was signed with the specified CRSX address</source>
+        <translation>Проверте сообщение, чтобы убедиться, что оно было подписано указанным CRSX адресом </translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -4228,8 +4228,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>CRS Core</source>
-        <translation>CRS Core</translation>
+        <source>CRSX Core</source>
+        <translation>CRSX Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -4244,8 +4244,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Разработчики Dash Core</translation>
     </message>
     <message>
-        <source>The CRS Core developers</source>
-        <translation>Разработчики CRS Core</translation>
+        <source>The CRSX Core developers</source>
+        <translation>Разработчики CRSX Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -4524,12 +4524,12 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Получено через обфускацию</translation>
     </message>
     <message>
-        <source>CRS Stake</source>
-        <translation>Доля CRS</translation>
+        <source>CRSX Stake</source>
+        <translation>Доля CRSX</translation>
     </message>
     <message>
-        <source>zCRS Stake</source>
-        <translation>Доля zCRS</translation>
+        <source>zCRSX Stake</source>
+        <translation>Доля zCRSX</translation>
     </message>
     <message>
         <source>Obfuscation Denominate</source>
@@ -4548,32 +4548,32 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Обфускация Создание конфессий</translation>
     </message>
     <message>
-        <source>Converted CRS to zCRS</source>
-        <translation>Преобразованный CRS в zCRS</translation>
+        <source>Converted CRSX to zCRSX</source>
+        <translation>Преобразованный CRSX в zCRSX</translation>
     </message>
     <message>
-        <source>Spent zCRS</source>
-        <translation>потраченный zCRS</translation>
+        <source>Spent zCRSX</source>
+        <translation>потраченный zCRSX</translation>
     </message>
     <message>
-        <source>Received CRS from zCRS</source>
-        <translation>Полученный CRS от zCRS</translation>
+        <source>Received CRSX from zCRSX</source>
+        <translation>Полученный CRSX от zCRSX</translation>
     </message>
     <message>
-        <source>Minted Change as zCRS from zCRS Spend</source>
-        <translation>созданная  замена  zCRS из потраенного zCRS </translation>
+        <source>Minted Change as zCRSX from zCRSX Spend</source>
+        <translation>созданная  замена  zCRSX из потраенного zCRSX </translation>
     </message>
     <message>
-        <source>Converted zCRS to CRS</source>
-        <translation>Преобразованный zCRS to CRS</translation>
+        <source>Converted zCRSX to CRSX</source>
+        <translation>Преобразованный zCRSX to CRSX</translation>
     </message>
     <message>
-        <source>Anonymous (zCRS Transaction)</source>
-        <translation>Анонимный (транзакция zCRS)</translation>
+        <source>Anonymous (zCRSX Transaction)</source>
+        <translation>Анонимный (транзакция zCRSX)</translation>
     </message>
     <message>
-        <source>Anonymous (zCRS Stake)</source>
-        <translation>Анонимный (ставка zCRS)</translation>
+        <source>Anonymous (zCRSX Stake)</source>
+        <translation>Анонимный (ставка zCRSX)</translation>
     </message>
     <message>
         <source>Sent to</source>
@@ -4783,12 +4783,12 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Экспортирование произошло успешно</translation>
     </message>
     <message>
-        <source>Received CRS from zCRS</source>
-        <translation>Полученный CRS от zCRS</translation>
+        <source>Received CRSX from zCRSX</source>
+        <translation>Полученный CRSX от zCRSX</translation>
     </message>
     <message>
-        <source>Zerocoin Spend, Change in zCRS</source>
-        <translation>Потратить Zerocoin, Преобразовать в zCRS</translation>
+        <source>Zerocoin Spend, Change in zCRSX</source>
+        <translation>Потратить Zerocoin, Преобразовать в zCRSX</translation>
     </message>
     <message>
         <source>The transaction history was successfully saved to %1.</source>
@@ -4824,8 +4824,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Отправить Монеты</translation>
     </message>
     <message>
-        <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 CRS.</source>
-        <translation>SwiftX не поддерживает отправку значений, которые еще высоки. В настоящее время транзакции ограничены %1 CRS.</translation>
+        <source>SwiftX doesn't support sending values that high yet. Transactions are currently limited to %1 CRSX.</source>
+        <translation>SwiftX не поддерживает отправку значений, которые еще высоки. В настоящее время транзакции ограничены %1 CRSX.</translation>
     </message>
 </context>
 <context>
@@ -4856,10 +4856,10 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
 </context>
 <context>
-    <name>ZCRSControlDialog</name>
+    <name>ZCRSXControlDialog</name>
     <message>
-        <source>Select zCRS to Spend</source>
-        <translation>Выберите zCRS чтобы потратить</translation>
+        <source>Select zCRSX to Spend</source>
+        <translation>Выберите zCRSX чтобы потратить</translation>
     </message>
     <message>
         <source>Quantity</source>
@@ -4870,8 +4870,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>0</translation>
     </message>
     <message>
-        <source>zCRS</source>
-        <translation>zCRS</translation>
+        <source>zCRSX</source>
+        <translation>zCRSX</translation>
     </message>
     <message>
         <source>Select/Deselect All</source>
@@ -4909,8 +4909,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Расчетная контрольная точка  не является тем, что регистрируется блочным индексом</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. CRS Core is probably already running.</source>
-        <translation>Не удается получить блокировку в каталоге данных %s. CRS Core, вероятно, уже запущен.</translation>
+        <source>Cannot obtain a lock on data directory %s. CRSX Core is probably already running.</source>
+        <translation>Не удается получить блокировку в каталоге данных %s. CRSX Core, вероятно, уже запущен.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -4937,16 +4937,16 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Распространяется по лицензии программного обеспечения MIT, см. Сопроводительный файл COPYING или &lt;http://www.opensource.org/licenses/mit-license.php&gt;.</translation>
     </message>
     <message>
-        <source>Enable automatic wallet backups triggered after each zCRS minting (0-1, default: %u)</source>
-        <translation>Включить автоматическое резервное копирование кошелька, запускаемое после каждого чеканки zCRS (0-1, по умолчанию: %u)</translation>
+        <source>Enable automatic wallet backups triggered after each zCRSX minting (0-1, default: %u)</source>
+        <translation>Включить автоматическое резервное копирование кошелька, запускаемое после каждого чеканки zCRSX (0-1, по умолчанию: %u)</translation>
     </message>
     <message>
-        <source>Enable or disable staking functionality for CRS inputs (0-1, default: %u)</source>
-        <translation>Включение или отключение функций разбивки для входов CRS (0-1, по умолчанию: %u)</translation>
+        <source>Enable or disable staking functionality for CRSX inputs (0-1, default: %u)</source>
+        <translation>Включение или отключение функций разбивки для входов CRSX (0-1, по умолчанию: %u)</translation>
     </message>
     <message>
-        <source>Enable or disable staking functionality for zCRS inputs (0-1, default: %u)</source>
-        <translation>Включение или отключение функций разбивки для входов zCRS (0-1, по умолчанию: %u)</translation>
+        <source>Enable or disable staking functionality for zCRSX inputs (0-1, default: %u)</source>
+        <translation>Включение или отключение функций разбивки для входов zCRSX (0-1, по умолчанию: %u)</translation>
     </message>
     <message>
         <source>Enable spork administration functionality with the appropriate private key.</source>
@@ -4981,12 +4981,12 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Выполнить команду, когда лучший блок изменяется (%s в cmd заменяется блочным хэшем)</translation>
     </message>
     <message>
-        <source>Fees (in CRS/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Тарифы (в CRS / Kb), меньшие, чем это, считаются нулевой комиссией за ретрансляцию (по умолчанию: %s)</translation>
+        <source>Fees (in CRSX/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Тарифы (в CRSX / Kb), меньшие, чем это, считаются нулевой комиссией за ретрансляцию (по умолчанию: %s)</translation>
     </message>
     <message>
-        <source>Fees (in CRS/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Плата (в CRS / Kb) меньше этого считается нулевой комиссией за создание транзакции (по умолчанию: %s)</translation>
+        <source>Fees (in CRSX/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>Плата (в CRSX / Kb) меньше этого считается нулевой комиссией за создание транзакции (по умолчанию: %s)</translation>
     </message>
     <message>
         <source>Flush database activity from memory pool to disk log every &lt;n&gt; megabytes (default: %u)</source>
@@ -5085,20 +5085,20 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Этот продукт включает программное обеспечение, разработанное OpenSSL Project для использования в OpenSSL Toolkit &lt;https://www.openssl.org/&gt; и криптографическом программном обеспечении, написанном Эриком Яном и программным обеспечением UPnP, написанным Томасом Бернардом.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. CRS Core is probably already running.</source>
-        <translation>Не удалось привязать к %s на этом компьютере. CRS Core, вероятно, уже запущен.</translation>
+        <source>Unable to bind to %s on this computer. CRSX Core is probably already running.</source>
+        <translation>Не удалось привязать к %s на этом компьютере. CRSX Core, вероятно, уже запущен.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
         <translation>Не удалось найти достаточное количество средств, предназначенных для обфускации, для этой транзакции.</translation>
     </message>
     <message>
-        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 CRS.</source>
-        <translation>Невозможно найти достаточное количество средств, не предназначенных для обфускации, для этой транзакции, которые не равны 10000 CRS.</translation>
+        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 CRSX.</source>
+        <translation>Невозможно найти достаточное количество средств, не предназначенных для обфускации, для этой транзакции, которые не равны 10000 CRSX.</translation>
     </message>
     <message>
-        <source>Unable to locate enough funds for this transaction that are not equal 10000 CRS.</source>
-        <translation>Не удалось найти достаточное количество средств для этой транзакции, которые не равны 10000 CRS.</translation>
+        <source>Unable to locate enough funds for this transaction that are not equal 10000 CRSX.</source>
+        <translation>Не удалось найти достаточное количество средств для этой транзакции, которые не равны 10000 CRSX.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
@@ -5113,8 +5113,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Предупреждение: -paytxfee установлен очень высоко! Это комиссия за транзакцию, которую вы заплатите, если вы отправляете транзакцию.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong CRS Core will not work properly.</source>
-        <translation>Внимание: проверьте правильность даты и времени вашего компьютера! Если ваши часы ошибочны, CRS Core не будет работать должным образом.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong CRSX Core will not work properly.</source>
+        <translation>Внимание: проверьте правильность даты и времени вашего компьютера! Если ваши часы ошибочны, CRSX Core не будет работать должным образом.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -5265,8 +5265,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Copyright (C) 2014-%i Разработчики Dash Core</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The CRS Core Developers</source>
-        <translation>Copyright (C) 2015-%i Разработчики CRS Core</translation>
+        <source>Copyright (C) 2015-%i The CRSX Core Developers</source>
+        <translation>Copyright (C) 2015-%i Разработчики CRSX Core</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -5353,8 +5353,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Ошибка при загрузке wallet.dat: Кошелек поврежден</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of CRS Core</source>
-        <translation>Ошибка загрузки wallet.dat: Кошелек требует более новой версии CRS Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of CRSX Core</source>
+        <translation>Ошибка загрузки wallet.dat: Кошелек требует более новой версии CRSX Core</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -5409,8 +5409,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Не удалось прочитать блок</translation>
     </message>
     <message>
-        <source>Fee (in CRS/kB) to add to transactions you send (default: %s)</source>
-        <translation>Плата (в CRS / kB) для добавления к транзакциям, которые вы отправляете (по умолчанию: %s)</translation>
+        <source>Fee (in CRSX/kB) to add to transactions you send (default: %s)</source>
+        <translation>Плата (в CRSX / kB) для добавления к транзакциям, которые вы отправляете (по умолчанию: %s)</translation>
     </message>
     <message>
         <source>Finalizing transaction.</source>
@@ -5469,8 +5469,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Информация</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. CRS Core is shutting down.</source>
-        <translation>Инициализация проверки работоспособности не удалась. CRS Core отключается.</translation>
+        <source>Initialization sanity check failed. CRSX Core is shutting down.</source>
+        <translation>Инициализация проверки работоспособности не удалась. CRSX Core отключается.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -5541,8 +5541,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Процент автоматически отчеканенного Zerocoin (1-100, по умолчанию: %u)</translation>
     </message>
     <message>
-        <source>Reindex the CRS and zCRS money supply statistics</source>
-        <translation>Reindex статистика денежной массы CRS и zCRS</translation>
+        <source>Reindex the CRSX and zCRSX money supply statistics</source>
+        <translation>Reindex статистика денежной массы CRSX и zCRSX</translation>
     </message>
     <message>
         <source>Reindexing zerocoin database...</source>
@@ -5581,8 +5581,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
 </translation>
     </message>
     <message>
-        <source>Disable all CRS specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
-        <translation>Отключите все специфические функции CRS (Masternodes, Zerocoin, SwiftX, Бюджетирование) (0-1, по умолчанию: %u)</translation>
+        <source>Disable all CRSX specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
+        <translation>Отключите все специфические функции CRSX (Masternodes, Zerocoin, SwiftX, Бюджетирование) (0-1, по умолчанию: %u)</translation>
     </message>
     <message>
         <source>Enable SwiftX, show confirmations for locked transactions (bool, default: %s)</source>
@@ -5617,8 +5617,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Предпочтительный номинал для автоматически чеканившегося Zerocoin (1/5/10/50/100/500/1000/5000), 0 без предпочтений. default: %u)</translation>
     </message>
     <message>
-        <source>Specify custom backup path to add a copy of any automatic zCRS backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup. If backuppath is set as well, 4 backups will happen</source>
-        <translation>Укажите собственный путь резервного копирования, чтобы добавить копию любой автоматической резервной копии zCRS. Если задано как dir, каждая резервная копия генерирует файл с отметкой времени. Если он установлен как файл, он будет переписывать в этот файл каждую резервную копию. Если также установлен резервный путь, произойдет 4 резервных копии</translation>
+        <source>Specify custom backup path to add a copy of any automatic zCRSX backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup. If backuppath is set as well, 4 backups will happen</source>
+        <translation>Укажите собственный путь резервного копирования, чтобы добавить копию любой автоматической резервной копии zCRSX. Если задано как dir, каждая резервная копия генерирует файл с отметкой времени. Если он установлен как файл, он будет переписывать в этот файл каждую резервную копию. Если также установлен резервный путь, произойдет 4 резервных копии</translation>
     </message>
     <message>
         <source>Specify custom backup path to add a copy of any wallet backup. If set as dir, every backup generates a timestamped file. If set as file, will rewrite to that file every backup.</source>
@@ -6117,8 +6117,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Синхронизация спорков ...</translation>
     </message>
     <message>
-        <source>Syncing zCRS wallet...</source>
-        <translation>Синхронизация zCRS кошелька ...</translation>
+        <source>Syncing zCRSX wallet...</source>
+        <translation>Синхронизация zCRSX кошелька ...</translation>
     </message>
     <message>
         <source>The coin spend has been used</source>
@@ -6265,8 +6265,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Имя пользователя для соединений JSON-RPC</translation>
     </message>
     <message>
-        <source>Value is below the smallest available denomination (= 1) of zCRS</source>
-        <translation>Значение ниже наименьшего доступного номинала (= 1) zCRS</translation>
+        <source>Value is below the smallest available denomination (= 1) of zCRSX</source>
+        <translation>Значение ниже наименьшего доступного номинала (= 1) zCRSX</translation>
     </message>
     <message>
         <source>Value more than Obfuscation pool maximum allows.</source>
@@ -6281,8 +6281,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Проверка кошелька ...</translation>
     </message>
     <message>
-        <source>Version 1 zCRS require a security level of 100 to successfully spend.</source>
-        <translation>Для версии 1 zCRS требуется уровень безопасности 100, который можно успешно тратить.</translation>
+        <source>Version 1 zCRSX require a security level of 100 to successfully spend.</source>
+        <translation>Для версии 1 zCRSX требуется уровень безопасности 100, который можно успешно тратить.</translation>
     </message>
     <message>
         <source>Wallet %s resides outside data directory %s</source>
@@ -6293,8 +6293,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Кошелек заблокирован.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart CRS Core to complete</source>
-        <translation>Кошелек необходимо переписать: перезапустите CRS Core, чтобы завершить</translation>
+        <source>Wallet needed to be rewritten: restart CRSX Core to complete</source>
+        <translation>Кошелек необходимо переписать: перезапустите CRSX Core, чтобы завершить</translation>
     </message>
     <message>
         <source>Wallet options:</source>

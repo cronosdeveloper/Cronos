@@ -127,7 +127,7 @@ public:
 };
 
 /**
- * CRS RPC command dispatcher.
+ * CRSX RPC command dispatcher.
  */
 class CRPCTable
 {

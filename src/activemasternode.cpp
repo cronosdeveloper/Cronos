@@ -13,7 +13,7 @@
 #include "spork.h"
 
 //
-// Bootup the Masternode, look for a 15000 CRS input and register on the network
+// Bootup the Masternode, look for a 15000 CRSX input and register on the network
 //
 void CActiveMasternode::ManageStatus()
 {

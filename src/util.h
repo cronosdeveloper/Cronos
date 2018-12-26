@@ -30,7 +30,7 @@
 #include <boost/filesystem/path.hpp>
 #include <boost/thread/exceptions.hpp>
 
-//CRS only features
+//CRSX only features
 
 extern bool fMasterNode;
 extern bool fLiteMode;
@@ -213,7 +213,7 @@ void RenameThread(const char* name);
 template <typename Callable>
 void TraceThread(const char* name, Callable func)
 {
-    std::string s = strprintf("crs-%s", name);
+    std::string s = strprintf("crsx-%s", name);
     RenameThread(s.c_str());
     try {
         LogPrintf("%s thread start\n", name);

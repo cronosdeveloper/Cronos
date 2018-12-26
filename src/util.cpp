@@ -106,7 +106,7 @@ std::string to_internal(const std::string&);
 
 using namespace std;
 
-// CRS only features
+// CRSX only features
 // Masternode
 bool fMasterNode = false;
 string strMasterNodePrivKey = "";
@@ -238,8 +238,8 @@ bool LogAcceptCategory(const char* category)
             const vector<string>& categories = mapMultiArgs["-debug"];
             ptrCategory.reset(new set<string>(categories.begin(), categories.end()));
             // thread_specific_ptr automatically deletes the set when the thread ends.
-            // "crs" is a composite category enabling all CRS-related debug output
-            if (ptrCategory->count(string("crs"))) {
+            // "crsx" is a composite category enabling all CRSX-related debug output
+            if (ptrCategory->count(string("crsx"))) {
                 ptrCategory->insert(string("obfuscation"));
                 ptrCategory->insert(string("swiftx"));
                 ptrCategory->insert(string("masternode"));
@@ -404,7 +404,7 @@ static std::string FormatException(std::exception* pex, const char* pszThread)
     char pszModule[MAX_PATH] = "";
     GetModuleFileNameA(NULL, pszModule, sizeof(pszModule));
 #else
-    const char* pszModule = "crs";
+    const char* pszModule = "crsx";
 #endif
     if (pex)
         return strprintf(

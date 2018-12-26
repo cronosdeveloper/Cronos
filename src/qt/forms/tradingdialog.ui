@@ -181,7 +181,7 @@
       <string>Asks</string>
      </property>
     </widget>
-    <widget class="QLabel" name="CRSSupply">
+    <widget class="QLabel" name="CRSXSupply">
      <property name="geometry">
       <rect>
        <x>540</x>
@@ -197,7 +197,7 @@
       <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
      </property>
     </widget>
-    <widget class="QLabel" name="CRSDemand">
+    <widget class="QLabel" name="CRSXDemand">
      <property name="geometry">
       <rect>
        <x>160</x>
@@ -432,7 +432,7 @@
     <attribute name="title">
      <string>Buy</string>
     </attribute>
-    <widget class="QPushButton" name="BuyCRS">
+    <widget class="QPushButton" name="BuyCRSX">
      <property name="geometry">
       <rect>
        <x>30</x>
@@ -442,7 +442,7 @@
       </rect>
      </property>
      <property name="text">
-      <string>Buy CRS</string>
+      <string>Buy CRSX</string>
      </property>
      <property name="icon">
       <iconset resource="../cronos.qrc">
@@ -512,7 +512,7 @@
       </rect>
      </property>
      <property name="text">
-      <string>CRS</string>
+      <string>CRSX</string>
      </property>
     </widget>
     <widget class="QLabel" name="label_5">
@@ -1704,10 +1704,10 @@
       </rect>
      </property>
      <property name="text">
-      <string>CRS</string>
+      <string>CRSX</string>
      </property>
     </widget>
-    <widget class="QLineEdit" name="UnitsInputCRS">
+    <widget class="QLineEdit" name="UnitsInputCRSX">
      <property name="geometry">
       <rect>
        <x>310</x>
@@ -1741,7 +1741,7 @@
       </font>
      </property>
     </widget>
-    <widget class="QPushButton" name="SellCRSBTN">
+    <widget class="QPushButton" name="SellCRSXBTN">
      <property name="geometry">
       <rect>
        <x>30</x>
@@ -1751,7 +1751,7 @@
       </rect>
      </property>
      <property name="text">
-      <string>Sell CRS</string>
+      <string>Sell CRSX</string>
      </property>
      <property name="icon">
       <iconset resource="../cronos">
@@ -1777,12 +1777,12 @@
          </font>
         </property>
         <property name="text">
-         <string>CRS Available:</string>
+         <string>CRSX Available:</string>
         </property>
        </widget>
       </item>
       <item>
-       <widget class="QLabel" name="CRSAvailableLabel">
+       <widget class="QLabel" name="CRSXAvailableLabel">
         <property name="palette">
          <palette>
           <active>
@@ -2213,7 +2213,7 @@
        </widget>
       </item>
       <item>
-       <widget class="QLabel" name="labelCRS">
+       <widget class="QLabel" name="labelCRSX">
         <property name="font">
          <font>
           <weight>75</weight>
@@ -2221,7 +2221,7 @@
          </font>
         </property>
         <property name="text">
-         <string>CRS</string>
+         <string>CRSX</string>
         </property>
        </widget>
       </item>
@@ -2733,7 +2733,7 @@
       <string>TextLabel</string>
      </property>
     </widget>
-    <widget class="QLabel" name="CRSBalanceLabel">
+    <widget class="QLabel" name="CRSXBalanceLabel">
      <property name="geometry">
       <rect>
        <x>150</x>
@@ -2762,7 +2762,7 @@
       </font>
      </property>
      <property name="text">
-      <string>CRS Balance:</string>
+      <string>CRSX Balance:</string>
      </property>
     </widget>
     <widget class="QLabel" name="label_12">
@@ -2784,7 +2784,7 @@
       <string>BTC Balance:</string>
      </property>
     </widget>
-    <widget class="QLabel" name="CRSAvailableLabel_2">
+    <widget class="QLabel" name="CRSXAvailableLabel_2">
      <property name="geometry">
       <rect>
        <x>150</x>
@@ -2813,7 +2813,7 @@
       </font>
      </property>
      <property name="text">
-      <string>CRS Available:</string>
+      <string>CRSX Available:</string>
      </property>
     </widget>
     <widget class="QLabel" name="label_14">
@@ -2832,10 +2832,10 @@
       </font>
      </property>
      <property name="text">
-      <string>CRS Pending:</string>
+      <string>CRSX Pending:</string>
      </property>
     </widget>
-    <widget class="QLabel" name="CRSPendingLabel">
+    <widget class="QLabel" name="CRSXPendingLabel">
      <property name="geometry">
       <rect>
        <x>150</x>
@@ -2928,7 +2928,7 @@
       </font>
      </property>
      <property name="text">
-      <string>Bittrex CRS Deposit Address:</string>
+      <string>Bittrex CRSX Deposit Address:</string>
      </property>
     </widget>
     <widget class="QPushButton" name="GenDepositBTN">
@@ -2941,7 +2941,7 @@
       </rect>
      </property>
      <property name="text">
-      <string>Generate CRS Deposit Address</string>
+      <string>Generate CRSX Deposit Address</string>
      </property>
      <property name="icon">
       <iconset resource="../cronos.qrc">

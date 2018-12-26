@@ -3,8 +3,8 @@
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef CRS_STAKEINPUT_H
-#define CRS_STAKEINPUT_H
+#ifndef CRSX_STAKEINPUT_H
+#define CRSX_STAKEINPUT_H
 
 class CKeyStore;
 class CWallet;
@@ -88,4 +88,4 @@ public:
 };
 
 
-#endif //CRS_STAKEINPUT_H
+#endif //CRSX_STAKEINPUT_H
