@@ -24,3 +24,12 @@
 article > div > p {
   font-weight: 100 !important;
 }
+
+.presale-link {
+  margin-top: 15px;
+  margin-bottom: 30px;
+}
+
+.presale-link a {
+  color: #3780d4 !important;
+}
