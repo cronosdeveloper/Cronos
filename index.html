@@ -258,31 +258,62 @@
     <section class="color1">
       <div class="container">
         <div class="row" data-nekoanim="fadeInUp" data-nekodelay="0">
-          <div class="col-md-6 pt40 pb20">
-            <h1>Presale</h1>
-            <h2 class="subTitle presale-link"><a href="https://www.cronoscoin.online/presale/">Join our masternode
-                presale
-                now!</a></h2>
 
-            <h2 class="mt20">How it works</h2>
-
-            <p>To participate in the masternode presale, you have to ensure you have an Ethereum capable wallet like
-              Metamask (for desktop systems) or Trust Wallet (for smartphone users).</p>
-            <p>Please take a look at the explainer video to see how the system works and how you participate in our
-              masternode presale.</p>
+          <div class="col-md-12 text-center pt30 pb10">
+            <h1>Cronos | CRSX coin presale</h1>
           </div>
 
-          <div class="col-md-6 text-center pt40 pb20">
-            <div class="">
-              <video style="max-width:100%; height:auto" controls>
-                <source src="videos/cronos_presale_explainer.mp4" type="video/mp4">
-                Your browser does not support the video tag.
-              </video>
+          <div class="col-sm-6 pt30 pb30">
+            <h2>Direct buy | BTC</h2>
+
+            <p>
+              After clicking the button you will be redirected to the checkout gateway. Please make sure you provide
+              your CSRX wallet address. We'll send your coins after we received the full payment.
+            </p>
+
+            <div>
+              <form action="https://www.coinpayments.net/index.php" method="post">
+                <input type="hidden" name="cmd" value="_cart_add">
+                <input type="hidden" name="reset" value="1">
+                <input type="hidden" name="merchant" value="f3ffd92678ec7f2408f97abbc4f44e60">
+                <input type="hidden" name="want_shipping" value="0">
+                <input type="hidden" name="cart_name" value="Cronos coins">
+                <input type="hidden" name="currency" value="USD">
+                <input type="hidden" name="amountf" value="0.25">
+                <input type="hidden" name="allow_quantity" value="1">
+                <input type="hidden" name="item_number" value="CRSX">
+                <input type="hidden" name="item_name" value="Cronos coins">
+
+                <input class="d-inline-block form-control form-control-sm address-width" type="text" name="custom"
+                  title="CRSX destination address e.g. CVyEPv3aAKhrzHSyvuyiiJRgPTRr1fG97u" placeholder="CRSX destination address"
+                  required>
+
+                <button style="margin-top: 10px" class="d-inline-block form-control btn btn-default" type="submit">Click
+                  to buy your
+                  coins now</button>
+              </form>
+            </div>
+          </div>
+
+          <div class="col-sm-6 pt30 pb30">
+            <h2>Bonus gateway | ETH</h2>
+
+            <p>
+              We also provide an automated, smart contract based payment gateway built on top of the Ethereum
+              blockchain. You need Metamask or the Trust wallet for interacting with the system.
+            </p>
+
+            <div style="width: 100%;">
+              <a style="font-size:18px;margin-left: auto;margin-right: auto;display: block;margin-top:35px;" class="presale-link-color text-center" href="https://www.cronoscoin.online/presale_bonus/"
+                target="_blank">Bonus
+                presale
+                gateway</a>
             </div>
           </div>
         </div>
       </div>
 
+      <hr class="lineLines">
 
       <section class="pt30">
         <div class="container">
